@@ -233,7 +233,7 @@
                   <i class="far fa-calendar-check"></i>
                 </span>
                 <span class="post-meta-item-text">更新于</span>
-                <time title="修改时间：2021-03-30 12:23:44" itemprop="dateModified" datetime="2021-03-30T12:23:44+08:00">2021-03-30</time>
+                <time title="修改时间：2021-03-30 13:34:55" itemprop="dateModified" datetime="2021-03-30T13:34:55+08:00">2021-03-30</time>
               </span>
             <span class="post-meta-item">
               <span class="post-meta-item-icon">
@@ -270,7 +270,13 @@
     <div class="post-body" itemprop="articleBody">
 
       
-          <h4 id="标题"><a href="#标题" class="headerlink" title="标题"></a>标题</h4><h1 id="一级标题"><a href="#一级标题" class="headerlink" title="一级标题"></a>一级标题</h1><h2 id="二级标题"><a href="#二级标题" class="headerlink" title="二级标题"></a>二级标题</h2><h3 id="三级标题"><a href="#三级标题" class="headerlink" title="三级标题"></a>三级标题</h3><h4 id="四级标题"><a href="#四级标题" class="headerlink" title="四级标题"></a>四级标题</h4><h5 id="五级标题"><a href="#五级标题" class="headerlink" title="五级标题"></a>五级标题</h5><h6 id="六级标题"><a href="#六级标题" class="headerlink" title="六级标题"></a>六级标题</h6>
+          <h4 id="标题"><a class="markdownIt-Anchor" href="#标题"></a> 标题</h4>
+<h1 id="一级标题"><a class="markdownIt-Anchor" href="#一级标题"></a> 一级标题</h1>
+<h2 id="二级标题"><a class="markdownIt-Anchor" href="#二级标题"></a> 二级标题</h2>
+<h3 id="三级标题"><a class="markdownIt-Anchor" href="#三级标题"></a> 三级标题</h3>
+<h4 id="四级标题"><a class="markdownIt-Anchor" href="#四级标题"></a> 四级标题</h4>
+<h5 id="五级标题"><a class="markdownIt-Anchor" href="#五级标题"></a> 五级标题</h5>
+<h6 id="六级标题"><a class="markdownIt-Anchor" href="#六级标题"></a> 六级标题</h6>
           <!--noindex-->
             <div class="post-button">
               <a class="btn" href="/2021/03/29/Makedown/#more" rel="contents">
@@ -356,7 +362,7 @@
     <div class="post-body" itemprop="articleBody">
 
       
-          <p><strong>博客之旅，正式启程。</strong> </p>
+          <p><strong>博客之旅，正式启程。</strong></p>
 <p><strong>Blog tour, officially set off.</strong></p>
 
       
@@ -559,58 +565,8 @@
 
   
       
+<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/katex@0/dist/katex.min.css">
 
-<script>
-  if (typeof MathJax === 'undefined') {
-    window.MathJax = {
-      loader: {
-        source: {
-          '[tex]/amsCd': '[tex]/amscd',
-          '[tex]/AMScd': '[tex]/amscd'
-        }
-      },
-      tex: {
-        inlineMath: {'[+]': [['$', '$']]},
-        tags: 'ams'
-      },
-      options: {
-        renderActions: {
-          findScript: [10, doc => {
-            document.querySelectorAll('script[type^="math/tex"]').forEach(node => {
-              const display = !!node.type.match(/; *mode=display/);
-              const math = new doc.options.MathItem(node.textContent, doc.inputJax[0], display);
-              const text = document.createTextNode('');
-              node.parentNode.replaceChild(text, node);
-              math.start = {node: text, delim: '', n: 0};
-              math.end = {node: text, delim: '', n: 0};
-              doc.math.push(math);
-            });
-          }, '', false],
-          insertedScript: [200, () => {
-            document.querySelectorAll('mjx-container').forEach(node => {
-              let target = node.parentNode;
-              if (target.nodeName.toLowerCase() === 'li') {
-                target.parentNode.classList.add('has-jax');
-              }
-            });
-          }, '', false]
-        }
-      }
-    };
-    (function () {
-      var script = document.createElement('script');
-      script.src = '[object Object]';
-      script.defer = true;
-      document.head.appendChild(script);
-    })();
-  } else {
-    MathJax.startup.document.state(0);
-    MathJax.texReset();
-    MathJax.typeset();
-  }
-</script>
-
-    
 
   
 

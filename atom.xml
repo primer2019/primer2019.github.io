@@ -6,7 +6,7 @@
   <link href="https://primer2019.github.io/atom.xml" rel="self"/>
   
   <link href="https://primer2019.github.io/"/>
-  <updated>2021-03-30T14:35:58.114Z</updated>
+  <updated>2021-03-30T14:51:21.390Z</updated>
   <id>https://primer2019.github.io/</id>
   
   <author>
@@ -17,11 +17,36 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Makedown</title>
-    <link href="https://primer2019.github.io/2021/03/29/Makedown/"/>
-    <id>https://primer2019.github.io/2021/03/29/Makedown/</id>
+    <title>个人博客项目</title>
+    <link href="https://primer2019.github.io/2021/03/30/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E9%A1%B9%E7%9B%AE/"/>
+    <id>https://primer2019.github.io/2021/03/30/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E9%A1%B9%E7%9B%AE/</id>
+    <published>2021-03-30T14:44:19.000Z</published>
+    <updated>2021-03-30T14:51:21.390Z</updated>
+    
+    
+    
+    
+    <category term="计算机技术" scheme="https://primer2019.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="Blog" scheme="https://primer2019.github.io/tags/Blog/"/>
+    
+    <category term="Hexo" scheme="https://primer2019.github.io/tags/Hexo/"/>
+    
+    <category term="NexT" scheme="https://primer2019.github.io/tags/NexT/"/>
+    
+    <category term="Git" scheme="https://primer2019.github.io/tags/Git/"/>
+    
+    <category term="GitHub" scheme="https://primer2019.github.io/tags/GitHub/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Markdown</title>
+    <link href="https://primer2019.github.io/2021/03/29/Markdown/"/>
+    <id>https://primer2019.github.io/2021/03/29/Markdown/</id>
     <published>2021-03-29T05:30:45.000Z</published>
-    <updated>2021-03-30T14:35:58.114Z</updated>
+    <updated>2021-03-30T14:49:31.039Z</updated>
     
     <content type="html"><![CDATA[<h4 id="标题"><a class="markdownIt-Anchor" href="#标题"></a> 标题</h4><h1 id="一级标题"><a class="markdownIt-Anchor" href="#一级标题"></a> 一级标题</h1><h2 id="二级标题"><a class="markdownIt-Anchor" href="#二级标题"></a> 二级标题</h2><h3 id="三级标题"><a class="markdownIt-Anchor" href="#三级标题"></a> 三级标题</h3><h4 id="四级标题"><a class="markdownIt-Anchor" href="#四级标题"></a> 四级标题</h4><h5 id="五级标题"><a class="markdownIt-Anchor" href="#五级标题"></a> 五级标题</h5><h6 id="六级标题"><a class="markdownIt-Anchor" href="#六级标题"></a> 六级标题</h6><a id="more"></a><br/><br/><br/><h4 id="段落"><a class="markdownIt-Anchor" href="#段落"></a> 段落</h4><p>现实总是令人遗憾的。<strong>（回车键：下一段，可在两段之间再添加空行，全凭个人喜好。&lt;br/&gt;：显式换行符号）</strong></p><p>我们当中太多人已经习惯于沿着那一成不变的“典型成功道路”前进：中考，高考，考研，出国……<strong>（shift+回车键：段内换行）</strong><br />数不清的人们在埋头赶路。走在前面的已然迷失，跟在后面的却还未开始思考。这不应该是一个国家、一个时代的精神。</p><br/><br/><br/><h4 id="字体"><a class="markdownIt-Anchor" href="#字体"></a> 字体</h4><p><em>斜体文本</em></p><p><em>斜体文本</em></p><br/><p><strong>粗体文本</strong></p><p><strong>粗体文本</strong></p><br/><p><em><strong>粗斜体文本</strong></em></p><p><em><strong>粗斜体文本</strong></em></p><br/><br/><br/><h4 id="分隔线"><a class="markdownIt-Anchor" href="#分隔线"></a> 分隔线</h4><hr /><hr /><hr /><p><strong>（三个及三个以上均可建立分隔线；行内不能有其他东西；符号间可任意插入空格）</strong></p><br/><br/><br/><h4 id="删除线"><a class="markdownIt-Anchor" href="#删除线"></a> 删除线</h4><p><s>删除线</s></p><br/><br/><br/><h4 id="下划线"><a class="markdownIt-Anchor" href="#下划线"></a> 下划线</h4><p><u>下划线</u><strong>（HTML标签）</strong></p><br/><br/><br/><h4 id="脚注"><a class="markdownIt-Anchor" href="#脚注"></a> 脚注</h4><p>创建脚注格式类似这样<sup class="footnote-ref"><a href="#fn1" id="fnref1">[1]</a></sup></p><p>创建脚注格式类似这样<sup class="footnote-ref"><a href="#fn2" id="fnref2">[2]</a></sup></p><br/><br/><br/><h4 id="无序列表"><a class="markdownIt-Anchor" href="#无序列表"></a> 无序列表</h4><ul><li>第一项</li><li>第二项</li><li>第三项</li></ul><br/><ul><li>第一项</li><li>第二项</li><li>第三项</li></ul><br/><ul><li>第一项</li><li>第二项</li><li>第三项</li></ul><br/><br/><br/><h4 id="有序列表"><a class="markdownIt-Anchor" href="#有序列表"></a> 有序列表</h4><ol><li>第一项</li><li>第二项</li><li>第三项</li></ol><br/><br/><br/><h4 id="列表嵌套"><a class="markdownIt-Anchor" href="#列表嵌套"></a> 列表嵌套</h4><ul><li>第一项 <strong>（回车+退格）</strong><ul><li>第一项嵌套的第一个元素</li><li>第一项嵌套的第二个元素 <strong>（四次回车）</strong></li></ul></li></ul><br/><ol><li><p>第一项</p><ul><li><p>第一项嵌套的第一个元素</p></li><li><p>第一项嵌套的第二个元素</p></li></ul></li></ol><br/><ul><li>第一项<ol><li>第一项嵌套的第一个元素</li><li>第一项嵌套的第二个元素</li></ol></li></ul><br/><ol><li>第一项<ol><li>第一项嵌套的第一个元素</li><li>第一项嵌套的第二个元素</li></ol></li></ol><br/><br/><br/><h4 id="区块"><a class="markdownIt-Anchor" href="#区块"></a> 区块</h4><blockquote><p>区块引用</p></blockquote><br/><blockquote><p>区块最外层</p><blockquote><p>第一层嵌套</p><blockquote><p>第二层嵌套</p><blockquote><p>…</p></blockquote></blockquote></blockquote></blockquote><br/><blockquote><p>区块中使用列表</p><ul><li>第一项</li><li>第二项</li><li>…</li></ul></blockquote><br/><ul><li><p>列表中使用区块</p><blockquote><p>区块</p></blockquote></li></ul><br/><br/><br/><h4 id="代码"><a class="markdownIt-Anchor" href="#代码"></a> 代码</h4><p><code>code</code></p><br/><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"></span><br></pre></td></tr></table></figure><p><strong>（code block；语言可不指定；按 ↓ 键跳出代码块继续创作）</strong></p><br/><br/><br/><h4 id="链接"><a class="markdownIt-Anchor" href="#链接"></a> 链接</h4><p><a href="https://primer2019.github.io/">我的博客（链接名称）</a></p><br/><p><a href="https://primer2019.github.io/">https://primer2019.github.io/</a></p><br/><p>这个链接用1作为网址变量 <a href="https://www.google.com/">Google</a></p><p>这个链接用2作为网址变量 <a href="https://github.com/">GitHub</a></p><p>（用这种方式可以在文档结尾统一为变量赋值）</p><br/><br/><br/><h4 id="图片"><a class="markdownIt-Anchor" href="#图片"></a> 图片</h4><p><img src="/images/%E8%B7%AF.jpg" alt="alt 路" title="路" /></p><br/><p><img src="/images/%E8%AF%BB%E4%B9%A6.jpg" alt="alt 读书" title="读书" /></p><p><strong>（小括号中的&quot;图片地址&quot;为 本地位置 或 网址 均可。）</strong></p><br/><p><a href="http://static.runoob.com/images/runoob-logo.png">RUNOOB</a></p><p><strong>（为变量赋值只能用 网址 。）</strong></p><br/><img src="http://static.runoob.com/images/runoob-logo.png" width="200％"><p><strong>（markdown没有办法指定图片的高度与宽度，有需要的话，可直接使用HTML的&lt;img&gt;标签）</strong></p><br/><br/><br/><h4 id="表格"><a class="markdownIt-Anchor" href="#表格"></a> 表格</h4><table><thead><tr><th style="text-align:left">表头</th><th style="text-align:center">表头</th><th style="text-align:right">表头</th></tr></thead><tbody><tr><td style="text-align:left">单元格</td><td style="text-align:center">单元格</td><td style="text-align:right">单元格</td></tr></tbody></table><br/><br/><br/><h4 id="注"><a class="markdownIt-Anchor" href="#注"></a> 注</h4><ul><li><p><strong>用markdown难以实现的功能，可以直接用HTML撰写。</strong></p></li><li><p><strong>markdown使用了很多特殊符号表示特定的意义，因此如果要显示这些特定的符号，需要使用转义字符。markdown使用 \ 转义特殊字符。</strong></p><p>\   `   *   _   {}   []   ()   #   +   -   .   !</p></li><li><p><strong>可以使用两个美元符 $$ 包裹 TeX 或 LaTeX 格式的数学公式来实现数学公式的插入。</strong></p></li></ul><p><span class="katex-display"><span class="katex"><span class="katex-mathml"><math><semantics><mtable rowspacing="0.15999999999999992em" columnspacing="1em"><mtr><mtd><mstyle scriptlevel="0" displaystyle="false"><mn>1</mn></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="false"><mn>2</mn></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="false"><mn>3</mn></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="false"><mn>4</mn></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="false"><mn>5</mn></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="false"><mn>6</mn></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="false"><mn>7</mn></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="false"><mn>8</mn></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="false"><mn>9</mn></mstyle></mtd></mtr></mtable><annotation encoding="application/x-tex">\begin{matrix}   1 &amp; 2 &amp; 3 \\   4 &amp; 5 &amp; 6 \\   7 &amp; 8 &amp; 9  \end{matrix}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:3.6000000000000005em;vertical-align:-1.5500000000000007em;"></span><span class="mord"><span class="mtable"><span class="col-align-c"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:2.05em;"><span style="top:-4.21em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord">1</span></span></span><span style="top:-3.0099999999999993em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord">4</span></span></span><span style="top:-1.8099999999999994em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord">7</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:1.5500000000000007em;"><span></span></span></span></span></span><span class="arraycolsep" style="width:0.5em;"></span><span class="arraycolsep" style="width:0.5em;"></span><span class="col-align-c"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:2.05em;"><span style="top:-4.21em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord">2</span></span></span><span style="top:-3.0099999999999993em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord">5</span></span></span><span style="top:-1.8099999999999994em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord">8</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:1.5500000000000007em;"><span></span></span></span></span></span><span class="arraycolsep" style="width:0.5em;"></span><span class="arraycolsep" style="width:0.5em;"></span><span class="col-align-c"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:2.05em;"><span style="top:-4.21em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord">3</span></span></span><span style="top:-3.0099999999999993em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord">6</span></span></span><span style="top:-1.8099999999999994em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord">9</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:1.5500000000000007em;"><span></span></span></span></span></span></span></span></span></span></span></span></p><hr class="footnotes-sep" /><section class="footnotes"><ol class="footnotes-list"><li id="fn1" class="footnote-item"><p>Independence <a href="#fnref1" class="footnote-backref">↩︎</a></p></li><li id="fn2" class="footnote-item"><p>Freedom <a href="#fnref2" class="footnote-backref">↩︎</a></p></li></ol></section>]]></content>
     
@@ -39,9 +64,9 @@
     <category term="计算机技术" scheme="https://primer2019.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8A%80%E6%9C%AF/"/>
     
     
-    <category term="markdown" scheme="https://primer2019.github.io/tags/markdown/"/>
+    <category term="Languages" scheme="https://primer2019.github.io/tags/Languages/"/>
     
-    <category term="编程语言" scheme="https://primer2019.github.io/tags/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/"/>
+    <category term="Markdown" scheme="https://primer2019.github.io/tags/Markdown/"/>
     
   </entry>
   

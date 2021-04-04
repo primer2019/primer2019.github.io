@@ -6,7 +6,7 @@
   <link href="https://primer2019.github.io/atom.xml" rel="self"/>
   
   <link href="https://primer2019.github.io/"/>
-  <updated>2021-04-04T14:38:11.337Z</updated>
+  <updated>2021-04-04T15:10:00.143Z</updated>
   <id>https://primer2019.github.io/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>我</title>
+    <link href="https://primer2019.github.io/2021/04/04/%E6%88%91/"/>
+    <id>https://primer2019.github.io/2021/04/04/%E6%88%91/</id>
+    <published>2021-04-04T15:03:54.000Z</published>
+    <updated>2021-04-04T15:10:00.143Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="/images/%E6%88%91.jpg" alt="alt 我" title="我" /></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/images/%E6%88%91.jpg&quot; alt=&quot;alt 我&quot; title=&quot;我&quot; /&gt;&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    <category term="认识自我" scheme="https://primer2019.github.io/categories/%E8%AE%A4%E8%AF%86%E8%87%AA%E6%88%91/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>英语学习指南</title>

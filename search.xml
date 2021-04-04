@@ -1,6 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>我</title>
+    <url>/2021/04/04/%E6%88%91/</url>
+    <content><![CDATA[<p><img src="/images/%E6%88%91.jpg" alt="alt 我" title="我" /></p>
+]]></content>
+      <categories>
+        <category>认识自我</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>英语学习指南</title>
+    <url>/2021/04/04/%E8%8B%B1%E8%AF%AD%E5%AD%A6%E4%B9%A0%E6%8C%87%E5%8D%97/</url>
+    <content><![CDATA[]]></content>
+      <categories>
+        <category>关键技能</category>
+      </categories>
+      <tags>
+        <tag>Languages</tag>
+        <tag>English</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>个人博客项目</title>
+    <url>/2021/03/30/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E9%A1%B9%E7%9B%AE/</url>
+    <content><![CDATA[<h3 id="一-初衷"><a class="markdownIt-Anchor" href="#一-初衷"></a> 一、初衷</h3>
+<h3 id="二-技术选型"><a class="markdownIt-Anchor" href="#二-技术选型"></a> 二、技术选型</h3>
+<h3 id="三-安装-部署"><a class="markdownIt-Anchor" href="#三-安装-部署"></a> 三、安装、部署</h3>
+<h3 id="四-配置"><a class="markdownIt-Anchor" href="#四-配置"></a> 四、配置</h3>
+<h3 id="五-问题汇总"><a class="markdownIt-Anchor" href="#五-问题汇总"></a> 五、问题汇总</h3>
+<h3 id="六-复盘-总结"><a class="markdownIt-Anchor" href="#六-复盘-总结"></a> 六、复盘、总结</h3>
+]]></content>
+      <categories>
+        <category>计算机技术</category>
+      </categories>
+      <tags>
+        <tag>Blog</tag>
+        <tag>Hexo</tag>
+        <tag>NexT</tag>
+        <tag>Git</tag>
+        <tag>GitHub</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Markdown</title>
     <url>/2021/03/29/Markdown/</url>
     <content><![CDATA[<h4 id="标题"><a class="markdownIt-Anchor" href="#标题"></a> 标题</h4>
@@ -260,43 +302,10 @@
       </tags>
   </entry>
   <entry>
-    <title>个人博客项目</title>
-    <url>/2021/03/30/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E9%A1%B9%E7%9B%AE/</url>
-    <content><![CDATA[<h3 id="一-初衷"><a class="markdownIt-Anchor" href="#一-初衷"></a> 一、初衷</h3>
-<h3 id="二-技术选型"><a class="markdownIt-Anchor" href="#二-技术选型"></a> 二、技术选型</h3>
-<h3 id="三-安装-部署"><a class="markdownIt-Anchor" href="#三-安装-部署"></a> 三、安装、部署</h3>
-<h3 id="四-配置"><a class="markdownIt-Anchor" href="#四-配置"></a> 四、配置</h3>
-<h3 id="五-问题汇总"><a class="markdownIt-Anchor" href="#五-问题汇总"></a> 五、问题汇总</h3>
-<h3 id="六-复盘-总结"><a class="markdownIt-Anchor" href="#六-复盘-总结"></a> 六、复盘、总结</h3>
-]]></content>
-      <categories>
-        <category>计算机技术</category>
-      </categories>
-      <tags>
-        <tag>Blog</tag>
-        <tag>Hexo</tag>
-        <tag>NexT</tag>
-        <tag>Git</tag>
-        <tag>GitHub</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>HelloBlog</title>
     <url>/2021/03/28/HelloBlog/</url>
     <content><![CDATA[<p><strong>博客之旅，正式启程。</strong></p>
 <p><strong>Blog tour, officially set off.</strong></p>
 ]]></content>
-  </entry>
-  <entry>
-    <title>英语学习指南</title>
-    <url>/2021/04/04/%E8%8B%B1%E8%AF%AD%E5%AD%A6%E4%B9%A0%E6%8C%87%E5%8D%97/</url>
-    <content><![CDATA[]]></content>
-      <categories>
-        <category>关键技能</category>
-      </categories>
-      <tags>
-        <tag>Languages</tag>
-        <tag>English</tag>
-      </tags>
   </entry>
 </search>

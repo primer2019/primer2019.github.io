@@ -6,7 +6,7 @@
   <link href="https://primer2019.github.io/atom.xml" rel="self"/>
   
   <link href="https://primer2019.github.io/"/>
-  <updated>2021-03-30T14:51:21.390Z</updated>
+  <updated>2021-04-04T14:38:11.337Z</updated>
   <id>https://primer2019.github.io/</id>
   
   <author>
@@ -17,12 +17,39 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>英语学习指南</title>
+    <link href="https://primer2019.github.io/2021/04/04/%E8%8B%B1%E8%AF%AD%E5%AD%A6%E4%B9%A0%E6%8C%87%E5%8D%97/"/>
+    <id>https://primer2019.github.io/2021/04/04/%E8%8B%B1%E8%AF%AD%E5%AD%A6%E4%B9%A0%E6%8C%87%E5%8D%97/</id>
+    <published>2021-04-04T14:31:02.000Z</published>
+    <updated>2021-04-04T14:38:11.337Z</updated>
+    
+    
+    
+    
+    <category term="关键技能" scheme="https://primer2019.github.io/categories/%E5%85%B3%E9%94%AE%E6%8A%80%E8%83%BD/"/>
+    
+    
+    <category term="Languages" scheme="https://primer2019.github.io/tags/Languages/"/>
+    
+    <category term="English" scheme="https://primer2019.github.io/tags/English/"/>
+    
+  </entry>
+  
+  <entry>
     <title>个人博客项目</title>
     <link href="https://primer2019.github.io/2021/03/30/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E9%A1%B9%E7%9B%AE/"/>
     <id>https://primer2019.github.io/2021/03/30/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E9%A1%B9%E7%9B%AE/</id>
     <published>2021-03-30T14:44:19.000Z</published>
-    <updated>2021-03-30T14:51:21.390Z</updated>
+    <updated>2021-03-31T10:52:56.940Z</updated>
     
+    <content type="html"><![CDATA[<h3 id="一-初衷"><a class="markdownIt-Anchor" href="#一-初衷"></a> 一、初衷</h3><h3 id="二-技术选型"><a class="markdownIt-Anchor" href="#二-技术选型"></a> 二、技术选型</h3><h3 id="三-安装-部署"><a class="markdownIt-Anchor" href="#三-安装-部署"></a> 三、安装、部署</h3><h3 id="四-配置"><a class="markdownIt-Anchor" href="#四-配置"></a> 四、配置</h3><h3 id="五-问题汇总"><a class="markdownIt-Anchor" href="#五-问题汇总"></a> 五、问题汇总</h3><h3 id="六-复盘-总结"><a class="markdownIt-Anchor" href="#六-复盘-总结"></a> 六、复盘、总结</h3>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h3 id=&quot;一-初衷&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#一-初衷&quot;&gt;&lt;/a&gt; 一、初衷&lt;/h3&gt;
+&lt;h3 id=&quot;二-技术选型&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#二-技术选型&quot;&gt;&lt;/a&gt; 二、技术</summary>
+      
     
     
     

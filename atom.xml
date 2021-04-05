@@ -6,7 +6,7 @@
   <link href="https://primer2019.github.io/atom.xml" rel="self"/>
   
   <link href="https://primer2019.github.io/"/>
-  <updated>2021-04-05T12:25:14.013Z</updated>
+  <updated>2021-04-05T12:50:46.657Z</updated>
   <id>https://primer2019.github.io/</id>
   
   <author>
@@ -21,19 +21,41 @@
     <link href="https://primer2019.github.io/2021/04/05/%E5%BF%AB%E9%80%9F%E5%AD%A6%E4%B9%A0/"/>
     <id>https://primer2019.github.io/2021/04/05/%E5%BF%AB%E9%80%9F%E5%AD%A6%E4%B9%A0/</id>
     <published>2021-04-05T11:45:03.000Z</published>
-    <updated>2021-04-05T12:25:14.013Z</updated>
+    <updated>2021-04-05T12:50:46.657Z</updated>
     
-    <content type="html"><![CDATA[<ol><li><p>历史的视角，尤其是对于存在抽象的目标来说，比如计算机技术</p><blockquote><p>学习技术发展史的重要意义正在于此：追溯的历史越久远，技术的脉络就变得越清晰。因此，我们需要做的就是确定某些关键的历史阶段，在这些阶段，技术最天然、最本质的一面将清晰可见。</p><p>​——《编码：隐匿在计算机软硬件背后的语言》</p></blockquote></li><li><p>思维导图</p></li><li><p>费曼学习法</p></li><li><p>刻意练习</p></li><li><p>遗忘曲线</p></li><li><p>反馈</p><ul><li><p>主动型反馈</p></li><li><p>被动型反馈</p></li></ul></li></ol>]]></content>
+    <content type="html"><![CDATA[<ol><li><p>历史的视角，尤其是对于存在抽象的目标来说，比如计算机技术</p><blockquote><p>学习技术发展史的重要意义正在于此：追溯的历史越久远，技术的脉络就变得越清晰。因此，我们需要做的就是确定某些关键的历史阶段，在这些阶段，技术最天然、最本质的一面将清晰可见。</p><p>​——《编码：隐匿在计算机软硬件背后的语言》</p></blockquote></li><li><p>思维导图</p></li><li><p>费曼学习法</p></li><li><p>刻意练习</p></li><li><p>遗忘曲线</p></li><li><p>反馈</p><ul><li>主动型反馈</li></ul></li></ol><ul><li>被动型反馈</li></ul><a id="more"></a>]]></content>
     
     
-      
-      
     <summary type="html">&lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;历史的视角，尤其是对于存在抽象的目标来说，比如计算机技术&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;学习技术发展史的重要意义正在于此：追溯的历史越久远，技术的脉络就变得越清晰。因此，我们需要做的就是确定某些关键的历史阶段，在这些阶段，技术最天然、最本质的一</summary>
-      
+&lt;p&gt;学习技术发展史的重要意义正在于此：追溯的历史越久远，技术的脉络就变得越清晰。因此，我们需要做的就是确定某些关键的历史阶段，在这些阶段，技术最天然、最本质的一面将清晰可见。&lt;/p&gt;
+&lt;p&gt;​																								——《编码：隐匿在计算机软硬件背后的语言》&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;思维导图&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;费曼学习法&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;刻意练习&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;遗忘曲线&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;反馈&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;主动型反馈&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;被动型反馈&lt;/li&gt;
+&lt;/ul&gt;</summary>
     
     
     
@@ -49,7 +71,7 @@
     <link href="https://primer2019.github.io/2021/04/04/%E6%88%91/"/>
     <id>https://primer2019.github.io/2021/04/04/%E6%88%91/</id>
     <published>2021-04-04T15:03:54.000Z</published>
-    <updated>2021-04-04T15:10:00.143Z</updated>
+    <updated>2021-04-05T12:52:28.057Z</updated>
     
     <content type="html"><![CDATA[<p><img src="/images/%E6%88%91.jpg" alt="alt 我" title="我" /></p>]]></content>
     
@@ -62,8 +84,6 @@
     
     
     
-    <category term="认识自我" scheme="https://primer2019.github.io/categories/%E8%AE%A4%E8%AF%86%E8%87%AA%E6%88%91/"/>
-    
     
   </entry>
   
@@ -72,8 +92,15 @@
     <link href="https://primer2019.github.io/2021/04/04/%E8%8B%B1%E8%AF%AD%E5%AD%A6%E4%B9%A0%E6%8C%87%E5%8D%97/"/>
     <id>https://primer2019.github.io/2021/04/04/%E8%8B%B1%E8%AF%AD%E5%AD%A6%E4%B9%A0%E6%8C%87%E5%8D%97/</id>
     <published>2021-04-04T14:31:02.000Z</published>
-    <updated>2021-04-04T14:38:11.337Z</updated>
+    <updated>2021-04-05T12:52:59.620Z</updated>
     
+    <content type="html"><![CDATA[<a id="more"></a>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;</summary>
+      
     
     
     
@@ -91,16 +118,17 @@
     <link href="https://primer2019.github.io/2021/03/30/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E9%A1%B9%E7%9B%AE/"/>
     <id>https://primer2019.github.io/2021/03/30/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E9%A1%B9%E7%9B%AE/</id>
     <published>2021-03-30T14:44:19.000Z</published>
-    <updated>2021-03-31T10:52:56.940Z</updated>
+    <updated>2021-04-05T12:49:39.700Z</updated>
     
-    <content type="html"><![CDATA[<h3 id="一-初衷"><a class="markdownIt-Anchor" href="#一-初衷"></a> 一、初衷</h3><h3 id="二-技术选型"><a class="markdownIt-Anchor" href="#二-技术选型"></a> 二、技术选型</h3><h3 id="三-安装-部署"><a class="markdownIt-Anchor" href="#三-安装-部署"></a> 三、安装、部署</h3><h3 id="四-配置"><a class="markdownIt-Anchor" href="#四-配置"></a> 四、配置</h3><h3 id="五-问题汇总"><a class="markdownIt-Anchor" href="#五-问题汇总"></a> 五、问题汇总</h3><h3 id="六-复盘-总结"><a class="markdownIt-Anchor" href="#六-复盘-总结"></a> 六、复盘、总结</h3>]]></content>
+    <content type="html"><![CDATA[<h3 id="一-初衷"><a class="markdownIt-Anchor" href="#一-初衷"></a> 一、初衷</h3><h3 id="二-技术选型"><a class="markdownIt-Anchor" href="#二-技术选型"></a> 二、技术选型</h3><h3 id="三-安装-部署"><a class="markdownIt-Anchor" href="#三-安装-部署"></a> 三、安装、部署</h3><h3 id="四-配置"><a class="markdownIt-Anchor" href="#四-配置"></a> 四、配置</h3><h3 id="五-问题汇总"><a class="markdownIt-Anchor" href="#五-问题汇总"></a> 五、问题汇总</h3><h3 id="六-复盘-总结"><a class="markdownIt-Anchor" href="#六-复盘-总结"></a> 六、复盘、总结</h3><a id="more"></a>]]></content>
     
     
-      
-      
     <summary type="html">&lt;h3 id=&quot;一-初衷&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#一-初衷&quot;&gt;&lt;/a&gt; 一、初衷&lt;/h3&gt;
-&lt;h3 id=&quot;二-技术选型&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#二-技术选型&quot;&gt;&lt;/a&gt; 二、技术</summary>
-      
+&lt;h3 id=&quot;二-技术选型&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#二-技术选型&quot;&gt;&lt;/a&gt; 二、技术选型&lt;/h3&gt;
+&lt;h3 id=&quot;三-安装-部署&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#三-安装-部署&quot;&gt;&lt;/a&gt; 三、安装、部署&lt;/h3&gt;
+&lt;h3 id=&quot;四-配置&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#四-配置&quot;&gt;&lt;/a&gt; 四、配置&lt;/h3&gt;
+&lt;h3 id=&quot;五-问题汇总&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#五-问题汇总&quot;&gt;&lt;/a&gt; 五、问题汇总&lt;/h3&gt;
+&lt;h3 id=&quot;六-复盘-总结&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#六-复盘-总结&quot;&gt;&lt;/a&gt; 六、复盘、总结&lt;/h3&gt;</summary>
     
     
     
@@ -153,17 +181,13 @@
     <link href="https://primer2019.github.io/2021/03/28/HelloBlog/"/>
     <id>https://primer2019.github.io/2021/03/28/HelloBlog/</id>
     <published>2021-03-28T14:46:27.000Z</published>
-    <updated>2021-03-29T13:03:36.860Z</updated>
+    <updated>2021-04-05T12:49:49.081Z</updated>
     
-    <content type="html"><![CDATA[<p><strong>博客之旅，正式启程。</strong></p><p><strong>Blog tour, officially set off.</strong></p>]]></content>
+    <content type="html"><![CDATA[<p><strong>博客之旅，正式启程。</strong></p><p><strong>Blog tour, officially set off.</strong></p><a id="more"></a>]]></content>
     
     
-      
-      
     <summary type="html">&lt;p&gt;&lt;strong&gt;博客之旅，正式启程。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Blog tour, officially set off.&lt;/strong&gt;&lt;/p&gt;
-</summary>
-      
+&lt;p&gt;&lt;strong&gt;Blog tour, officially set off.&lt;/strong&gt;&lt;/p&gt;</summary>
     
     
     

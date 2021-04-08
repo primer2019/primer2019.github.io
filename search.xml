@@ -44,9 +44,6 @@
       <categories>
         <category>关键技能</category>
       </categories>
-      <tags>
-        <tag>Tips</tag>
-      </tags>
   </entry>
   <entry>
     <title>英语学习指南</title>
@@ -55,10 +52,6 @@
       <categories>
         <category>关键技能</category>
       </categories>
-      <tags>
-        <tag>Languages</tag>
-        <tag>English</tag>
-      </tags>
   </entry>
   <entry>
     <title>个人博客项目</title>
@@ -74,13 +67,6 @@
       <categories>
         <category>计算机技术</category>
       </categories>
-      <tags>
-        <tag>Blog</tag>
-        <tag>Hexo</tag>
-        <tag>NexT</tag>
-        <tag>Git</tag>
-        <tag>GitHub</tag>
-      </tags>
   </entry>
   <entry>
     <title>Markdown</title>
@@ -336,10 +322,6 @@
       <categories>
         <category>计算机技术</category>
       </categories>
-      <tags>
-        <tag>Languages</tag>
-        <tag>Markdown</tag>
-      </tags>
   </entry>
   <entry>
     <title>HelloBlog</title>

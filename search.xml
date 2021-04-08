@@ -1,72 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>我</title>
-    <url>/2021/04/04/%E6%88%91/</url>
-    <content><![CDATA[<p><img src="/images/%E6%88%91.jpg" alt="alt 我" title="我" /></p>
-]]></content>
-  </entry>
-  <entry>
-    <title>快速学习</title>
-    <url>/2021/04/05/%E5%BF%AB%E9%80%9F%E5%AD%A6%E4%B9%A0/</url>
-    <content><![CDATA[<ol>
-<li>
-<p>历史的视角，尤其是对于存在抽象的目标来说，比如计算机技术</p>
-<blockquote>
-<p>学习技术发展史的重要意义正在于此：追溯的历史越久远，技术的脉络就变得越清晰。因此，我们需要做的就是确定某些关键的历史阶段，在这些阶段，技术最天然、最本质的一面将清晰可见。</p>
-<p>​																								——《编码：隐匿在计算机软硬件背后的语言》</p>
-</blockquote>
-</li>
-<li>
-<p>思维导图</p>
-</li>
-<li>
-<p>费曼学习法</p>
-</li>
-<li>
-<p>刻意练习</p>
-</li>
-<li>
-<p>遗忘曲线</p>
-</li>
-<li>
-<p>反馈</p>
-<ul>
-<li>主动型反馈</li>
-</ul>
-</li>
-</ol>
-<ul>
-<li>被动型反馈</li>
-</ul>
+    <title>HelloBlog</title>
+    <url>/2021/03/28/HelloBlog/</url>
+    <content><![CDATA[<p><strong>博客之旅，正式启程。</strong></p>
+<p><strong>Blog tour, officially set off.</strong></p>
 <a id="more"></a>
 ]]></content>
-      <categories>
-        <category>关键技能</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>英语学习指南</title>
-    <url>/2021/04/04/%E8%8B%B1%E8%AF%AD%E5%AD%A6%E4%B9%A0%E6%8C%87%E5%8D%97/</url>
-    <content><![CDATA[<a id="more"></a>]]></content>
-      <categories>
-        <category>关键技能</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>个人博客项目</title>
-    <url>/2021/03/30/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E9%A1%B9%E7%9B%AE/</url>
-    <content><![CDATA[<h3 id="一-初衷"><a class="markdownIt-Anchor" href="#一-初衷"></a> 一、初衷</h3>
-<h3 id="二-技术选型"><a class="markdownIt-Anchor" href="#二-技术选型"></a> 二、技术选型</h3>
-<h3 id="三-安装-部署"><a class="markdownIt-Anchor" href="#三-安装-部署"></a> 三、安装、部署</h3>
-<h3 id="四-配置"><a class="markdownIt-Anchor" href="#四-配置"></a> 四、配置</h3>
-<h3 id="五-问题汇总"><a class="markdownIt-Anchor" href="#五-问题汇总"></a> 五、问题汇总</h3>
-<h3 id="六-复盘-总结"><a class="markdownIt-Anchor" href="#六-复盘-总结"></a> 六、复盘、总结</h3>
-<a id="more"></a>
-]]></content>
-      <categories>
-        <category>计算机技术</category>
-      </categories>
   </entry>
   <entry>
     <title>Markdown</title>
@@ -324,11 +264,71 @@
       </categories>
   </entry>
   <entry>
-    <title>HelloBlog</title>
-    <url>/2021/03/28/HelloBlog/</url>
-    <content><![CDATA[<p><strong>博客之旅，正式启程。</strong></p>
-<p><strong>Blog tour, officially set off.</strong></p>
+    <title>个人博客项目</title>
+    <url>/2021/03/30/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E9%A1%B9%E7%9B%AE/</url>
+    <content><![CDATA[<h3 id="一-初衷"><a class="markdownIt-Anchor" href="#一-初衷"></a> 一、初衷</h3>
+<h3 id="二-技术选型"><a class="markdownIt-Anchor" href="#二-技术选型"></a> 二、技术选型</h3>
+<h3 id="三-安装-部署"><a class="markdownIt-Anchor" href="#三-安装-部署"></a> 三、安装、部署</h3>
+<h3 id="四-配置"><a class="markdownIt-Anchor" href="#四-配置"></a> 四、配置</h3>
+<h3 id="五-问题汇总"><a class="markdownIt-Anchor" href="#五-问题汇总"></a> 五、问题汇总</h3>
+<h3 id="六-复盘-总结"><a class="markdownIt-Anchor" href="#六-复盘-总结"></a> 六、复盘、总结</h3>
 <a id="more"></a>
 ]]></content>
+      <categories>
+        <category>计算机技术</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>快速学习</title>
+    <url>/2021/04/05/%E5%BF%AB%E9%80%9F%E5%AD%A6%E4%B9%A0/</url>
+    <content><![CDATA[<ol>
+<li>
+<p>历史的视角，尤其是对于存在抽象的目标来说，比如计算机技术</p>
+<blockquote>
+<p>学习技术发展史的重要意义正在于此：追溯的历史越久远，技术的脉络就变得越清晰。因此，我们需要做的就是确定某些关键的历史阶段，在这些阶段，技术最天然、最本质的一面将清晰可见。</p>
+<p>​																								——《编码：隐匿在计算机软硬件背后的语言》</p>
+</blockquote>
+</li>
+<li>
+<p>思维导图</p>
+</li>
+<li>
+<p>费曼学习法</p>
+</li>
+<li>
+<p>刻意练习</p>
+</li>
+<li>
+<p>遗忘曲线</p>
+</li>
+<li>
+<p>反馈</p>
+<ul>
+<li>主动型反馈</li>
+</ul>
+</li>
+</ol>
+<ul>
+<li>被动型反馈</li>
+</ul>
+<a id="more"></a>
+]]></content>
+      <categories>
+        <category>关键技能</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>我</title>
+    <url>/2021/04/04/%E6%88%91/</url>
+    <content><![CDATA[<p><img src="/images/%E6%88%91.jpg" alt="alt 我" title="我" /></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>英语学习指南</title>
+    <url>/2021/04/04/%E8%8B%B1%E8%AF%AD%E5%AD%A6%E4%B9%A0%E6%8C%87%E5%8D%97/</url>
+    <content><![CDATA[<a id="more"></a>]]></content>
+      <categories>
+        <category>关键技能</category>
+      </categories>
   </entry>
 </search>

@@ -199,7 +199,7 @@
     <link href="https://primer2019.github.io/2021/12/04/%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98%E8%B5%84%E6%BA%90%E5%88%B6%E4%BD%9C%E6%8C%87%E5%8D%97/"/>
     <id>https://primer2019.github.io/2021/12/04/%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98%E8%B5%84%E6%BA%90%E5%88%B6%E4%BD%9C%E6%8C%87%E5%8D%97/</id>
     <published>2021-12-04T04:34:56.000Z</published>
-    <updated>2021-12-12T04:11:21.990Z</updated>
+    <updated>2021-12-12T04:16:46.784Z</updated>
     
     <content type="html"><![CDATA[<p>对百度网盘来说，很多资源如果直接上传，或者只压缩一个包，就会很容易炸。</p><p>炸的原因有很多，比如资源不和谐、版权、内鬼举报、孤儿在线解压等等。</p><span id="more"></span>  <br><p>所以为了资源防炸，一般会对资源做如下处理后，再上传分享：</p><p><strong>1 设置解压密码。</strong></p><p><strong>2 采取.7z格式压缩：百度网盘不支持在线解压该格式。</strong></p><p><strong>3 压缩时分卷压缩：分卷压缩会产生“a.7z.001”、“a.7z.002”这样后缀的压缩包。解压缩时，需要把所有文件名相同的压缩包“a.7z.*”都下载下来，然后选择“a.7z.001”文件进行解压，即可解压出全部资源，不需要修改后缀。</strong></p><p><strong>4 用和谐的名字给压缩包命名：例如“线性代数.7z.001”。</strong></p>  <br><p>这样一来，资源爆炸的概率大为降低，但是同时会导致一些缺陷：</p><p>1   合集资源不能单独解压。</p><p>2   不能在线解压。</p><p>3   有些手机不支持分卷解压等等。</p>  <br><p>如果下载的压缩包不能解压或者显示损坏，请检查：</p><p>1   是否全部分卷都下载下来了。</p><p>2   解压软件是否支持解压.7z格式的压缩包。</p>]]></content>
     
@@ -209,13 +209,13 @@
     
     
     
-    <category term="1. Self" scheme="https://primer2019.github.io/categories/1-Self/"/>
+    <category term="3. Self" scheme="https://primer2019.github.io/categories/3-Self/"/>
     
-    <category term="Individual" scheme="https://primer2019.github.io/categories/1-Self/Individual/"/>
+    <category term="Individual" scheme="https://primer2019.github.io/categories/3-Self/Individual/"/>
     
-    <category term="Money" scheme="https://primer2019.github.io/categories/1-Self/Individual/Money/"/>
+    <category term="Money" scheme="https://primer2019.github.io/categories/3-Self/Individual/Money/"/>
     
-    <category term="Working for Myself" scheme="https://primer2019.github.io/categories/1-Self/Individual/Money/Working-for-Myself/"/>
+    <category term="Working for Myself" scheme="https://primer2019.github.io/categories/3-Self/Individual/Money/Working-for-Myself/"/>
     
     
   </entry>

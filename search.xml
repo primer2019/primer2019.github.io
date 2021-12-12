@@ -180,7 +180,7 @@
 <p>2   解压软件是否支持解压.7z格式的压缩包。</p>
 ]]></content>
       <categories>
-        <category>Self</category>
+        <category>1. Self</category>
         <category>Individual</category>
         <category>Money</category>
         <category>Working for Myself</category>
@@ -189,7 +189,55 @@
   <entry>
     <title>关于我（5）-我的答案</title>
     <url>/2021/11/13/%E5%85%B3%E4%BA%8E%E6%88%91%EF%BC%885%EF%BC%89-%E6%88%91%E7%9A%84%E7%AD%94%E6%A1%88/</url>
-    <content><![CDATA[<span id="more"></span>
+    <content><![CDATA[<p>接下来，我将以文件目录的形式为你呈现，关于人生这回事儿，我基于自己的思考总结出的答案。你可以把它看作是我对自己人生的一个认知模型，也可以把它当作一个自我管理系统。</p>
+<span id="more"></span>
+<ol>
+<li>
+<p>Life</p>
+<p>Clothing</p>
+<p>Food</p>
+<p>Shelter</p>
+<p>Transportation</p>
+</li>
+</ol>
+<br>
+<ol start="2">
+<li>
+<p>Health</p>
+<p>Physical Health</p>
+<p>​	Physical Examination</p>
+<p>Mental Health</p>
+<p>Insurance</p>
+</li>
+</ol>
+<br>
+<ol start="3">
+<li>
+<p>Self</p>
+<p>Individual</p>
+<p>​	Money</p>
+<p>​		Working for Myself</p>
+<p>​		Working for Others</p>
+<p>Group Attribute</p>
+<p>​	Intimacy</p>
+<p>​	Social Relationship</p>
+<p>​	Strange Relationship-To the World</p>
+</li>
+</ol>
+<br>
+<ol start="4">
+<li>
+<p>Self-realization</p>
+<p>Computer</p>
+<p>English</p>
+<p>Music</p>
+<p>Sex</p>
+<p>…</p>
+</li>
+</ol>
+<br>
+<p>这就是我的答案，Yu’s blog的分类目录也将按照这个模型为你呈现。</p>
+<p>到这里，”关于我“的那些事儿差不多都讲完了。接下来，让我们一起开始这段博客之旅吧。</p>
 ]]></content>
       <categories>
         <category>关于我</category>
@@ -376,13 +424,5 @@
       <tags>
         <tag>关于我</tag>
       </tags>
-  </entry>
-  <entry>
-    <title>HelloBlog</title>
-    <url>/2021/03/28/HelloBlog/</url>
-    <content><![CDATA[<p><strong>博客之旅，正式启程。</strong></p>
-<p><strong>Blog tour, officially set off.</strong></p>
-<span id="more"></span>
-]]></content>
   </entry>
 </search>

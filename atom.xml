@@ -6,7 +6,7 @@
   <link href="https://primer2019.github.io/atom.xml" rel="self"/>
   
   <link href="https://primer2019.github.io/"/>
-  <updated>2021-12-14T15:31:07.365Z</updated>
+  <updated>2021-12-14T14:51:54.738Z</updated>
   <id>https://primer2019.github.io/</id>
   
   <author>
@@ -17,12 +17,43 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>每日推荐（11）</title>
+    <link href="https://primer2019.github.io/2021/12/15/%E6%AF%8F%E6%97%A5%E6%8E%A8%E8%8D%90%EF%BC%8811%EF%BC%89/"/>
+    <id>https://primer2019.github.io/2021/12/15/%E6%AF%8F%E6%97%A5%E6%8E%A8%E8%8D%90%EF%BC%8811%EF%BC%89/</id>
+    <published>2021-12-15T04:00:00.000Z</published>
+    <updated>2021-12-14T14:51:54.738Z</updated>
+    
+    <content type="html"><![CDATA[<p>今天推荐的是一个C语言教程：</p><p><strong>WangDoc: clang-tutorial</strong></p><span id="more"></span><br><p>这是它的链接：<a href="https://wangdoc.com/clang/">WangDoc: clang-tutorial</a></p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;今天推荐的是一个C语言教程：&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;WangDoc: clang-tutorial&lt;/strong&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="每日推荐" scheme="https://primer2019.github.io/categories/%E6%AF%8F%E6%97%A5%E6%8E%A8%E8%8D%90/"/>
+    
+    
+    <category term="每日推荐" scheme="https://primer2019.github.io/tags/%E6%AF%8F%E6%97%A5%E6%8E%A8%E8%8D%90/"/>
+    
+  </entry>
+  
+  <entry>
     <title>密码学</title>
     <link href="https://primer2019.github.io/2021/12/14/%E5%AF%86%E7%A0%81%E5%AD%A6/"/>
     <id>https://primer2019.github.io/2021/12/14/%E5%AF%86%E7%A0%81%E5%AD%A6/</id>
     <published>2021-12-14T15:17:16.000Z</published>
-    <updated>2021-12-14T15:31:07.365Z</updated>
+    <updated>2021-12-14T15:44:04.227Z</updated>
     
+    <content type="html"><![CDATA[<p>维基百科：</p><p><a href="https://zh.wikipedia.org/wiki/%E5%AF%86%E7%A0%81%E5%AD%A6">Wikipedia——密码学</a></p><p><a href="https://en.wikipedia.org/wiki/Cryptography">Wikipedia——Cryptography</a></p><br><p>CTF Wiki：</p><p><a href="https://ctf-wiki.org/crypto/introduction/">CTF Wiki——Crypto</a></p><span id="more"></span><br>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;维基百科：&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zh.wikipedia.org/wiki/%E5%AF%86%E7%A0%81%E5%AD%A6&quot;&gt;Wikipedia——密码学&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Cryptography&quot;&gt;Wikipedia——Cryptography&lt;/a&gt;&lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;CTF Wiki：&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://ctf-wiki.org/crypto/introduction/&quot;&gt;CTF Wiki——Crypto&lt;/a&gt;&lt;/p&gt;</summary>
     
     
     

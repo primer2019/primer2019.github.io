@@ -3,7 +3,8 @@
   <entry>
     <title>中文简历</title>
     <url>/2021/11/16/%E4%B8%AD%E6%96%87%E7%AE%80%E5%8E%86/</url>
-    <content><![CDATA[<center>
+    <content><![CDATA[<span id="more"></span>
+<center>
      <h1>XXX</h1>
  </center>
 <h2 id="个人信息"><a class="markdownIt-Anchor" href="#个人信息"></a> 个人信息</h2>
@@ -72,7 +73,8 @@
   <entry>
     <title>英文简历</title>
     <url>/2021/11/16/%E8%8B%B1%E6%96%87%E7%AE%80%E5%8E%86/</url>
-    <content><![CDATA[<center>
+    <content><![CDATA[<span id="more"></span>
+<center>
      <h1>XXX</h1>
  </center>
 <h2 id="个人信息"><a class="markdownIt-Anchor" href="#个人信息"></a> 个人信息</h2>

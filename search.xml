@@ -1,6 +1,157 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>中文简历</title>
+    <url>/2021/11/16/%E4%B8%AD%E6%96%87%E7%AE%80%E5%8E%86/</url>
+    <content><![CDATA[<center>
+     <h1>XXX</h1>
+ </center>
+<h2 id="个人信息"><a class="markdownIt-Anchor" href="#个人信息"></a> 个人信息</h2>
+<ul>
+<li>性 别：男             年 龄：25</li>
+<li>手 机：134XXXX3216          邮 箱：XXXXX@XXX.com</li>
+<li>专 业：计算机科学与计算       岗 位：研发工程师</li>
+</ul>
+<h2 id="工作及教育经历"><a class="markdownIt-Anchor" href="#工作及教育经历"></a> 工作及教育经历</h2>
+<ul>
+<li>前公司       2019.8~至今      事业群名字-部门名字</li>
+<li>XXXX大学     2017.9~2019.7     计算机科学与技术专业-研究生</li>
+<li>XXXX大学     2013.9~2017.7     计算机科学与技术专业-本科</li>
+</ul>
+<h2 id="专业技能"><a class="markdownIt-Anchor" href="#专业技能"></a> 专业技能</h2>
+<ul>
+<li>熟练使用 C++，掌握Go，了解 Java、Python、PHP 等编程语言</li>
+<li>掌握基础数据结构和算法的基本原理</li>
+<li>等等</li>
+</ul>
+<h2 id="项目经历"><a class="markdownIt-Anchor" href="#项目经历"></a> 项目经历</h2>
+<ol>
+<li>
+<p>公司/学校 - XXweb服务器 - 独立开发 - 201508- 201512</p>
+<ul>
+<li>具体功能</li>
+<li>运用了那些技术，技术难点是</li>
+<li>效果如何</li>
+<li>demo演示地址，github地址</li>
+</ul>
+</li>
+<li>
+<p>公司/学校 - XX游戏 - 负责后端开发 - 201309- 201401</p>
+<ul>
+<li>具体功能</li>
+<li>运用了那些技术，技术难点是</li>
+<li>效果如何</li>
+<li>demo演示地址，github地址</li>
+</ul>
+</li>
+</ol>
+<h2 id="获奖经历"><a class="markdownIt-Anchor" href="#获奖经历"></a> 获奖经历</h2>
+<ul>
+<li>XXX 优秀新人</li>
+<li>XXX 学生社团优秀干部</li>
+<li>竞赛 XXX 奖</li>
+</ul>
+<h2 id="个人账号"><a class="markdownIt-Anchor" href="#个人账号"></a> 个人账号</h2>
+<ul>
+<li>blog 地址 (附加自己博客特色，写了哪些技术文章)</li>
+<li>github 地址 (附加自己github特色，突出的项目)</li>
+</ul>
+<h2 id="其他信息"><a class="markdownIt-Anchor" href="#其他信息"></a> 其他信息</h2>
+<ul>
+<li>喜欢钻研技术 等等</li>
+<li>性格开朗，喜欢跳舞，做个主持人 等等</li>
+</ul>
+]]></content>
+      <categories>
+        <category>3 Self</category>
+        <category>Individual</category>
+        <category>Money</category>
+        <category>Working for Others</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>英文简历</title>
+    <url>/2021/11/16/%E8%8B%B1%E6%96%87%E7%AE%80%E5%8E%86/</url>
+    <content><![CDATA[<center>
+     <h1>XXX</h1>
+ </center>
+<h2 id="个人信息"><a class="markdownIt-Anchor" href="#个人信息"></a> 个人信息</h2>
+<ul>
+<li>性 别：男             年 龄：25</li>
+<li>手 机：134XXXX3216          邮 箱：XXXXX@XXX.com</li>
+<li>专 业：计算机科学与计算       岗 位：研发工程师</li>
+</ul>
+<h2 id="工作及教育经历"><a class="markdownIt-Anchor" href="#工作及教育经历"></a> 工作及教育经历</h2>
+<ul>
+<li>前公司       2019.8~至今      事业群名字-部门名字</li>
+<li>XXXX大学     2017.9~2019.7     计算机科学与技术专业-研究生</li>
+<li>XXXX大学     2013.9~2017.7     计算机科学与技术专业-本科</li>
+</ul>
+<h2 id="专业技能"><a class="markdownIt-Anchor" href="#专业技能"></a> 专业技能</h2>
+<ul>
+<li>熟练使用 C++，掌握Go，了解 Java、Python、PHP 等编程语言</li>
+<li>掌握基础数据结构和算法的基本原理</li>
+<li>等等</li>
+</ul>
+<h2 id="项目经历"><a class="markdownIt-Anchor" href="#项目经历"></a> 项目经历</h2>
+<ol>
+<li>
+<p>公司/学校 - XXweb服务器 - 独立开发 - 201508- 201512</p>
+<ul>
+<li>具体功能</li>
+<li>运用了那些技术，技术难点是</li>
+<li>效果如何</li>
+<li>demo演示地址，github地址</li>
+</ul>
+</li>
+<li>
+<p>公司/学校 - XX游戏 - 负责后端开发 - 201309- 201401</p>
+<ul>
+<li>具体功能</li>
+<li>运用了那些技术，技术难点是</li>
+<li>效果如何</li>
+<li>demo演示地址，github地址</li>
+</ul>
+</li>
+</ol>
+<h2 id="获奖经历"><a class="markdownIt-Anchor" href="#获奖经历"></a> 获奖经历</h2>
+<ul>
+<li>XXX 优秀新人</li>
+<li>XXX 学生社团优秀干部</li>
+<li>竞赛 XXX 奖</li>
+</ul>
+<h2 id="个人账号"><a class="markdownIt-Anchor" href="#个人账号"></a> 个人账号</h2>
+<ul>
+<li>blog 地址 (附加自己博客特色，写了哪些技术文章)</li>
+<li>github 地址 (附加自己github特色，突出的项目)</li>
+</ul>
+<h2 id="其他信息"><a class="markdownIt-Anchor" href="#其他信息"></a> 其他信息</h2>
+<ul>
+<li>喜欢钻研技术 等等</li>
+<li>性格开朗，喜欢跳舞，做个主持人 等等</li>
+</ul>
+]]></content>
+      <categories>
+        <category>3 Self</category>
+        <category>Individual</category>
+        <category>Money</category>
+        <category>Working for Others</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>每日推荐（25）</title>
+    <url>/2021/12/29/%E6%AF%8F%E6%97%A5%E6%8E%A8%E8%8D%90%EF%BC%8825%EF%BC%89/</url>
+    <content><![CDATA[<p>今天推荐的是一个慈善项目：</p>
+<p><strong>李嘉诚基金会全国宁养医疗服务计划</strong></p>
+<span id="more"></span>
+<br>
+<p>这是它的链接：<a href="https://www.hospice.com.cn/index.aspx">李嘉诚基金会全国宁养医疗服务计划</a></p>
+]]></content>
+      <tags>
+        <tag>每日推荐</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>每日推荐（24）</title>
     <url>/2021/12/28/%E6%AF%8F%E6%97%A5%E6%8E%A8%E8%8D%90%EF%BC%8824%EF%BC%89/</url>
     <content><![CDATA[<p>今天推荐的是一个Java面试指南：</p>
@@ -193,17 +344,6 @@
       <tags>
         <tag>算法</tag>
       </tags>
-  </entry>
-  <entry>
-    <title>求职准备</title>
-    <url>/2021/12/20/%E6%B1%82%E8%81%8C%E5%87%86%E5%A4%87/</url>
-    <content><![CDATA[]]></content>
-      <categories>
-        <category>3 Self</category>
-        <category>Individual</category>
-        <category>Money</category>
-        <category>Working for Others</category>
-      </categories>
   </entry>
   <entry>
     <title>每日推荐（15）</title>
@@ -497,6 +637,17 @@
         <category>Individual</category>
         <category>Money</category>
         <category>Working for Myself</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>求职准备</title>
+    <url>/2021/11/16/%E6%B1%82%E8%81%8C%E5%87%86%E5%A4%87/</url>
+    <content><![CDATA[]]></content>
+      <categories>
+        <category>3 Self</category>
+        <category>Individual</category>
+        <category>Money</category>
+        <category>Working for Others</category>
       </categories>
   </entry>
   <entry>

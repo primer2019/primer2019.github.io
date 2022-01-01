@@ -1,81 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>中文简历</title>
-    <url>/2021/11/16/%E4%B8%AD%E6%96%87%E7%AE%80%E5%8E%86/</url>
-    <content><![CDATA[<p>全部格式简历的百度网盘分享链接：<a href></a></p>
-<span id="more"></span>
-<br>
-<center>
-     <h1>XXX</h1>
- </center>
-<h2 id="个人信息"><a class="markdownIt-Anchor" href="#个人信息"></a> 个人信息</h2>
-<ul>
-<li>性 别：男             年 龄：25</li>
-<li>手 机：134XXXX3216          邮 箱：XXXXX@XXX.com</li>
-<li>专 业：计算机科学与计算       岗 位：研发工程师</li>
-</ul>
-<h2 id="工作及教育经历"><a class="markdownIt-Anchor" href="#工作及教育经历"></a> 工作及教育经历</h2>
-<ul>
-<li>前公司       2019.8~至今      事业群名字-部门名字</li>
-<li>XXXX大学     2017.9~2019.7     计算机科学与技术专业-研究生</li>
-<li>XXXX大学     2013.9~2017.7     计算机科学与技术专业-本科</li>
-</ul>
-<h2 id="专业技能"><a class="markdownIt-Anchor" href="#专业技能"></a> 专业技能</h2>
-<ul>
-<li>熟练使用 C++，掌握Go，了解 Java、Python、PHP 等编程语言</li>
-<li>掌握基础数据结构和算法的基本原理</li>
-<li>等等</li>
-</ul>
-<h2 id="项目经历"><a class="markdownIt-Anchor" href="#项目经历"></a> 项目经历</h2>
-<ol>
-<li>
-<p>公司/学校 - XXweb服务器 - 独立开发 - 201508- 201512</p>
-<ul>
-<li>具体功能</li>
-<li>运用了那些技术，技术难点是</li>
-<li>效果如何</li>
-<li>demo演示地址，github地址</li>
-</ul>
-</li>
-<li>
-<p>公司/学校 - XX游戏 - 负责后端开发 - 201309- 201401</p>
-<ul>
-<li>具体功能</li>
-<li>运用了那些技术，技术难点是</li>
-<li>效果如何</li>
-<li>demo演示地址，github地址</li>
-</ul>
-</li>
-</ol>
-<h2 id="获奖经历"><a class="markdownIt-Anchor" href="#获奖经历"></a> 获奖经历</h2>
-<ul>
-<li>XXX 优秀新人</li>
-<li>XXX 学生社团优秀干部</li>
-<li>竞赛 XXX 奖</li>
-</ul>
-<h2 id="个人账号"><a class="markdownIt-Anchor" href="#个人账号"></a> 个人账号</h2>
-<ul>
-<li>blog 地址 (附加自己博客特色，写了哪些技术文章)</li>
-<li>github 地址 (附加自己github特色，突出的项目)</li>
-</ul>
-<h2 id="其他信息"><a class="markdownIt-Anchor" href="#其他信息"></a> 其他信息</h2>
-<ul>
-<li>喜欢钻研技术 等等</li>
-<li>性格开朗，喜欢跳舞，做个主持人 等等</li>
-</ul>
-]]></content>
-      <categories>
-        <category>3 Self</category>
-        <category>Individual</category>
-        <category>Money</category>
-        <category>Working for Others</category>
-      </categories>
-      <tags>
-        <tag>简历</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>关于我（1）-为什么要写博客？</title>
     <url>/2021/11/08/%E5%85%B3%E4%BA%8E%E6%88%91%EF%BC%881%EF%BC%89-%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E5%86%99%E5%8D%9A%E5%AE%A2%EF%BC%9F/</url>
     <content><![CDATA[<p>这是我的第一篇博客，我决定从“我”开始讲起。为什么选择以这种方式开启我的博客之路呢？这就与我对写博客这件事儿的认识以及我在其上寄予的愿景息息相关了。接下来，听我慢慢讲。</p>
@@ -96,30 +21,6 @@
 <p>就这么纠结了好一阵子之后，有一天我突然反应过来，问题的症结根本不在这儿——我搭建博客这个事儿最早其实就是源于那么一个小“癖好”，可以说是临时起意，要搭建一个计算机主题的博客。但当我真的靠着三分钟热度把这个博客搭建了起来以后，要开始写博客了，我需要为自己写博客这件事儿找到长期持久的动力，仅靠这么个小“癖好”无法支撑了，那么我的动力要从哪儿来呢？</p>
 <p>这个时候，我没有选择去叩问自己的内心，而是选择了完全听从“别人”的意见。“学计算机的就该维护一个自己的博客…”、“一个维护的好的博客在求职的时候是绝对的加分项…”、“…”等等，这些全都是“别人”说的。我从来不曾问过自己，“你为什么要写一个计算机主题的博客？”要知道，对计算机有兴趣并不意味着就能够维护一个计算机主题的博客，这完全是两码事儿。更进一步讲，我要写的难道真的是一个计算机主题的博客吗？也许，我真正想记录的其实是自己的生活，而计算机只是其中的一部分？如果是这样的话，那它是怎样的一部分呢？又或者，其实我根本就不喜欢记录…</p>
 <p>总而言之，写不写？写什么？为什么要写？这三件事儿才是症结所在，把这三个事儿搞明白了，问题自然迎刃而解。而要想搞明白它们，得去叩问自己的内心。至于”别人“的话，最多只能作为指引方向的参照物，毕竟，最终想要到达的目的地，始终藏在自己心里。</p>
-]]></content>
-      <categories>
-        <category>3 Self</category>
-        <category>Individual</category>
-      </categories>
-      <tags>
-        <tag>关于我</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>关于我（2）-思考人生</title>
-    <url>/2021/11/10/%E5%85%B3%E4%BA%8E%E6%88%91%EF%BC%882%EF%BC%89-%E6%80%9D%E8%80%83%E4%BA%BA%E7%94%9F/</url>
-    <content><![CDATA[<p>前面提到了，要想获得写博客的长久动力，必须得叩问自己的内心，解决三件事儿：写不写？写什么？为什么要写？</p>
-<p>这三个问题其实很好回答：<br>
-写不写？写。<br>
-写什么？写一切值得写的东西。<br>
-为什么要写？因为它们值得。</p>
-<span id="more"></span>
-<p>肯定有人要说了，你这不是废话吗？乍一看，这确实像是废话，但我想说的是，你之所以认为这是废话，根本原因是你无法明确对你自己而言什么是“值得”的。这的确是个难题。明确对自己而言什么是“值得”的，说白了，就是要思考清楚自己的人生。思考人生，想想就头大，不过头大也没办法，必须去做。因为不仅仅是写博客之前需要做这件事儿，事实上，对于一个成年人来讲，想要做好任何一件需要长期投入的事儿，都需要经历这一步，否则根本无法持久。换句话说，一个成年人，只有在思考清楚自己的人生以后，才有可能长期投入到一件事儿中，并最终取得成功。</p>
-<p>那么怎么思考自己的人生呢？如今这个时代，无数的鸡汤文每天都在教你如何思考自己的人生，它们援引了数不清的”别人“的故事，制造了各种各样花里胡哨的文字，把思考人生这件事儿搞得无比复杂。这导致很多人在思考自己的人生时，精力并没有放在关注思考的深度如何、客观与否上，而是在担心自己的思考是否因为没有援引“别人”的故事而显得单薄，是否因为没有造出朗朗上口的名句而显得苍白。这偏离了思考的本意，思考自然就不会有收获。长此以往，很多人因此失去了思考人生的勇气，不敢再去思考自己的人生，甚至丧失了思考人生的能力。</p>
-<p>但我想说的是，思考人生这个事儿，其实并没有那么复杂。它不需要援引“别人”的故事来丰富，也不需要制造花哨的文字来增色，思考人生这件事儿本身已经足够丰满与深刻。每个人都有属于自己的人生，自然都能够去思考它。我们不需要去参考任何东西，我们要做的，就是用大脑赋予我们的思考能力，循着我们与生俱来的需求和欲望去思考就好了。</p>
-<p>正是因为抱着这样一种态度，在我十九岁的那一年，我很认真的做了这件困扰了无数人一生的事儿——思考人生，并且给出了我的确切答案，尽管这个过程并不容易。正因为做成了这件事儿，在我十九岁生日那天，我发了至今保留在我的QQ空间中的唯一的那条说说：</p>
-<img src="/2021/11/10/%E5%85%B3%E4%BA%8E%E6%88%91%EF%BC%882%EF%BC%89-%E6%80%9D%E8%80%83%E4%BA%BA%E7%94%9F/19.png" alt="19" style="zoom:50%;">
-<p>也正因为做成了这件事儿，我始终坚持，我真正成人的年纪是十九岁，而不是法律规定的十八岁。事实上，我一直觉得，成熟和时间没什么关系，它更多地是由经历决定的。郭德纲有个说法很贴切，记者问他：“活明白需要时间的吗？”，他说：“不需要，需要经历！三岁经历一件事儿，他就明白了，活到95都没有经历过，他可能永远也不会明白。吃亏要趁早，一帆风顺不是什么好事，从小到大娇生惯养没人跟他说过什么话，六十五岁走在大街上有人瞪他一眼当时就猝死。从出生就挨打，一天八个嘴巴，这到二十五岁铜金刚铁罗汉一样，什么都不在乎。”我也觉得是这个理儿。</p>
 ]]></content>
       <categories>
         <category>3 Self</category>
@@ -201,51 +102,95 @@
       </tags>
   </entry>
   <entry>
-    <title>关于我（5）-我的答案</title>
-    <url>/2021/11/13/%E5%85%B3%E4%BA%8E%E6%88%91%EF%BC%885%EF%BC%89-%E6%88%91%E7%9A%84%E7%AD%94%E6%A1%88/</url>
-    <content><![CDATA[<p>接下来，我将以文件目录的形式为你呈现，关于人生这回事儿，我基于自己的思考总结出的答案。你可以把它看作是我对自己人生的一个认知模型，也可以把它当作一个自我管理系统。</p>
+    <title>中文简历</title>
+    <url>/2021/11/16/%E4%B8%AD%E6%96%87%E7%AE%80%E5%8E%86/</url>
+    <content><![CDATA[<p>全部格式简历的百度网盘分享链接：<a href></a></p>
 <span id="more"></span>
-<p>1 Life</p>
-<p> Clothing</p>
-<p> Food</p>
-<p> Shelter</p>
-<p> Transportation</p>
 <br>
-<p>2 Health</p>
-<p> Physical Health</p>
-<p>  Physical Examination</p>
-<p> Mental Health</p>
-<p> Insurance</p>
-<br>
-<p>3 Self</p>
-<p> Individual</p>
-<p>  Money</p>
-<p>   Working for Myself</p>
-<p>   Working for Others</p>
-<p> Group Attribute</p>
-<p>  Intimacy</p>
-<p>  Social Relationship</p>
-<p>  Strange Relationship - To the World</p>
-<br>
-<p>4 Self-realization</p>
-<p> Computer</p>
-<p>  Computer Science</p>
-<p>   1 History</p>
-<p>   2 System</p>
-<p>   3 Theories</p>
-<p>    Algorithm &amp; Data Structure</p>
-<p>    Operating System</p>
-<p>    Computer Network</p>
-<p>   4 Directions</p>
-<p>    Java Engineer</p>
-<p>   5 Mathematics</p>
-<p> English</p>
-<p> Music</p>
-<p> Sex</p>
-<p> …</p>
-<br>
-<p>这就是我的答案，Yu’s blog的分类目录也将按照这个模型为你呈现。</p>
-<p>到这里，”关于我“的那些事儿差不多都讲完了。接下来，让我们一起开始这段博客之旅吧。</p>
+<center>
+     <h1>XXX</h1>
+ </center>
+<h2 id="个人信息"><a class="markdownIt-Anchor" href="#个人信息"></a> 个人信息</h2>
+<ul>
+<li>性 别：男             年 龄：25</li>
+<li>手 机：134XXXX3216          邮 箱：XXXXX@XXX.com</li>
+<li>专 业：计算机科学与计算       岗 位：研发工程师</li>
+</ul>
+<h2 id="工作及教育经历"><a class="markdownIt-Anchor" href="#工作及教育经历"></a> 工作及教育经历</h2>
+<ul>
+<li>前公司       2019.8~至今      事业群名字-部门名字</li>
+<li>XXXX大学     2017.9~2019.7     计算机科学与技术专业-研究生</li>
+<li>XXXX大学     2013.9~2017.7     计算机科学与技术专业-本科</li>
+</ul>
+<h2 id="专业技能"><a class="markdownIt-Anchor" href="#专业技能"></a> 专业技能</h2>
+<ul>
+<li>熟练使用 C++，掌握Go，了解 Java、Python、PHP 等编程语言</li>
+<li>掌握基础数据结构和算法的基本原理</li>
+<li>等等</li>
+</ul>
+<h2 id="项目经历"><a class="markdownIt-Anchor" href="#项目经历"></a> 项目经历</h2>
+<ol>
+<li>
+<p>公司/学校 - XXweb服务器 - 独立开发 - 201508- 201512</p>
+<ul>
+<li>具体功能</li>
+<li>运用了那些技术，技术难点是</li>
+<li>效果如何</li>
+<li>demo演示地址，github地址</li>
+</ul>
+</li>
+<li>
+<p>公司/学校 - XX游戏 - 负责后端开发 - 201309- 201401</p>
+<ul>
+<li>具体功能</li>
+<li>运用了那些技术，技术难点是</li>
+<li>效果如何</li>
+<li>demo演示地址，github地址</li>
+</ul>
+</li>
+</ol>
+<h2 id="获奖经历"><a class="markdownIt-Anchor" href="#获奖经历"></a> 获奖经历</h2>
+<ul>
+<li>XXX 优秀新人</li>
+<li>XXX 学生社团优秀干部</li>
+<li>竞赛 XXX 奖</li>
+</ul>
+<h2 id="个人账号"><a class="markdownIt-Anchor" href="#个人账号"></a> 个人账号</h2>
+<ul>
+<li>blog 地址 (附加自己博客特色，写了哪些技术文章)</li>
+<li>github 地址 (附加自己github特色，突出的项目)</li>
+</ul>
+<h2 id="其他信息"><a class="markdownIt-Anchor" href="#其他信息"></a> 其他信息</h2>
+<ul>
+<li>喜欢钻研技术 等等</li>
+<li>性格开朗，喜欢跳舞，做个主持人 等等</li>
+</ul>
+]]></content>
+      <categories>
+        <category>3 Self</category>
+        <category>Individual</category>
+        <category>Money</category>
+        <category>Working for Others</category>
+      </categories>
+      <tags>
+        <tag>简历</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>关于我（2）-思考人生</title>
+    <url>/2021/11/10/%E5%85%B3%E4%BA%8E%E6%88%91%EF%BC%882%EF%BC%89-%E6%80%9D%E8%80%83%E4%BA%BA%E7%94%9F/</url>
+    <content><![CDATA[<p>前面提到了，要想获得写博客的长久动力，必须得叩问自己的内心，解决三件事儿：写不写？写什么？为什么要写？</p>
+<p>这三个问题其实很好回答：<br>
+写不写？写。<br>
+写什么？写一切值得写的东西。<br>
+为什么要写？因为它们值得。</p>
+<span id="more"></span>
+<p>肯定有人要说了，你这不是废话吗？乍一看，这确实像是废话，但我想说的是，你之所以认为这是废话，根本原因是你无法明确对你自己而言什么是“值得”的。这的确是个难题。明确对自己而言什么是“值得”的，说白了，就是要思考清楚自己的人生。思考人生，想想就头大，不过头大也没办法，必须去做。因为不仅仅是写博客之前需要做这件事儿，事实上，对于一个成年人来讲，想要做好任何一件需要长期投入的事儿，都需要经历这一步，否则根本无法持久。换句话说，一个成年人，只有在思考清楚自己的人生以后，才有可能长期投入到一件事儿中，并最终取得成功。</p>
+<p>那么怎么思考自己的人生呢？如今这个时代，无数的鸡汤文每天都在教你如何思考自己的人生，它们援引了数不清的”别人“的故事，制造了各种各样花里胡哨的文字，把思考人生这件事儿搞得无比复杂。这导致很多人在思考自己的人生时，精力并没有放在关注思考的深度如何、客观与否上，而是在担心自己的思考是否因为没有援引“别人”的故事而显得单薄，是否因为没有造出朗朗上口的名句而显得苍白。这偏离了思考的本意，思考自然就不会有收获。长此以往，很多人因此失去了思考人生的勇气，不敢再去思考自己的人生，甚至丧失了思考人生的能力。</p>
+<p>但我想说的是，思考人生这个事儿，其实并没有那么复杂。它不需要援引“别人”的故事来丰富，也不需要制造花哨的文字来增色，思考人生这件事儿本身已经足够丰满与深刻。每个人都有属于自己的人生，自然都能够去思考它。我们不需要去参考任何东西，我们要做的，就是用大脑赋予我们的思考能力，循着我们与生俱来的需求和欲望去思考就好了。</p>
+<p>正是因为抱着这样一种态度，在我十九岁的那一年，我很认真的做了这件困扰了无数人一生的事儿——思考人生，并且给出了我的确切答案，尽管这个过程并不容易。正因为做成了这件事儿，在我十九岁生日那天，我发了至今保留在我的QQ空间中的唯一的那条说说：</p>
+<img src="/2021/11/10/%E5%85%B3%E4%BA%8E%E6%88%91%EF%BC%882%EF%BC%89-%E6%80%9D%E8%80%83%E4%BA%BA%E7%94%9F/19.png" alt="19" style="zoom:50%;">
+<p>也正因为做成了这件事儿，我始终坚持，我真正成人的年纪是十九岁，而不是法律规定的十八岁。事实上，我一直觉得，成熟和时间没什么关系，它更多地是由经历决定的。郭德纲有个说法很贴切，记者问他：“活明白需要时间的吗？”，他说：“不需要，需要经历！三岁经历一件事儿，他就明白了，活到95都没有经历过，他可能永远也不会明白。吃亏要趁早，一帆风顺不是什么好事，从小到大娇生惯养没人跟他说过什么话，六十五岁走在大街上有人瞪他一眼当时就猝死。从出生就挨打，一天八个嘴巴，这到二十五岁铜金刚铁罗汉一样，什么都不在乎。”我也觉得是这个理儿。</p>
 ]]></content>
       <categories>
         <category>3 Self</category>
@@ -308,6 +253,61 @@
 <p>不过在这之前，我还想给你讲点儿别的。还记得我说过曾经我在面对身边漂亮的、家境好的女孩子的时候，会产生自卑感的这回事儿吗？我想给你讲讲这些年我在面对这样的女生时心态的变化，作为这段思考的结尾。</p>
 <p>其实说起来也很简单，美丽的外表没人不爱，钱也是一样。只不过就像最初我没有想过有一天我会去追求财务自由一样，最开始的时候，我也没想过那些美丽的女孩子会跟我有什么关系。但缘分就是这么奇妙，它真的要来的时候，你挡也挡不住，因此出现了我所说的恋爱中自卑的那一幕。所幸自卑也只是暂时的，对我来讲，每一次自卑背后都伴随着一次成长——从最初可能会因为美丽的外表倍感自卑而不敢直视，到后来的逐渐自信而心向往之，再到现在能做到驻足欣赏且心平气和，我觉得美丽的外表已然不是我爱情的决定因素。尽管美丽的外表仍然会为双方关系的产生起到积极的作用，但是我相信，决定爱情发生的，会是相恰的性格和有趣的灵魂。</p>
 <p>到这儿，应该可以为这段思考画上一个圆满的句号了。</p>
+]]></content>
+      <categories>
+        <category>3 Self</category>
+        <category>Individual</category>
+      </categories>
+      <tags>
+        <tag>关于我</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>关于我（5）-我的答案</title>
+    <url>/2021/11/13/%E5%85%B3%E4%BA%8E%E6%88%91%EF%BC%885%EF%BC%89-%E6%88%91%E7%9A%84%E7%AD%94%E6%A1%88/</url>
+    <content><![CDATA[<p>接下来，我将以文件目录的形式为你呈现，关于人生这回事儿，我基于自己的思考总结出的答案。你可以把它看作是我对自己人生的一个认知模型，也可以把它当作一个自我管理系统。</p>
+<span id="more"></span>
+<p>1 Life</p>
+<p> Clothing</p>
+<p> Food</p>
+<p> Shelter</p>
+<p> Transportation</p>
+<br>
+<p>2 Health</p>
+<p> Physical Health</p>
+<p>  Physical Examination</p>
+<p> Mental Health</p>
+<p> Insurance</p>
+<br>
+<p>3 Self</p>
+<p> Individual</p>
+<p>  Money</p>
+<p>   Working for Myself</p>
+<p>   Working for Others</p>
+<p> Group Attribute</p>
+<p>  Intimacy</p>
+<p>  Social Relationship</p>
+<p>  Strange Relationship - To the World</p>
+<br>
+<p>4 Self-realization</p>
+<p> Computer</p>
+<p>  Computer Science</p>
+<p>   1 History</p>
+<p>   2 System</p>
+<p>   3 Theories</p>
+<p>    Algorithm &amp; Data Structure</p>
+<p>    Operating System</p>
+<p>    Computer Network</p>
+<p>   4 Directions</p>
+<p>    Java Engineer</p>
+<p>   5 Mathematics</p>
+<p> English</p>
+<p> Music</p>
+<p> Sex</p>
+<p> …</p>
+<br>
+<p>这就是我的答案，Yu’s blog的分类目录也将按照这个模型为你呈现。</p>
+<p>到这里，”关于我“的那些事儿差不多都讲完了。接下来，让我们一起开始这段博客之旅吧。</p>
 ]]></content>
       <categories>
         <category>3 Self</category>
@@ -436,6 +436,19 @@
       </tags>
   </entry>
   <entry>
+    <title>每日推荐（11）</title>
+    <url>/2021/12/15/%E6%AF%8F%E6%97%A5%E6%8E%A8%E8%8D%90%EF%BC%8811%EF%BC%89/</url>
+    <content><![CDATA[<p>今天推荐的是一个C语言教程：</p>
+<p><strong>WangDoc: clang-tutorial</strong></p>
+<span id="more"></span>
+<br>
+<p>这是它的链接：<a href="https://wangdoc.com/clang/">WangDoc: clang-tutorial</a></p>
+]]></content>
+      <tags>
+        <tag>每日推荐</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>每日推荐（10）</title>
     <url>/2021/12/14/%E6%AF%8F%E6%97%A5%E6%8E%A8%E8%8D%90%EF%BC%8810%EF%BC%89/</url>
     <content><![CDATA[<p>今天推荐的是一个CTF方面的网站：</p>
@@ -463,19 +476,6 @@
       </tags>
   </entry>
   <entry>
-    <title>每日推荐（11）</title>
-    <url>/2021/12/15/%E6%AF%8F%E6%97%A5%E6%8E%A8%E8%8D%90%EF%BC%8811%EF%BC%89/</url>
-    <content><![CDATA[<p>今天推荐的是一个C语言教程：</p>
-<p><strong>WangDoc: clang-tutorial</strong></p>
-<span id="more"></span>
-<br>
-<p>这是它的链接：<a href="https://wangdoc.com/clang/">WangDoc: clang-tutorial</a></p>
-]]></content>
-      <tags>
-        <tag>每日推荐</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>每日推荐（13）</title>
     <url>/2021/12/17/%E6%AF%8F%E6%97%A5%E6%8E%A8%E8%8D%90%EF%BC%8813%EF%BC%89/</url>
     <content><![CDATA[<p>今天推荐的是一本算法方面的好书：</p>
@@ -484,6 +484,19 @@
 <br>
 <p>这是它的豆瓣链接：<a href="https://book.douban.com/subject/19952400/">豆瓣——《算法（第4版）》</a></p>
 <p>这是它的百度网盘分享链接：<a href="https://pan.baidu.com/s/1Xf8NlS-sZDGmfU3NFTM3cA">百度网盘——《算法（第4版）》</a>，提取码：ykuy</p>
+]]></content>
+      <tags>
+        <tag>每日推荐</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>每日推荐（15）</title>
+    <url>/2021/12/19/%E6%AF%8F%E6%97%A5%E6%8E%A8%E8%8D%90%EF%BC%8815%EF%BC%89/</url>
+    <content><![CDATA[<p>今天推荐的是一个政治方面的网站：</p>
+<p><strong>中国数字时代</strong></p>
+<span id="more"></span>
+<br>
+<p>这是它的链接：<a href="https://chinadigitaltimes.net/chinese">中国数字时代</a></p>
 ]]></content>
       <tags>
         <tag>每日推荐</tag>
@@ -506,13 +519,13 @@
       </tags>
   </entry>
   <entry>
-    <title>每日推荐（15）</title>
-    <url>/2021/12/19/%E6%AF%8F%E6%97%A5%E6%8E%A8%E8%8D%90%EF%BC%8815%EF%BC%89/</url>
-    <content><![CDATA[<p>今天推荐的是一个政治方面的网站：</p>
-<p><strong>中国数字时代</strong></p>
+    <title>每日推荐（16）</title>
+    <url>/2021/12/20/%E6%AF%8F%E6%97%A5%E6%8E%A8%E8%8D%90%EF%BC%8816%EF%BC%89/</url>
+    <content><![CDATA[<p>今天推荐的是一个政经方面的自媒体博主：</p>
+<p><strong>小岛大浪吹</strong></p>
 <span id="more"></span>
 <br>
-<p>这是它的链接：<a href="https://chinadigitaltimes.net/chinese">中国数字时代</a></p>
+<p>这是他的YouTube频道：<a href="https://www.youtube.com/channel/UCYPT3wl0MgbOz63ho166KOw">YouTube——小岛大浪吹</a></p>
 ]]></content>
       <tags>
         <tag>每日推荐</tag>
@@ -551,19 +564,6 @@
       </tags>
   </entry>
   <entry>
-    <title>每日推荐（16）</title>
-    <url>/2021/12/20/%E6%AF%8F%E6%97%A5%E6%8E%A8%E8%8D%90%EF%BC%8816%EF%BC%89/</url>
-    <content><![CDATA[<p>今天推荐的是一个政经方面的自媒体博主：</p>
-<p><strong>小岛大浪吹</strong></p>
-<span id="more"></span>
-<br>
-<p>这是他的YouTube频道：<a href="https://www.youtube.com/channel/UCYPT3wl0MgbOz63ho166KOw">YouTube——小岛大浪吹</a></p>
-]]></content>
-      <tags>
-        <tag>每日推荐</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>每日推荐（19）</title>
     <url>/2021/12/23/%E6%AF%8F%E6%97%A5%E6%8E%A8%E8%8D%90%EF%BC%8819%EF%BC%89/</url>
     <content><![CDATA[<p>今天推荐的是一场合唱的Live：</p>
@@ -572,6 +572,20 @@
 <br>
 <p>这是它的bilibili链接：<a href="https://www.bilibili.com/video/BV1qL4y1a7uK/?spm_id_from=333.788.recommend_more_video.0">bilibili——彩虹合唱团-醉鬼的敬酒曲</a></p>
 <p>这是它的百度网盘分享链接：<a href="https://pan.baidu.com/s/19Er2m48434ngAY5kwWbY7A">百度网盘——彩虹合唱团-醉鬼的敬酒曲</a>，提取码：76cq</p>
+]]></content>
+      <tags>
+        <tag>每日推荐</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>每日推荐（20）</title>
+    <url>/2021/12/24/%E6%AF%8F%E6%97%A5%E6%8E%A8%E8%8D%90%EF%BC%8820%EF%BC%89/</url>
+    <content><![CDATA[<p>今天推荐的是一篇文章：</p>
+<p><strong>《博士学历真的很重要吗？》</strong></p>
+<span id="more"></span>
+<br>
+<p>这是它的知乎链接：<a href="https://www.zhihu.com/question/366627317">知乎——《博士学历真的很重要吗？》</a></p>
+<p>这是它的百度网盘分享链接：<a href="https://pan.baidu.com/s/1E0k_SeZkVzmJwJIVViaQZA">百度网盘——《博士学历真的很重要吗？》</a>，提取码：q04m</p>
 ]]></content>
       <tags>
         <tag>每日推荐</tag>
@@ -592,14 +606,13 @@
       </tags>
   </entry>
   <entry>
-    <title>每日推荐（20）</title>
-    <url>/2021/12/24/%E6%AF%8F%E6%97%A5%E6%8E%A8%E8%8D%90%EF%BC%8820%EF%BC%89/</url>
-    <content><![CDATA[<p>今天推荐的是一篇文章：</p>
-<p><strong>《博士学历真的很重要吗？》</strong></p>
+    <title>每日推荐（24）</title>
+    <url>/2021/12/28/%E6%AF%8F%E6%97%A5%E6%8E%A8%E8%8D%90%EF%BC%8824%EF%BC%89/</url>
+    <content><![CDATA[<p>今天推荐的是一个Java面试指南：</p>
+<p><strong>JavaGuide</strong></p>
 <span id="more"></span>
 <br>
-<p>这是它的知乎链接：<a href="https://www.zhihu.com/question/366627317">知乎——《博士学历真的很重要吗？》</a></p>
-<p>这是它的百度网盘分享链接：<a href="https://pan.baidu.com/s/1E0k_SeZkVzmJwJIVViaQZA">百度网盘——《博士学历真的很重要吗？》</a>，提取码：q04m</p>
+<p>这是它的链接：<a href="https://javaguide.cn/">JavaGuide</a></p>
 ]]></content>
       <tags>
         <tag>每日推荐</tag>
@@ -633,28 +646,13 @@
       </tags>
   </entry>
   <entry>
-    <title>每日推荐（23）</title>
-    <url>/2021/12/27/%E6%AF%8F%E6%97%A5%E6%8E%A8%E8%8D%90%EF%BC%8823%EF%BC%89/</url>
-    <content><![CDATA[<p>今天推荐的是一个演讲：</p>
-<p><strong>《Steve Jobs 2005 Stanford Commencement Address》</strong></p>
+    <title>每日推荐（26）</title>
+    <url>/2021/12/30/%E6%AF%8F%E6%97%A5%E6%8E%A8%E8%8D%90%EF%BC%8826%EF%BC%89/</url>
+    <content><![CDATA[<p>今天推荐的是一个政治方面的网站：</p>
+<p><strong>中国文革受难者纪念园</strong></p>
 <span id="more"></span>
 <br>
-<p>这是它的YouTube链接：<a href="https://www.youtube.com/watch?v=UF8uR6Z6KLc">YouTube——《Steve Jobs 2005 Stanford Commencement Address》</a></p>
-<p>这是它的bilibili链接：<a href="https://www.bilibili.com/video/BV1oW411h7Ea?from=search&amp;seid=17972588449709711502&amp;spm_id_from=333.337.0.0">bilibili——《Steve Jobs 2005 Stanford Commencement Address》</a></p>
-<p>这是它的百度网盘分享链接：<a href="https://pan.baidu.com/s/1LMbeWUSgx0xO4ZPHtITyyg">百度网盘——《Steve Jobs 2005 Stanford Commencement Address》</a>，提取码：fujf</p>
-]]></content>
-      <tags>
-        <tag>每日推荐</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>每日推荐（24）</title>
-    <url>/2021/12/28/%E6%AF%8F%E6%97%A5%E6%8E%A8%E8%8D%90%EF%BC%8824%EF%BC%89/</url>
-    <content><![CDATA[<p>今天推荐的是一个Java面试指南：</p>
-<p><strong>JavaGuide</strong></p>
-<span id="more"></span>
-<br>
-<p>这是它的链接：<a href="https://javaguide.cn/">JavaGuide</a></p>
+<p>这是它的链接：<a href="https://ywang.uchicago.edu/history/">中国文革受难者纪念园</a></p>
 ]]></content>
       <tags>
         <tag>每日推荐</tag>
@@ -674,13 +672,15 @@
       </tags>
   </entry>
   <entry>
-    <title>每日推荐（26）</title>
-    <url>/2021/12/30/%E6%AF%8F%E6%97%A5%E6%8E%A8%E8%8D%90%EF%BC%8826%EF%BC%89/</url>
-    <content><![CDATA[<p>今天推荐的是一个政治方面的网站：</p>
-<p><strong>中国文革受难者纪念园</strong></p>
+    <title>每日推荐（23）</title>
+    <url>/2021/12/27/%E6%AF%8F%E6%97%A5%E6%8E%A8%E8%8D%90%EF%BC%8823%EF%BC%89/</url>
+    <content><![CDATA[<p>今天推荐的是一个演讲：</p>
+<p><strong>《Steve Jobs 2005 Stanford Commencement Address》</strong></p>
 <span id="more"></span>
 <br>
-<p>这是它的链接：<a href="https://ywang.uchicago.edu/history/">中国文革受难者纪念园</a></p>
+<p>这是它的YouTube链接：<a href="https://www.youtube.com/watch?v=UF8uR6Z6KLc">YouTube——《Steve Jobs 2005 Stanford Commencement Address》</a></p>
+<p>这是它的bilibili链接：<a href="https://www.bilibili.com/video/BV1oW411h7Ea?from=search&amp;seid=17972588449709711502&amp;spm_id_from=333.337.0.0">bilibili——《Steve Jobs 2005 Stanford Commencement Address》</a></p>
+<p>这是它的百度网盘分享链接：<a href="https://pan.baidu.com/s/1LMbeWUSgx0xO4ZPHtITyyg">百度网盘——《Steve Jobs 2005 Stanford Commencement Address》</a>，提取码：fujf</p>
 ]]></content>
       <tags>
         <tag>每日推荐</tag>
@@ -721,6 +721,25 @@
 <br>
 <p>这是它的豆瓣链接：<a href="https://book.douban.com/subject/4114636/">豆瓣——《性学观止》</a></p>
 <p>这是它的百度网盘分享链接：<a href="https://pan.baidu.com/s/1zClPpU4LONd5kjAcVfHSxw">百度网盘——《性学观止》</a>，提取码：fpg1</p>
+]]></content>
+      <tags>
+        <tag>每日推荐</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>每日推荐（5）</title>
+    <url>/2021/12/09/%E6%AF%8F%E6%97%A5%E6%8E%A8%E8%8D%90%EF%BC%885%EF%BC%89/</url>
+    <content><![CDATA[<p>今天推荐的是学校教育方面的一本书、一本手册和一篇文章：</p>
+<p><strong>书：《大学之路》</strong></p>
+<p><strong>手册：《上海交通大学学生生存手册》</strong></p>
+<p><strong>文章：《绩点为王：中国顶尖高校年轻人的穷途困境》</strong></p>
+<span id="more"></span>
+<br>
+<p>这是《大学之路》的豆瓣链接：<a href="https://book.douban.com/subject/26584286/">豆瓣——《大学之路》</a></p>
+<p>这是《上海交通大学学生生存手册》的GitHub链接：<a href="https://github.com/SurviveSJTU/SurviveSJTUManual">GitHub——《上海交通大学学生生存手册》</a></p>
+<p>这是《上海交通大学学生生存手册》的GitBook链接：<a href="https://survivesjtu.gitbook.io/survivesjtumanual/">GitBook——《上海交通大学学生生存手册》</a></p>
+<p>这是《绩点为王：中国顶尖高校年轻人的穷途困境》的微信公众号链接：<a href="https://mp.weixin.qq.com/s/ilNVG-fabWHU34De5NPGSA">微信公众号——《绩点为王：中国顶尖高校年轻人的穷途困境》</a></p>
+<p>这是以上内容的百度网盘分享链接：<a href="https://pan.baidu.com/s/1KNKtay-fq2oavySqtaWzKA">百度网盘——学校教育</a>，提取码：wog2</p>
 ]]></content>
       <tags>
         <tag>每日推荐</tag>
@@ -777,25 +796,6 @@
       </tags>
   </entry>
   <entry>
-    <title>每日推荐（5）</title>
-    <url>/2021/12/09/%E6%AF%8F%E6%97%A5%E6%8E%A8%E8%8D%90%EF%BC%885%EF%BC%89/</url>
-    <content><![CDATA[<p>今天推荐的是学校教育方面的一本书、一本手册和一篇文章：</p>
-<p><strong>书：《大学之路》</strong></p>
-<p><strong>手册：《上海交通大学学生生存手册》</strong></p>
-<p><strong>文章：《绩点为王：中国顶尖高校年轻人的穷途困境》</strong></p>
-<span id="more"></span>
-<br>
-<p>这是《大学之路》的豆瓣链接：<a href="https://book.douban.com/subject/26584286/">豆瓣——《大学之路》</a></p>
-<p>这是《上海交通大学学生生存手册》的GitHub链接：<a href="https://github.com/SurviveSJTU/SurviveSJTUManual">GitHub——《上海交通大学学生生存手册》</a></p>
-<p>这是《上海交通大学学生生存手册》的GitBook链接：<a href="https://survivesjtu.gitbook.io/survivesjtumanual/">GitBook——《上海交通大学学生生存手册》</a></p>
-<p>这是《绩点为王：中国顶尖高校年轻人的穷途困境》的微信公众号链接：<a href="https://mp.weixin.qq.com/s/ilNVG-fabWHU34De5NPGSA">微信公众号——《绩点为王：中国顶尖高校年轻人的穷途困境》</a></p>
-<p>这是以上内容的百度网盘分享链接：<a href="https://pan.baidu.com/s/1KNKtay-fq2oavySqtaWzKA">百度网盘——学校教育</a>，提取码：wog2</p>
-]]></content>
-      <tags>
-        <tag>每日推荐</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>每日推荐（7）</title>
     <url>/2021/12/11/%E6%AF%8F%E6%97%A5%E6%8E%A8%E8%8D%90%EF%BC%887%EF%BC%89/</url>
     <content><![CDATA[<p>今天推荐的是一本亲密关系方面的好书：</p>
@@ -810,18 +810,15 @@
       </tags>
   </entry>
   <entry>
-    <title>每日推荐（9）</title>
-    <url>/2021/12/13/%E6%AF%8F%E6%97%A5%E6%8E%A8%E8%8D%90%EF%BC%889%EF%BC%89/</url>
-    <content><![CDATA[<p>今天推荐的是一篇文章：</p>
-<p><strong>《谈谈我的“三观”》，陈皓</strong></p>
-<span id="more"></span>
-<br>
-<p>这是它的CoolShell链接：<a href="https://coolshell.cn/articles/19085.html">CoolShell——《谈谈我的“三观”》</a></p>
-<p>CoolShell（酷壳）是陈皓（左耳朵耗子）的个人博客</p>
-]]></content>
-      <tags>
-        <tag>每日推荐</tag>
-      </tags>
+    <title>求职准备</title>
+    <url>/2021/11/16/%E6%B1%82%E8%81%8C%E5%87%86%E5%A4%87/</url>
+    <content><![CDATA[]]></content>
+      <categories>
+        <category>3 Self</category>
+        <category>Individual</category>
+        <category>Money</category>
+        <category>Working for Others</category>
+      </categories>
   </entry>
   <entry>
     <title>每日推荐（8）</title>
@@ -833,6 +830,41 @@
 <p>这是它的bilibili链接：<a href="https://www.bilibili.com/video/BV144411b7Uk/?spm_id_from=333.788.b_7265636f5f6c697374.3">bilibili——《The first 20 hours - how to learn anything》</a></p>
 <p>这是它的YouTube链接：<a href="https://www.youtube.com/watch?v=5MgBikgcWnY&amp;t=288s">YouTube——《The first 20 hours - how to learn anything》</a></p>
 <p>这是它的百度网盘分享链接：<a href="https://pan.baidu.com/s/11bU976Wn5w1em-1ILavF-g">百度网盘——《The first 20 hours - how to learn anything》</a>，提取码：lwu2</p>
+]]></content>
+      <tags>
+        <tag>每日推荐</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>算法汇总</title>
+    <url>/2021/12/20/%E7%AE%97%E6%B3%95%E6%B1%87%E6%80%BB/</url>
+    <content><![CDATA[<p><strong>”算法“汇总：</strong></p>
+<h4 id="基础"><a class="markdownIt-Anchor" href="#基础"></a> 基础</h4>
+<p>算法（1）-基础编程模型</p>
+<p>算法（2）-数据抽象</p>
+<span id="more"></span>
+<p>算法（3）-背包、队列和栈</p>
+]]></content>
+      <categories>
+        <category>4 Self-realization</category>
+        <category>Computer</category>
+        <category>Computer Science</category>
+        <category>3 Theories</category>
+        <category>Algorithm &amp; Data Structure</category>
+      </categories>
+      <tags>
+        <tag>算法</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>每日推荐（9）</title>
+    <url>/2021/12/13/%E6%AF%8F%E6%97%A5%E6%8E%A8%E8%8D%90%EF%BC%889%EF%BC%89/</url>
+    <content><![CDATA[<p>今天推荐的是一篇文章：</p>
+<p><strong>《谈谈我的“三观”》，陈皓</strong></p>
+<span id="more"></span>
+<br>
+<p>这是它的CoolShell链接：<a href="https://coolshell.cn/articles/19085.html">CoolShell——《谈谈我的“三观”》</a></p>
+<p>CoolShell（酷壳）是陈皓（左耳朵耗子）的个人博客</p>
 ]]></content>
       <tags>
         <tag>每日推荐</tag>
@@ -868,26 +900,9 @@
       </categories>
   </entry>
   <entry>
-    <title>求职准备</title>
-    <url>/2021/11/16/%E6%B1%82%E8%81%8C%E5%87%86%E5%A4%87/</url>
+    <title>算法（2）-数据抽象</title>
+    <url>/2021/12/21/%E7%AE%97%E6%B3%95%EF%BC%882%EF%BC%89-%E6%95%B0%E6%8D%AE%E6%8A%BD%E8%B1%A1/</url>
     <content><![CDATA[]]></content>
-      <categories>
-        <category>3 Self</category>
-        <category>Individual</category>
-        <category>Money</category>
-        <category>Working for Others</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>算法汇总</title>
-    <url>/2021/12/20/%E7%AE%97%E6%B3%95%E6%B1%87%E6%80%BB/</url>
-    <content><![CDATA[<p><strong>”算法“汇总：</strong></p>
-<h4 id="基础"><a class="markdownIt-Anchor" href="#基础"></a> 基础</h4>
-<p>算法（1）-基础编程模型</p>
-<p>算法（2）-数据抽象</p>
-<span id="more"></span>
-<p>算法（3）-背包、队列和栈</p>
-]]></content>
       <categories>
         <category>4 Self-realization</category>
         <category>Computer</category>
@@ -915,8 +930,8 @@
       </tags>
   </entry>
   <entry>
-    <title>算法（2）-数据抽象</title>
-    <url>/2021/12/21/%E7%AE%97%E6%B3%95%EF%BC%882%EF%BC%89-%E6%95%B0%E6%8D%AE%E6%8A%BD%E8%B1%A1/</url>
+    <title>算法（3）-背包、队列和栈</title>
+    <url>/2021/12/22/%E7%AE%97%E6%B3%95%EF%BC%883%EF%BC%89-%E8%83%8C%E5%8C%85%E3%80%81%E9%98%9F%E5%88%97%E5%92%8C%E6%A0%88/</url>
     <content><![CDATA[]]></content>
       <categories>
         <category>4 Self-realization</category>
@@ -930,18 +945,63 @@
       </tags>
   </entry>
   <entry>
-    <title>算法（3）-背包、队列和栈</title>
-    <url>/2021/12/22/%E7%AE%97%E6%B3%95%EF%BC%883%EF%BC%89-%E8%83%8C%E5%8C%85%E3%80%81%E9%98%9F%E5%88%97%E5%92%8C%E6%A0%88/</url>
-    <content><![CDATA[]]></content>
+    <title>英语学习</title>
+    <url>/2022/01/01/%E8%8B%B1%E8%AF%AD%E5%AD%A6%E4%B9%A0/</url>
+    <content><![CDATA[<p>“英语”、“汉语”：<strong>语言 + 文字</strong></p>
+<p>语言：英语 汉语</p>
+<p>文字：英文 中文</p>
+<span id="more"></span>
+<br>
+<p>英语：字母 发音 单词 句子</p>
+<p>汉语：汉字 拼音 词语 句子</p>
+<br>
+<p>作为语言的特性：音</p>
+<p>作为文字的特性：形</p>
+<br>
+<p>英语作为一种语言，同时又是一种文字，<strong>“音”和“形”都是必须要掌握的</strong>，不然就失去了意义。</p>
+<p>学习这种“语言”不外乎两种方式：</p>
+<ol>
+<li>以音记形（即 <strong>“听觉型学习者”</strong> ）</li>
+<li>以形记音（即 <strong>“视觉型学习者”</strong> ）</li>
+</ol>
+<br>
+<p>在英语和汉语中，<strong>单词</strong>和<strong>词语</strong>作为一门语言在语法、语义、语用层面的最小单位，是语言的根基，也是学习语言的关键所在。</p>
+<p>对英语而言，<strong>单词的基础二十六个英文字母</strong>在“形”上几乎没有学习门槛，在“音”上存在一定门槛；而对汉语而言，<strong>词语的基础汉字</strong>在“音”和“形”上都存在一定的学习门槛，并且“形”恰恰是学习汉语的最大阻碍所在。</p>
+<br>
+<p>作为一名汉语母语者，反思我对汉语中词语记忆的形成，起关键作用的并不是“形”，而是“音”。也就是说，在想到一个词语并想要将其写下时，我脑海中第一时间想到的并不是组成它的汉字长什么样，而是它的读音，然后通过“形音对应”写下每一个音对应的汉字，从而写下这个词语。</p>
+<p>与此同时，在我对自己的认知中，我的语言天赋是明显高于文字天赋的。</p>
+<p>因此，<strong>“以音记形”的语言学习方式会更加适合我</strong>。</p>
+<br>
+<p>综上，<strong>我的英语学习之路</strong>：</p>
+<ol>
+<li><strong>发音</strong></li>
+<li>单词（<strong>以音记形</strong>）</li>
+<li>语法（语法的目的是遣词造句，这在英语和汉语中是一样的）</li>
+</ol>
+<hr>
+<p>词——词组 / 短语——句子：</p>
+<p><strong>词</strong>：<br>
+语法、语义、语用的最小单位，语言的根基。</p>
+<p><strong>词组 / 短语</strong>：<br>
+具有中心词的语法单位。<br>
+语法、语义、语用层面能搭配的语言单位组合起来形成的没有腔调（句调 / 语调 / 语气 / ……）的语言单位。</p>
+<p><strong>句子</strong>：<br>
+能表达完整语义的最实用的语言单位。<br>
+有腔调的——语言表达的魅力所在。</p>
+<br>
+<p><strong>汉语比英语要复杂</strong>：</p>
+<p>对英语而言，单词的基础二十六个英文字母在“形”上几乎没有学习门槛，在“音”上存在一定门槛；而对汉语而言，词语的基础汉字在“音”和“形”上都存在一定的学习门槛，并且“形”恰恰是学习汉语的最大阻碍所在。</p>
+<p><strong>在汉语 / 英语中，词语 / 单词都是由它们的基础元素（汉字 / 字母）通过排列组合组成的</strong>。不同的地方在于：</p>
+<p>在汉语中，<strong>词语学习的门槛在于汉字本身</strong>（当然，这并不代表汉字的排列组合就很容易。这里我们强调的是“门槛”，也就是在学习路上最早遇到的障碍），成百上千个汉字在“音”和“形”上都存在一定的学习门槛，两者对于初学者而言都是陌生的。这一点也导致了<strong>对于汉语初学者来说，其实是无法通过“以音记形” / “以形记音”的方式来学习词语的</strong>。初学者只能“音”和“形”同时学习，然后随着学习过程的深入以及对自身认知的加深，慢慢确定并偏向适合自己的学习方法。</p>
+<p>英语就不同了。在英语中，<strong>单词学习的门槛在于二十六个字母的排列组合</strong>，二十六个英文字母本身数量极为有限，在“形”上几乎没有学习门槛，对于英语初学者来说，只要跨越了“音”的障碍，再经过一段时间的“形音对应”训练，完全可以通过“以音记形” / “以形记音”的方式从二十六个英文字母平滑过渡到字母的排列组合，学习单词，并且事半功倍。</p>
+<p>事实上，在英语和汉语的学习中，初学者能够通过“以音记形” / “以形记音”的方式来学习英语单词，而学习汉语词语却不行，这也是英语比汉语简洁的一种很好的体现。</p>
+]]></content>
       <categories>
         <category>4 Self-realization</category>
-        <category>Computer</category>
-        <category>Computer Science</category>
-        <category>3 Theories</category>
-        <category>Algorithm &amp; Data Structure</category>
+        <category>English</category>
       </categories>
       <tags>
-        <tag>算法</tag>
+        <tag>方法</tag>
       </tags>
   </entry>
   <entry>
@@ -1038,66 +1098,6 @@
       </categories>
       <tags>
         <tag>随笔</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>英语学习</title>
-    <url>/2022/01/01/%E8%8B%B1%E8%AF%AD%E5%AD%A6%E4%B9%A0/</url>
-    <content><![CDATA[<p>“英语”、“汉语”：<strong>语言 + 文字</strong></p>
-<p>语言：英语 汉语</p>
-<p>文字：英文 中文</p>
-<span id="more"></span>
-<br>
-<p>英语：字母 发音 单词 句子</p>
-<p>汉语：汉字 拼音 词语 句子</p>
-<br>
-<p>作为语言的特性：音</p>
-<p>作为文字的特性：形</p>
-<br>
-<p>英语作为一种语言，同时又是一种文字，<strong>“音”和“形”都是必须要掌握的</strong>，不然就失去了意义。</p>
-<p>学习这种“语言”不外乎两种方式：</p>
-<ol>
-<li>以音记形（即** “听觉型学习者” **）</li>
-<li>以形记音（即** “视觉型学习者” **）</li>
-</ol>
-<br>
-<p>在英语和汉语中，<strong>单词</strong>和<strong>词语</strong>作为一门语言在语法、语义、语用层面的最小单位，是语言的根基，也是学习语言的关键所在。</p>
-<p>对英语而言，<strong>单词的基础二十六个英文字母</strong>在“形”上几乎没有学习门槛，在“音”上存在一定门槛；而对汉语而言，<strong>词语的基础汉字</strong>在“音”和“形”上都存在一定的学习门槛，并且“形”恰恰是学习汉语的最大阻碍所在。</p>
-<br>
-<p>作为一名汉语母语者，反思我对汉语中词语记忆的形成，起关键作用的并不是“形”，而是“音”。也就是说，在想到一个词语并想要将其写下时，我脑海中第一时间想到的并不是组成它的汉字长什么样，而是它的读音，然后通过“形音对应”写下每一个音对应的汉字，从而写下这个词语。</p>
-<p>与此同时，在我对自己的认知中，我的语言天赋是明显高于文字天赋的。</p>
-<p>因此，<strong>“以音记形”的语言学习方式会更加适合我</strong>。</p>
-<br>
-<p>综上，<strong>我的英语学习之路</strong>：</p>
-<ol>
-<li><strong>发音</strong></li>
-<li>单词（<strong>以音记形</strong>）</li>
-<li>语法（语法的目的是遣词造句，这在英语和汉语中是一样的）</li>
-</ol>
-<hr>
-<p>词——词组 / 短语——句子：</p>
-<p><strong>词</strong>：<br>
-语法、语义、语用的最小单位，语言的根基。</p>
-<p><strong>词组 / 短语</strong>：<br>
-具有中心词的语法单位。<br>
-语法、语义、语用层面能搭配的语言单位组合起来形成的没有腔调（句调 / 语调 / 语气 / ……）的语言单位。</p>
-<p><strong>句子</strong>：<br>
-能表达完整语义的最实用的语言单位。<br>
-有腔调的——语言表达的魅力所在。</p>
-<br>
-<p><strong>汉语比英语要复杂</strong>：</p>
-<p>对英语而言，单词的基础二十六个英文字母在“形”上几乎没有学习门槛，在“音”上存在一定门槛；而对汉语而言，词语的基础汉字在“音”和“形”上都存在一定的学习门槛，并且“形”恰恰是学习汉语的最大阻碍所在。</p>
-<p><strong>在汉语 / 英语中，词语 / 单词都是由它们的基础元素（汉字 / 字母）通过排列组合组成的</strong>。不同的地方在于：</p>
-<p>在汉语中，<strong>词语学习的门槛在于汉字本身</strong>（当然，这并不代表汉字的排列组合就很容易。这里我们强调的是“门槛”，也就是在学习路上最早遇到的障碍），成百上千个汉字在“音”和“形”上都存在一定的学习门槛，两者对于初学者而言都是陌生的。这一点也导致了<strong>对于汉语初学者来说，其实是无法通过“以音记形” / “以形记音”的方式来学习词语的</strong>。初学者只能“音”和“形”同时学习，然后随着学习过程的深入以及对自身认知的加深，慢慢确定并偏向适合自己的学习方法。</p>
-<p>英语就不同了。在英语中，<strong>单词学习的门槛在于二十六个字母的排列组合</strong>，二十六个英文字母本身数量极为有限，在“形”上几乎没有学习门槛，对于英语初学者来说，只要跨越了“音”的障碍，再经过一段时间的“形音对应”训练，完全可以通过“以音记形” / “以形记音”的方式从二十六个英文字母平滑过渡到字母的排列组合，学习单词，并且事半功倍。</p>
-<p>事实上，在英语和汉语的学习中，初学者能够通过“以音记形” / “以形记音”的方式来学习英语单词，而学习汉语词语却不行，这也是英语比汉语简洁的一种很好的体现。</p>
-]]></content>
-      <categories>
-        <category>4 Self-realization</category>
-        <category>English</category>
-      </categories>
-      <tags>
-        <tag>方法</tag>
       </tags>
   </entry>
 </search>

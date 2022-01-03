@@ -11,21 +11,17 @@
  </center>
 <h2 id="个人信息"><a class="markdownIt-Anchor" href="#个人信息"></a> 个人信息</h2>
 <ul>
-<li>性 别：男             年 龄：25</li>
-<li>手 机：134XXXX3216          邮 箱：XXXXX@XXX.com</li>
-<li>专 业：计算机科学与计算       岗 位：研发工程师</li>
+<li>性 别：男             年 龄：21</li>
+<li>手 机：15377644815          邮 箱：liu1755359472@gmail.com</li>
+<li>专 业：信息安全专业         岗 位：Java工程师</li>
 </ul>
 <h2 id="工作及教育经历"><a class="markdownIt-Anchor" href="#工作及教育经历"></a> 工作及教育经历</h2>
 <ul>
-<li>前公司       2019.8~至今      事业群名字-部门名字</li>
-<li>XXXX大学     2017.9~2019.7     计算机科学与技术专业-研究生</li>
-<li>XXXX大学     2013.9~2017.7     计算机科学与技术专业-本科</li>
+<li>中国地质大学（武汉）     2019.9~2023.6      信息安全专业-本科</li>
 </ul>
 <h2 id="专业技能"><a class="markdownIt-Anchor" href="#专业技能"></a> 专业技能</h2>
 <ul>
-<li>熟练使用 C++，掌握Go，了解 Java、Python、PHP 等编程语言</li>
-<li>掌握基础数据结构和算法的基本原理</li>
-<li>等等</li>
+<li>精通，熟练使用，掌握，熟悉，了解</li>
 </ul>
 <h2 id="项目经历"><a class="markdownIt-Anchor" href="#项目经历"></a> 项目经历</h2>
 <ol>
@@ -48,12 +44,6 @@
 </ul>
 </li>
 </ol>
-<h2 id="获奖经历"><a class="markdownIt-Anchor" href="#获奖经历"></a> 获奖经历</h2>
-<ul>
-<li>XXX 优秀新人</li>
-<li>XXX 学生社团优秀干部</li>
-<li>竞赛 XXX 奖</li>
-</ul>
 <h2 id="个人账号"><a class="markdownIt-Anchor" href="#个人账号"></a> 个人账号</h2>
 <ul>
 <li>blog 地址 (附加自己博客特色，写了哪些技术文章)</li>
@@ -62,7 +52,6 @@
 <h2 id="其他信息"><a class="markdownIt-Anchor" href="#其他信息"></a> 其他信息</h2>
 <ul>
 <li>喜欢钻研技术 等等</li>
-<li>性格开朗，喜欢跳舞，做个主持人 等等</li>
 </ul>
 ]]></content>
       <categories>
@@ -148,6 +137,19 @@
       </categories>
       <tags>
         <tag>简历</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>每日推荐（30）</title>
+    <url>/2022/01/03/%E6%AF%8F%E6%97%A5%E6%8E%A8%E8%8D%90%EF%BC%8830%EF%BC%89/</url>
+    <content><![CDATA[<p>今天推荐的是一个个人博客：</p>
+<p><strong>编程随想的博客</strong></p>
+<span id="more"></span>
+<br>
+<p>这是它的链接：<a href="https://program-think.blogspot.com/">编程随想的博客</a></p>
+]]></content>
+      <tags>
+        <tag>每日推荐</tag>
       </tags>
   </entry>
   <entry>
@@ -252,7 +254,7 @@
   <entry>
     <title>每日推荐（26）</title>
     <url>/2021/12/30/%E6%AF%8F%E6%97%A5%E6%8E%A8%E8%8D%90%EF%BC%8826%EF%BC%89/</url>
-    <content><![CDATA[<p>今天推荐的是一个政治方面的网站：</p>
+    <content><![CDATA[<p>今天推荐的是一个网站：</p>
 <p><strong>中国文革受难者纪念园</strong></p>
 <span id="more"></span>
 <br>
@@ -265,7 +267,7 @@
   <entry>
     <title>每日推荐（25）</title>
     <url>/2021/12/29/%E6%AF%8F%E6%97%A5%E6%8E%A8%E8%8D%90%EF%BC%8825%EF%BC%89/</url>
-    <content><![CDATA[<p>今天推荐的是一个慈善项目：</p>
+    <content><![CDATA[<p>今天推荐的是一个项目：</p>
 <p><strong>李嘉诚基金会全国宁养医疗服务计划</strong></p>
 <span id="more"></span>
 <br>
@@ -278,7 +280,7 @@
   <entry>
     <title>每日推荐（24）</title>
     <url>/2021/12/28/%E6%AF%8F%E6%97%A5%E6%8E%A8%E8%8D%90%EF%BC%8824%EF%BC%89/</url>
-    <content><![CDATA[<p>今天推荐的是一个Java面试指南：</p>
+    <content><![CDATA[<p>今天推荐的是一个指南：</p>
 <p><strong>JavaGuide</strong></p>
 <span id="more"></span>
 <br>
@@ -306,7 +308,7 @@
   <entry>
     <title>每日推荐（22）</title>
     <url>/2021/12/26/%E6%AF%8F%E6%97%A5%E6%8E%A8%E8%8D%90%EF%BC%8822%EF%BC%89/</url>
-    <content><![CDATA[<p>今天推荐的是一个GitHub项目：</p>
+    <content><![CDATA[<p>今天推荐的是一个项目：</p>
 <p><strong>comments-for-awesome-courses</strong></p>
 <span id="more"></span>
 <br>
@@ -320,7 +322,7 @@
   <entry>
     <title>每日推荐（21）</title>
     <url>/2021/12/25/%E6%AF%8F%E6%97%A5%E6%8E%A8%E8%8D%90%EF%BC%8821%EF%BC%89/</url>
-    <content><![CDATA[<p>今天推荐的是一个健康方面的网站：</p>
+    <content><![CDATA[<p>今天推荐的是一个网站：</p>
 <p><strong>verywellfit</strong></p>
 <span id="more"></span>
 <br>
@@ -347,7 +349,7 @@
   <entry>
     <title>每日推荐（19）</title>
     <url>/2021/12/23/%E6%AF%8F%E6%97%A5%E6%8E%A8%E8%8D%90%EF%BC%8819%EF%BC%89/</url>
-    <content><![CDATA[<p>今天推荐的是一场合唱的Live：</p>
+    <content><![CDATA[<p>今天推荐的是一场Live：</p>
 <p><strong>彩虹合唱团-醉鬼的敬酒曲</strong></p>
 <span id="more"></span>
 <br>
@@ -393,7 +395,7 @@
   <entry>
     <title>每日推荐（17）</title>
     <url>/2021/12/21/%E6%AF%8F%E6%97%A5%E6%8E%A8%E8%8D%90%EF%BC%8817%EF%BC%89/</url>
-    <content><![CDATA[<p>今天推荐的是一个计算机科学方面的视频：</p>
+    <content><![CDATA[<p>今天推荐的是一个视频：</p>
 <p><strong>《图解计算机科学》</strong></p>
 <span id="more"></span>
 <br>
@@ -423,7 +425,7 @@
   <entry>
     <title>每日推荐（16）</title>
     <url>/2021/12/20/%E6%AF%8F%E6%97%A5%E6%8E%A8%E8%8D%90%EF%BC%8816%EF%BC%89/</url>
-    <content><![CDATA[<p>今天推荐的是一个政经方面的自媒体博主：</p>
+    <content><![CDATA[<p>今天推荐的是一个自媒体博主：</p>
 <p><strong>小岛大浪吹</strong></p>
 <span id="more"></span>
 <br>
@@ -472,7 +474,7 @@
   <entry>
     <title>每日推荐（15）</title>
     <url>/2021/12/19/%E6%AF%8F%E6%97%A5%E6%8E%A8%E8%8D%90%EF%BC%8815%EF%BC%89/</url>
-    <content><![CDATA[<p>今天推荐的是一个政治方面的网站：</p>
+    <content><![CDATA[<p>今天推荐的是一个网站：</p>
 <p><strong>中国数字时代</strong></p>
 <span id="more"></span>
 <br>
@@ -485,7 +487,7 @@
   <entry>
     <title>每日推荐（14）</title>
     <url>/2021/12/18/%E6%AF%8F%E6%97%A5%E6%8E%A8%E8%8D%90%EF%BC%8814%EF%BC%89/</url>
-    <content><![CDATA[<p>今天推荐的是一部亲密关系方面的电影：</p>
+    <content><![CDATA[<p>今天推荐的是一部电影：</p>
 <p><strong>《怦然心动》</strong></p>
 <span id="more"></span>
 <br>
@@ -501,7 +503,7 @@
   <entry>
     <title>每日推荐（13）</title>
     <url>/2021/12/17/%E6%AF%8F%E6%97%A5%E6%8E%A8%E8%8D%90%EF%BC%8813%EF%BC%89/</url>
-    <content><![CDATA[<p>今天推荐的是一本算法方面的好书：</p>
+    <content><![CDATA[<p>今天推荐的是一本书：</p>
 <p><strong>《算法（第4版）》</strong></p>
 <span id="more"></span>
 <br>
@@ -515,7 +517,7 @@
   <entry>
     <title>每日推荐（12）</title>
     <url>/2021/12/16/%E6%AF%8F%E6%97%A5%E6%8E%A8%E8%8D%90%EF%BC%8812%EF%BC%89/</url>
-    <content><![CDATA[<p>今天推荐的是一本操作系统方面的好书：</p>
+    <content><![CDATA[<p>今天推荐的是一本书：</p>
 <p><strong>《操作系统导论》</strong></p>
 <span id="more"></span>
 <br>
@@ -529,7 +531,7 @@
   <entry>
     <title>每日推荐（11）</title>
     <url>/2021/12/15/%E6%AF%8F%E6%97%A5%E6%8E%A8%E8%8D%90%EF%BC%8811%EF%BC%89/</url>
-    <content><![CDATA[<p>今天推荐的是一个C语言教程：</p>
+    <content><![CDATA[<p>今天推荐的是一个教程：</p>
 <p><strong>WangDoc: clang-tutorial</strong></p>
 <span id="more"></span>
 <br>
@@ -542,7 +544,7 @@
   <entry>
     <title>每日推荐（10）</title>
     <url>/2021/12/14/%E6%AF%8F%E6%97%A5%E6%8E%A8%E8%8D%90%EF%BC%8810%EF%BC%89/</url>
-    <content><![CDATA[<p>今天推荐的是一个CTF方面的网站：</p>
+    <content><![CDATA[<p>今天推荐的是一个网站：</p>
 <p><strong>CTF Wiki</strong></p>
 <span id="more"></span>
 <br>
@@ -584,7 +586,7 @@
   <entry>
     <title>每日推荐（7）</title>
     <url>/2021/12/11/%E6%AF%8F%E6%97%A5%E6%8E%A8%E8%8D%90%EF%BC%887%EF%BC%89/</url>
-    <content><![CDATA[<p>今天推荐的是一本亲密关系方面的好书：</p>
+    <content><![CDATA[<p>今天推荐的是一本书：</p>
 <p><strong>《亲密关系》</strong></p>
 <span id="more"></span>
 <br>
@@ -598,7 +600,7 @@
   <entry>
     <title>每日推荐（6）</title>
     <url>/2021/12/10/%E6%AF%8F%E6%97%A5%E6%8E%A8%E8%8D%90%EF%BC%886%EF%BC%89/</url>
-    <content><![CDATA[<p>今天推荐的是两个教育方面的演讲：</p>
+    <content><![CDATA[<p>今天推荐的是两个教育主题的演讲：</p>
 <p><strong>《我的奋斗》，罗永浩</strong></p>
 <p><strong>《什么是教育》，崔永元</strong></p>
 <span id="more"></span>
@@ -635,7 +637,7 @@
   <entry>
     <title>每日推荐（4）</title>
     <url>/2021/12/08/%E6%AF%8F%E6%97%A5%E6%8E%A8%E8%8D%90%EF%BC%884%EF%BC%89/</url>
-    <content><![CDATA[<p>今天推荐的是一部医疗主题的纪录片：</p>
+    <content><![CDATA[<p>今天推荐的是一部纪录片：</p>
 <p><strong>《人间世》</strong></p>
 <span id="more"></span>
 <br>
@@ -667,7 +669,7 @@
   <entry>
     <title>每日推荐（2）</title>
     <url>/2021/12/06/%E6%AF%8F%E6%97%A5%E6%8E%A8%E8%8D%90%EF%BC%882%EF%BC%89/</url>
-    <content><![CDATA[<p>今天推荐的是一本性学方面的好书：</p>
+    <content><![CDATA[<p>今天推荐的是一本书：</p>
 <p><strong>《性学观止》</strong></p>
 <span id="more"></span>
 <br>
@@ -681,7 +683,7 @@
   <entry>
     <title>每日推荐（1）</title>
     <url>/2021/12/05/%E6%AF%8F%E6%97%A5%E6%8E%A8%E8%8D%90%EF%BC%881%EF%BC%89/</url>
-    <content><![CDATA[<p>今天推荐的是一本心理学和恋爱方面的好书：</p>
+    <content><![CDATA[<p>今天推荐的是一本心理学与恋爱方面的好书：</p>
 <p><strong>《读懂恋人心——如何在未知中相爱，在懂得后相守》</strong></p>
 <span id="more"></span>
 <br>
@@ -728,10 +730,16 @@
 <p>每日推荐（24）——指南 / JavaGuide</p>
 <p>每日推荐（25）——项目 / 李嘉诚基金会全国宁养医疗服务计划</p>
 <p>每日推荐（26）——网站 / 中国文革受难者纪念园</p>
-<p>每日推荐（27）——博客 / 阮一峰的网络日志</p>
+<p>每日推荐（27）——个人博客 / 阮一峰的网络日志</p>
 <p>每日推荐（28）——网站 / GitHub中文社区</p>
 <p>每日推荐（29）——项目 / Teach Yourself Computer Science</p>
-<p>每日推荐（30）——博客 / 编程随想的博客</p>
+<p>每日推荐（30）——个人博客 / 编程随想的博客</p>
+<p>每日推荐（31）——网站 / Intel—游戏—建议和改造</p>
+<p>每日推荐（32）——日记 / [科普分析] 劳动仲裁日记</p>
+<p>每日推荐（33）——网站 / MyFreeMP3</p>
+<p>每日推荐（34）——网站 / 片库</p>
+<p>每日推荐（35）——网站 / 十佳評测</p>
+<p>每日推荐（36）——网站 / REG007</p>
 ]]></content>
       <tags>
         <tag>每日推荐</tag>
@@ -787,7 +795,9 @@
 <p>人散漫地摊着，书随意地翻着，转着笔，晃着头，一页纸一页纸地扫过去也是读书</p>
 <p>前者固然难得，后者也别忘了</p>
 <br>
+<br>
 <p>来日方长，要有耐心</p>
+<br>
 <br>
 <p>从一直在追的一本小说里看到的所谓“御妻之道”，虽不合时宜，但颇有道理，因此记录在这里：</p>
 <p>妾三千道：“御妻之道，大道在于心，次之在于情，再次在于义，末之在于法。”</p>
@@ -868,6 +878,7 @@
 <p>张若尘感叹道：“修行百年定有情劫，入世千年必逢孽缘。躲不过，逃不掉，情义难拒。”</p>
 <p>“再饮一杯。”妾三千道。</p>
 <p>“啪！”</p>
+<br>
 <br>
 ]]></content>
       <categories>

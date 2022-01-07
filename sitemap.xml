@@ -191,6 +191,15 @@
   </url>
   
   <url>
+    <loc>https://primer2019.github.io/2022/01/07/%E6%AF%8F%E6%97%A5%E6%8E%A8%E8%8D%90%EF%BC%8834%EF%BC%89/</loc>
+    
+    <lastmod>2022-01-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://primer2019.github.io/2021/12/17/%E6%AF%8F%E6%97%A5%E6%8E%A8%E8%8D%90%EF%BC%8813%EF%BC%89/</loc>
     
     <lastmod>2022-01-03</lastmod>
@@ -511,14 +520,14 @@
   </url>
   
   <url>
-    <loc>https://primer2019.github.io/tags/%E6%AF%8F%E6%97%A5%E6%8E%A8%E8%8D%90/</loc>
+    <loc>https://primer2019.github.io/tags/%E6%96%B9%E6%B3%95/</loc>
     <lastmod>2022-01-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://primer2019.github.io/tags/%E6%96%B9%E6%B3%95/</loc>
+    <loc>https://primer2019.github.io/tags/%E6%AF%8F%E6%97%A5%E6%8E%A8%E8%8D%90/</loc>
     <lastmod>2022-01-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -597,6 +606,20 @@
   </url>
   
   <url>
+    <loc>https://primer2019.github.io/categories/4-Self-realization/Computer/Computer-Science/3-Theories/</loc>
+    <lastmod>2022-01-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://primer2019.github.io/categories/4-Self-realization/Computer/Computer-Science/3-Theories/Algorithm-Data-Structure/</loc>
+    <lastmod>2022-01-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://primer2019.github.io/categories/4-Self-realization/English/</loc>
     <lastmod>2022-01-07</lastmod>
     <changefreq>weekly</changefreq>
@@ -611,21 +634,7 @@
   </url>
   
   <url>
-    <loc>https://primer2019.github.io/categories/4-Self-realization/Computer/Computer-Science/3-Theories/</loc>
-    <lastmod>2022-01-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://primer2019.github.io/categories/2-Health/Mental-Health/</loc>
-    <lastmod>2022-01-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://primer2019.github.io/categories/4-Self-realization/Computer/Computer-Science/3-Theories/Algorithm-Data-Structure/</loc>
     <lastmod>2022-01-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

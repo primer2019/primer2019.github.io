@@ -140,6 +140,19 @@
       </tags>
   </entry>
   <entry>
+    <title>每日推荐（34）</title>
+    <url>/2022/01/07/%E6%AF%8F%E6%97%A5%E6%8E%A8%E8%8D%90%EF%BC%8834%EF%BC%89/</url>
+    <content><![CDATA[<p>今天推荐的是一个网站：</p>
+<p><strong>片库</strong></p>
+<span id="more"></span>
+<br>
+<p>这是它的链接：<a href="https://www.mypianku.net/">片库</a></p>
+]]></content>
+      <tags>
+        <tag>每日推荐</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>每日推荐（33）</title>
     <url>/2022/01/06/%E6%AF%8F%E6%97%A5%E6%8E%A8%E8%8D%90%EF%BC%8833%EF%BC%89/</url>
     <content><![CDATA[<p>今天推荐的是一个网站：</p>
@@ -817,48 +830,80 @@
   <entry>
     <title>求职准备</title>
     <url>/2021/11/16/%E6%B1%82%E8%81%8C%E5%87%86%E5%A4%87/</url>
-    <content><![CDATA[<ol>
-<li>
-<p>信息</p>
-</li>
-<li>
-<p>能力</p>
+    <content><![CDATA[<h4 id="信息"><a class="markdownIt-Anchor" href="#信息"></a> 信息</h4>
+<p>牛客网</p>
+<p>脉脉</p>
+<span id="more"></span>
+<br>
+<h4 id="能力"><a class="markdownIt-Anchor" href="#能力"></a> 能力</h4>
 <ul>
 <li>
-<p>理论</p>
-<p>LeetCode</p>
+<p><strong>理论</strong></p>
+<p><em>算法和数据结构</em></p>
+<p>​		《算法（第4版）》</p>
+<p>​		LeetCode</p>
+<p><em>计算机网络</em></p>
+<p>​		《网络是怎样连接的》</p>
+<p>​		《计算机网络-自顶向下方法》</p>
+<p><em>操作系统</em></p>
+<p>​		《操作系统导论》</p>
+<p><em>设计模式</em></p>
 </li>
 <li>
-<p>技术</p>
-<p>项目</p>
+<p><strong>技术</strong></p>
+<p><em>Java</em></p>
+<p><em>C</em></p>
+<p><em>Python</em></p>
 </li>
 <li>
-<p>其他</p>
-<p>博客</p>
+<p><strong>项目</strong></p>
+</li>
+<li>
+<p><strong>博客</strong></p>
+<p>“关于我”</p>
+<p>“算法”</p>
 </li>
 </ul>
-</li>
-<li>
-<p>简历</p>
-<p>中文简历 + 英文简历</p>
+<br>
+<h4 id="简历"><a class="markdownIt-Anchor" href="#简历"></a> 简历</h4>
+<p>中文 + 英文</p>
 <p>PDF + Markdown</p>
-</li>
-<li>
-<p>面试</p>
+<br>
+<h4 id="面试"><a class="markdownIt-Anchor" href="#面试"></a> 面试</h4>
 <ol>
-<li>规划</li>
-<li>投递</li>
-<li>记录</li>
-<li>反馈</li>
-</ol>
+<li>
+<p><strong>规划</strong></p>
 </li>
 <li>
-<p>签约</p>
+<p><strong>投递</strong></p>
+<p>实习</p>
+<p>​		实习僧</p>
+<p>​		公司官网</p>
+<p>校招</p>
+<p>​		LinkedIn</p>
+<p>​		公司官网</p>
+<p>社招</p>
 </li>
 <li>
-<p>入职</p>
+<p><strong>记录</strong></p>
+<p>录音</p>
 </li>
 </ol>
+<p>博客</p>
+<ol start="4">
+<li>
+<p><strong>反馈</strong></p>
+<p>反问面评</p>
+<p>复盘总结</p>
+</li>
+</ol>
+<br>
+<h4 id="签约"><a class="markdownIt-Anchor" href="#签约"></a> 签约</h4>
+<br>
+<h4 id="入职"><a class="markdownIt-Anchor" href="#入职"></a> 入职</h4>
+<ul>
+<li><strong>租房</strong></li>
+</ul>
 ]]></content>
       <categories>
         <category>3 Self</category>

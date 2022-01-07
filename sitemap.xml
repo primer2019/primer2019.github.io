@@ -511,14 +511,14 @@
   </url>
   
   <url>
-    <loc>https://primer2019.github.io/tags/%E6%96%B9%E6%B3%95/</loc>
+    <loc>https://primer2019.github.io/tags/%E6%AF%8F%E6%97%A5%E6%8E%A8%E8%8D%90/</loc>
     <lastmod>2022-01-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://primer2019.github.io/tags/%E6%AF%8F%E6%97%A5%E6%8E%A8%E8%8D%90/</loc>
+    <loc>https://primer2019.github.io/tags/%E6%96%B9%E6%B3%95/</loc>
     <lastmod>2022-01-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -576,13 +576,6 @@
   </url>
   
   <url>
-    <loc>https://primer2019.github.io/categories/3-Self/Individual/Money/Working-for-Myself/</loc>
-    <lastmod>2022-01-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://primer2019.github.io/categories/4-Self-realization/Computer/</loc>
     <lastmod>2022-01-07</lastmod>
     <changefreq>weekly</changefreq>
@@ -590,7 +583,7 @@
   </url>
   
   <url>
-    <loc>https://primer2019.github.io/categories/4-Self-realization/English/</loc>
+    <loc>https://primer2019.github.io/categories/3-Self/Individual/Money/Working-for-Myself/</loc>
     <lastmod>2022-01-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -598,6 +591,13 @@
   
   <url>
     <loc>https://primer2019.github.io/categories/4-Self-realization/Computer/Computer-Science/</loc>
+    <lastmod>2022-01-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://primer2019.github.io/categories/4-Self-realization/English/</loc>
     <lastmod>2022-01-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

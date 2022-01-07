@@ -817,7 +817,46 @@
   <entry>
     <title>求职准备</title>
     <url>/2021/11/16/%E6%B1%82%E8%81%8C%E5%87%86%E5%A4%87/</url>
-    <content><![CDATA[]]></content>
+    <content><![CDATA[<ol>
+<li>
+<p>信息</p>
+</li>
+<li>
+<p>能力</p>
+<ul>
+<li>
+<p>理论</p>
+<p>LeetCode</p>
+</li>
+<li>
+<p>技术</p>
+<p>项目</p>
+</li>
+<li>
+<p>其他</p>
+<p>博客</p>
+</li>
+</ul>
+</li>
+<li>
+<p>简历</p>
+<p>中文简历 + 英文简历</p>
+<p>PDF + Markdown</p>
+</li>
+<li>
+<p>面试</p>
+<ol>
+<li>规划</li>
+<li>投递</li>
+<li>记录</li>
+<li>反馈</li>
+</ol>
+</li>
+<li>
+<p>签约</p>
+</li>
+</ol>
+]]></content>
       <categories>
         <category>3 Self</category>
         <category>Individual</category>

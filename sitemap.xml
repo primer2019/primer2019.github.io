@@ -11,6 +11,15 @@
   </url>
   
   <url>
+    <loc>https://primer2019.github.io/2021/11/15/%E5%BF%AB%E9%80%9F%E5%AD%A6%E4%B9%A0/</loc>
+    
+    <lastmod>2022-01-07</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://primer2019.github.io/2021/11/15/%E9%9A%8F%E7%AC%94%EF%BC%881%EF%BC%89/</loc>
     
     <lastmod>2022-01-04</lastmod>
@@ -362,15 +371,6 @@
   </url>
   
   <url>
-    <loc>https://primer2019.github.io/2021/11/15/%E5%BF%AB%E9%80%9F%E5%AD%A6%E4%B9%A0/</loc>
-    
-    <lastmod>2022-01-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://primer2019.github.io/2021/11/16/%E8%8B%B1%E6%96%87%E7%AE%80%E5%8E%86/</loc>
     
     <lastmod>2021-12-29</lastmod>
@@ -506,14 +506,14 @@
 
   
   <url>
-    <loc>https://primer2019.github.io/tags/%E7%AE%80%E5%8E%86/</loc>
+    <loc>https://primer2019.github.io/tags/%E5%85%B3%E4%BA%8E%E6%88%91/</loc>
     <lastmod>2022-01-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://primer2019.github.io/tags/%E5%85%B3%E4%BA%8E%E6%88%91/</loc>
+    <loc>https://primer2019.github.io/tags/%E7%AE%80%E5%8E%86/</loc>
     <lastmod>2022-01-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -585,13 +585,6 @@
   </url>
   
   <url>
-    <loc>https://primer2019.github.io/categories/4-Self-realization/Computer/</loc>
-    <lastmod>2022-01-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://primer2019.github.io/categories/3-Self/Individual/Money/Working-for-Myself/</loc>
     <lastmod>2022-01-07</lastmod>
     <changefreq>weekly</changefreq>
@@ -599,21 +592,7 @@
   </url>
   
   <url>
-    <loc>https://primer2019.github.io/categories/4-Self-realization/Computer/Computer-Science/</loc>
-    <lastmod>2022-01-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://primer2019.github.io/categories/4-Self-realization/Computer/Computer-Science/3-Theories/</loc>
-    <lastmod>2022-01-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://primer2019.github.io/categories/4-Self-realization/Computer/Computer-Science/3-Theories/Algorithm-Data-Structure/</loc>
+    <loc>https://primer2019.github.io/categories/4-Self-realization/Computer/</loc>
     <lastmod>2022-01-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -627,6 +606,13 @@
   </url>
   
   <url>
+    <loc>https://primer2019.github.io/categories/4-Self-realization/Computer/Computer-Science/</loc>
+    <lastmod>2022-01-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://primer2019.github.io/categories/2-Health/</loc>
     <lastmod>2022-01-07</lastmod>
     <changefreq>weekly</changefreq>
@@ -634,7 +620,21 @@
   </url>
   
   <url>
+    <loc>https://primer2019.github.io/categories/4-Self-realization/Computer/Computer-Science/3-Theories/</loc>
+    <lastmod>2022-01-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://primer2019.github.io/categories/2-Health/Mental-Health/</loc>
+    <lastmod>2022-01-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://primer2019.github.io/categories/4-Self-realization/Computer/Computer-Science/3-Theories/Algorithm-Data-Structure/</loc>
     <lastmod>2022-01-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

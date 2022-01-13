@@ -65,50 +65,1082 @@
       </tags>
   </entry>
   <entry>
-    <title>关于我（2）-思考人生</title>
-    <url>/2021/11/10/%E5%85%B3%E4%BA%8E%E6%88%91%EF%BC%882%EF%BC%89-%E6%80%9D%E8%80%83%E4%BA%BA%E7%94%9F/</url>
-    <content><![CDATA[<p>前面提到了，要想获得写博客的长久动力，必须得叩问自己的内心，解决三件事儿：写不写？写什么？为什么要写？</p>
-<p>这三个问题其实很好回答：<br>
-写不写？写。<br>
-写什么？写一切值得写的东西。<br>
-为什么要写？因为它们值得。</p>
+    <title>英文简历</title>
+    <url>/2021/11/16/%E8%8B%B1%E6%96%87%E7%AE%80%E5%8E%86/</url>
+    <content><![CDATA[<p>BaiduNetdisk sharing link of all format resumes: <a href></a></p>
 <span id="more"></span>
-<p>肯定有人要说了，你这不是废话吗？乍一看，这确实像是废话，但我想说的是，你之所以认为这是废话，根本原因是你无法明确对你自己而言什么是“值得”的。这的确是个难题。明确对自己而言什么是“值得”的，说白了，就是要思考清楚自己的人生。思考人生，想想就头大，不过头大也没办法，必须去做。因为不仅仅是写博客之前需要做这件事儿，事实上，对于一个成年人来讲，想要做好任何一件需要长期投入的事儿，都需要经历这一步，否则根本无法持久。换句话说，一个成年人，只有在思考清楚自己的人生以后，才有可能长期投入到一件事儿中，并最终取得成功。</p>
-<p>那么怎么思考自己的人生呢？如今这个时代，无数的鸡汤文每天都在教你如何思考自己的人生，它们援引了数不清的”别人“的故事，制造了各种各样花里胡哨的文字，把思考人生这件事儿搞得无比复杂。这导致很多人在思考自己的人生时，精力并没有放在关注思考的深度如何、客观与否上，而是在担心自己的思考是否因为没有援引“别人”的故事而显得单薄，是否因为没有造出朗朗上口的名句而显得苍白。这偏离了思考的本意，思考自然就不会有收获。长此以往，很多人因此失去了思考人生的勇气，不敢再去思考自己的人生，甚至丧失了思考人生的能力。</p>
-<p>但我想说的是，思考人生这个事儿，其实并没有那么复杂。它不需要援引“别人”的故事来丰富，也不需要制造花哨的文字来增色，思考人生这件事儿本身已经足够丰满与深刻。每个人都有属于自己的人生，自然都能够去思考它。我们不需要去参考任何东西，我们要做的，就是用大脑赋予我们的思考能力，循着我们与生俱来的需求和欲望去思考就好了。</p>
-<p>正是因为抱着这样一种态度，在我十九岁的那一年，我很认真的做了这件困扰了无数人一生的事儿——思考人生，并且给出了我的确切答案，尽管这个过程并不容易。正因为做成了这件事儿，在我十九岁生日那天，我发了至今保留在我的QQ空间中的唯一的那条说说：</p>
-<img src="/2021/11/10/%E5%85%B3%E4%BA%8E%E6%88%91%EF%BC%882%EF%BC%89-%E6%80%9D%E8%80%83%E4%BA%BA%E7%94%9F/19.png" alt="19" style="zoom:50%;">
-<p>也正因为做成了这件事儿，我始终坚持，我真正成人的年纪是十九岁，而不是法律规定的十八岁。事实上，我一直觉得，成熟和时间没什么关系，它更多地是由经历决定的。郭德纲有个说法很贴切，记者问他：“活明白需要时间的吗？”，他说：“不需要，需要经历！三岁经历一件事儿，他就明白了，活到95都没有经历过，他可能永远也不会明白。吃亏要趁早，一帆风顺不是什么好事，从小到大娇生惯养没人跟他说过什么话，六十五岁走在大街上有人瞪他一眼当时就猝死。从出生就挨打，一天八个嘴巴，这到二十五岁铜金刚铁罗汉一样，什么都不在乎。”我也觉得是这个理儿。</p>
+<br>
+<center>
+     <h1>XXX</h1>
+ </center>
+<h2 id="个人信息"><a class="markdownIt-Anchor" href="#个人信息"></a> 个人信息</h2>
+<ul>
+<li>性 别：男             年 龄：25</li>
+<li>手 机：134XXXX3216          邮 箱：XXXXX@XXX.com</li>
+<li>专 业：计算机科学与计算       岗 位：研发工程师</li>
+</ul>
+<h2 id="工作及教育经历"><a class="markdownIt-Anchor" href="#工作及教育经历"></a> 工作及教育经历</h2>
+<ul>
+<li>前公司       2019.8~至今      事业群名字-部门名字</li>
+<li>XXXX大学     2017.9~2019.7     计算机科学与技术专业-研究生</li>
+<li>XXXX大学     2013.9~2017.7     计算机科学与技术专业-本科</li>
+</ul>
+<h2 id="专业技能"><a class="markdownIt-Anchor" href="#专业技能"></a> 专业技能</h2>
+<ul>
+<li>熟练使用 C++，掌握Go，了解 Java、Python、PHP 等编程语言</li>
+<li>掌握基础数据结构和算法的基本原理</li>
+<li>等等</li>
+</ul>
+<h2 id="项目经历"><a class="markdownIt-Anchor" href="#项目经历"></a> 项目经历</h2>
+<ol>
+<li>
+<p>公司/学校 - XXweb服务器 - 独立开发 - 201508- 201512</p>
+<ul>
+<li>具体功能</li>
+<li>运用了那些技术，技术难点是</li>
+<li>效果如何</li>
+<li>demo演示地址，github地址</li>
+</ul>
+</li>
+<li>
+<p>公司/学校 - XX游戏 - 负责后端开发 - 201309- 201401</p>
+<ul>
+<li>具体功能</li>
+<li>运用了那些技术，技术难点是</li>
+<li>效果如何</li>
+<li>demo演示地址，github地址</li>
+</ul>
+</li>
+</ol>
+<h2 id="获奖经历"><a class="markdownIt-Anchor" href="#获奖经历"></a> 获奖经历</h2>
+<ul>
+<li>XXX 优秀新人</li>
+<li>XXX 学生社团优秀干部</li>
+<li>竞赛 XXX 奖</li>
+</ul>
+<h2 id="个人账号"><a class="markdownIt-Anchor" href="#个人账号"></a> 个人账号</h2>
+<ul>
+<li>blog 地址 (附加自己博客特色，写了哪些技术文章)</li>
+<li>github 地址 (附加自己github特色，突出的项目)</li>
+</ul>
+<h2 id="其他信息"><a class="markdownIt-Anchor" href="#其他信息"></a> 其他信息</h2>
+<ul>
+<li>喜欢钻研技术 等等</li>
+<li>性格开朗，喜欢跳舞，做个主持人 等等</li>
+</ul>
 ]]></content>
       <categories>
         <category>3 Self</category>
         <category>Individual</category>
+        <category>Money</category>
+        <category>Working for Others</category>
       </categories>
       <tags>
-        <tag>关于我</tag>
+        <tag>简历</tag>
       </tags>
   </entry>
   <entry>
-    <title>关于我（1）-为什么要写博客？</title>
-    <url>/2021/11/08/%E5%85%B3%E4%BA%8E%E6%88%91%EF%BC%881%EF%BC%89-%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E5%86%99%E5%8D%9A%E5%AE%A2%EF%BC%9F/</url>
-    <content><![CDATA[<p>这是我的第一篇博客，我决定从“我”开始讲起。为什么选择以这种方式开启我的博客之路呢？这就与我对写博客这件事儿的认识以及我在其上寄予的愿景息息相关了。接下来，听我慢慢讲。</p>
+    <title>每日推荐（39）</title>
+    <url>/2022/01/12/%E6%AF%8F%E6%97%A5%E6%8E%A8%E8%8D%90%EF%BC%8839%EF%BC%89/</url>
+    <content><![CDATA[<p>今天推荐的是一本书：</p>
+<p><strong>《计算机网络-自顶向下方法》</strong></p>
 <span id="more"></span>
-<p>在我读中学的时候，我就发现自己有一种不知道是好是坏的“癖好”——我很喜欢进行系统地整理。因此我会做出工工整整的各科笔记，以几乎相同的格式把每个章节的知识完整地记录下来，并配上目录，甚至会为此选用制式相同的本子和笔。这个“癖好”还表现在很多方面，比如当我读到一些我以为的好书，或者看到一些好的电影时，我会把它们都集中记录下来，最开始记录在纸上，后来记录在豆瓣，再后来是在网盘和硬盘里…</p>
-<p>为什么说不知道是好是坏呢？一方面，在某些方面，这个“癖好”给我的帮助确实不小。比如和中、高考打交道的那几年，这个“癖好”让我有了相对更为扎实的基础；对于一本值得反复阅读的好书，或者一段值得反复观看的影片，当我再次回忆起它们时，不至于遍寻脑海而毫无头绪。但另一方面，这个“癖好”带来的问题也是显而易见的——它太浪费时间了。做到整齐划一大概是这个世界上最难的事儿之一了，更何况，在规整地记录之后，更多地想法会随之涌现出来，比如分类，这又是一大难题。在这个过程中，为了做到强迫症般的整齐，自然少不了各种各样的形式主义，时间也就如流水般逝去了。</p>
-<p>即便如此，这个“癖好”我还是一直保留到了现在，因为我实在从中获益良多。当然，现在我会有意识地在践行的过程中减少形式主义的东西，让它回归初心时的样子。为什么要专门提到这样一个“癖好”呢？因为我搭建博客最初的动力，就与此有关。</p>
-<p>我学的是计算机，进大学之前，是典型的“小镇做题家”，对这个专业只知道目光所及的前景和自认为的兴趣。进大学第一年，学校开的都是些公共课，数学、英语、体育等等，临到这年结束，才开了一门儿专业课，叫“C++高级语言程序设计”。五十多的副院长，操着一口听不懂哪儿的方言，拿着自己编的课本儿，用着将近二十年前的PPT，教我们写C风格的旧版本C++。我大概听了两节课，心里就一片灰暗，那时候还没有考虑什么大厂、什么保研，只是单纯觉得，要是这样学四年下来，我什么都学不会，而且时间全部会浪费掉。于是从那儿起，我开始摸索我的计算机自学之路。</p>
-<p>而在摸索过程中，就不可避免的会接触到各种各样的博客。从最初通过百度接触到的博客平台CSDN、博客园，到一些名声在外的独立博客网站“CoolShell”、“阮一峰的网络日志”，再到通过Google接触到的各种各样的独立博客xxx.github.io等等。这还仅仅是中文博客，英文世界里还有更多大神的博客等待着被探索。各式各样的人在博客上记录自己的技术之路，这些内容给到摸索中的我很大的帮助，所以，我的“癖好”又被勾起来了。</p>
-<p>没多久之后，我脑子里就一直在想，我是不是也可以自己写一个博客，把自己自学计算机技术的整个过程全部记录下来分享出去。基于这个念头，我又去了解了很多和博客相关的事儿，知道了在应聘时，一个持续更新的博客形成的优势不亚于项目和实习；知道了在未来，一个运营良好的优质博客甚至可以成为程序员的另一条出路。于是在这种种想法的推动下，我终于开始着手搭建自己的博客。</p>
-<p>要搭建怎样的博客呢？博客平台似乎还不错，CSDN虽然广告泛滥，但博客园还算说得过去，起初我这样想。但后来，随着了解得更深入，我发现从应聘的角度讲，不同类型的博客之间也存在高下之分。就像在简历上写Gmail邮箱就是比QQ邮箱给人印象更好一样，独立博客相对于博客平台也有这样的优势。另外，GFW也是我不得不考虑的因素。我不是只知道唱红歌的乖孩子，相较于粉饰出来的表象，我对真实的现实更感兴趣，所以也希望以后能在自己的博客上有自由表达的权利，想说的时候能说两句实话。综合考虑这些因素，最终我决定搭建独立博客，并在一番权衡后，选择先通过Hexo + GitHub Pages这样便宜简洁的方式来搭建，最终的成果就是你现在看到的这个博客。</p>
-<p>讲了半天，总算是把“为什么要搭建博客”这个事儿说清楚了，接下来就可以讲“为什么要写博客”了。</p>
-<p>有人可能要问了，你刚刚不是说过搭建博客就是为了记录、分享自学计算机的全过程吗？既然主题都已确定，搭建完博客直接写不就好了嘛，何必单独拿出来讲呢？这话倒是没错，可问题恰恰就出在这儿。</p>
-<p>对于那些影视爱好者来讲，他们收藏自己喜欢的影片的方法有很多：可以只是列一个清单，可以是专门买一个硬盘，甚至可以制作专业的碟片，不管选择哪种方式，最终目的都是把那些自己心爱的影片收藏起来。至于你心爱的影片是什么？和你如何收藏它无关。因为心爱，所以收藏。</p>
-<p>搭建博客和写博客之间的关系也是这样。我把博客搭建好了以后，只是为我可能写出的内容选择了博客这样的一种呈现方式。那么，我为什么要写这些内容呢？真的只是为了记录、分享自己自学计算机的过程吗？坦白讲，在我搭建好博客后，一时的热情褪去，真的要开始下笔写博客的时候，我重新问了自己这个问题，得到的答案是否定的。如果仅仅以此为动力，我想它不足以支持我把这个博客一直写下去。</p>
-<p>问题出在哪儿？我认真思考着这件事儿。</p>
-<p>以“记录、分享自己自学计算机的过程”为动力的话，看在这个博客对以后求职利好的份儿上，我想我能够坚持去更新它，但既然是坚持，那么过程必定痛苦，很难长久。相较于坚持去做一件事儿，我更喜欢的还是以兴趣为引子，自发地去做一件事儿，自发慢慢形成习惯，就变成了自律，这个过程与坚持相仿，但并不会痛苦，反而滋味丰富，这样才能够提供持久的动力。那么我对计算机没兴趣吗？当然有兴趣…这，似乎陷入了一个死循环。</p>
-<p>就这么纠结了好一阵子之后，有一天我突然反应过来，问题的症结根本不在这儿——我搭建博客这个事儿最早其实就是源于那么一个小“癖好”，可以说是临时起意，要搭建一个计算机主题的博客。但当我真的靠着三分钟热度把这个博客搭建了起来以后，要开始写博客了，我需要为自己写博客这件事儿找到长期持久的动力，仅靠这么个小“癖好”无法支撑了，那么我的动力要从哪儿来呢？</p>
-<p>这个时候，我没有选择去叩问自己的内心，而是选择了完全听从“别人”的意见。“学计算机的就该维护一个自己的博客…”、“一个维护的好的博客在求职的时候是绝对的加分项…”、“…”等等，这些全都是“别人”说的。我从来不曾问过自己，“你为什么要写一个计算机主题的博客？”要知道，对计算机有兴趣并不意味着就能够维护一个计算机主题的博客，这完全是两码事儿。更进一步讲，我要写的难道真的是一个计算机主题的博客吗？也许，我真正想记录的其实是自己的生活，而计算机只是其中的一部分？如果是这样的话，那它是怎样的一部分呢？又或者，其实我根本就不喜欢记录…</p>
-<p>总而言之，写不写？写什么？为什么要写？这三件事儿才是症结所在，把这三个事儿搞明白了，问题自然迎刃而解。而要想搞明白它们，得去叩问自己的内心。至于”别人“的话，最多只能作为指引方向的参照物，毕竟，最终想要到达的目的地，始终藏在自己心里。</p>
+<br>
+<p>这是它的豆瓣链接：<a href="https://book.douban.com/subject/30280001/">豆瓣——《计算机网络-自顶向下方法》</a></p>
+<p>这是它的百度网盘分享链接：<a href="https://pan.baidu.com/s/1lgaiPxuatuSP5TjTJ9fHCA">百度网盘——《计算机网络-自顶向下方法》</a>，提取码：7vu3</p>
+]]></content>
+      <tags>
+        <tag>每日推荐</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>每日推荐（38）</title>
+    <url>/2022/01/11/%E6%AF%8F%E6%97%A5%E6%8E%A8%E8%8D%90%EF%BC%8838%EF%BC%89/</url>
+    <content><![CDATA[<p>今天推荐的是一本书：</p>
+<p><strong>《网络是怎样连接的》</strong></p>
+<span id="more"></span>
+<br>
+<p>这是它的豆瓣链接：<a href="https://book.douban.com/subject/26941639/">豆瓣——《网络是怎样连接的》</a></p>
+<p>这是它的百度网盘分享链接：<a href="https://pan.baidu.com/s/1s3tuO1kOuLrxz4taQkm09A">百度网盘——《网络是怎样连接的》</a>，提取码：9o5k</p>
+]]></content>
+      <tags>
+        <tag>每日推荐</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>每日推荐（37）</title>
+    <url>/2022/01/10/%E6%AF%8F%E6%97%A5%E6%8E%A8%E8%8D%90%EF%BC%8837%EF%BC%89/</url>
+    <content><![CDATA[<p>今天推荐的是一个自媒体博主：</p>
+<p><strong>3Blue1Brown</strong></p>
+<span id="more"></span>
+<br>
+<p>这是他的YouTube频道：<a href="https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw">YouTube——3Blue1Brown</a></p>
+<p>这是他的bilibili账号：<a href="https://space.bilibili.com/88461692?from=search&amp;seid=6550328572168281347&amp;spm_id_from=333.337.0.0">bilibili——3Blue1Brown</a></p>
+]]></content>
+      <tags>
+        <tag>每日推荐</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>每日推荐（36）</title>
+    <url>/2022/01/09/%E6%AF%8F%E6%97%A5%E6%8E%A8%E8%8D%90%EF%BC%8836%EF%BC%89/</url>
+    <content><![CDATA[<p>今天推荐的是一个网站：</p>
+<p><strong>REG007</strong></p>
+<span id="more"></span>
+<br>
+<p>这是它的链接：<a href="https://www.reg007.com/">REG007</a></p>
+]]></content>
+      <tags>
+        <tag>每日推荐</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>每日推荐（35）</title>
+    <url>/2022/01/08/%E6%AF%8F%E6%97%A5%E6%8E%A8%E8%8D%90%EF%BC%8835%EF%BC%89/</url>
+    <content><![CDATA[<p>今天推荐的是一个网站：</p>
+<p><strong>十佳評测</strong></p>
+<span id="more"></span>
+<br>
+<p>这是它的链接：<a href="https://www.10besty.com/">十佳評测</a></p>
+]]></content>
+      <tags>
+        <tag>每日推荐</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>每日推荐（34）</title>
+    <url>/2022/01/07/%E6%AF%8F%E6%97%A5%E6%8E%A8%E8%8D%90%EF%BC%8834%EF%BC%89/</url>
+    <content><![CDATA[<p>今天推荐的是一个网站：</p>
+<p><strong>片库</strong></p>
+<span id="more"></span>
+<br>
+<p>这是它的链接：<a href="https://www.mypianku.net/">片库</a></p>
+]]></content>
+      <tags>
+        <tag>每日推荐</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>每日推荐（33）</title>
+    <url>/2022/01/06/%E6%AF%8F%E6%97%A5%E6%8E%A8%E8%8D%90%EF%BC%8833%EF%BC%89/</url>
+    <content><![CDATA[<p>今天推荐的是一个网站：</p>
+<p><strong>MyFreeMP3</strong></p>
+<span id="more"></span>
+<br>
+<p>这是它的链接：<a href="http://tool.liumingye.cn/music/?page=searchPage">MyFreeMP3</a></p>
+<p>这是它所处的工具箱的链接：<a href="http://tool.liumingye.cn/">刘明野的工具箱</a></p>
+]]></content>
+      <tags>
+        <tag>每日推荐</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>每日推荐（32）</title>
+    <url>/2022/01/05/%E6%AF%8F%E6%97%A5%E6%8E%A8%E8%8D%90%EF%BC%8832%EF%BC%89/</url>
+    <content><![CDATA[<p>今天推荐的是一篇日记：</p>
+<p><strong>[科普分析] 劳动仲裁日记</strong></p>
+<span id="more"></span>
+<br>
+<p>这是它的链接：<a href="https://bbs.nga.cn/read.php?tid=22868311">[科普分析] 劳动仲裁日记</a></p>
+]]></content>
+      <tags>
+        <tag>每日推荐</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>每日推荐（31）</title>
+    <url>/2022/01/04/%E6%AF%8F%E6%97%A5%E6%8E%A8%E8%8D%90%EF%BC%8831%EF%BC%89/</url>
+    <content><![CDATA[<p>今天推荐的是一个网站：</p>
+<p><strong>Intel—游戏—建议和改造</strong></p>
+<span id="more"></span>
+<br>
+<p>这是它的链接：<a href="https://www.intel.cn/content/www/cn/zh/gaming/resources/overview.html">Intel—游戏—建议和改造</a></p>
+]]></content>
+      <tags>
+        <tag>每日推荐</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>每日推荐（30）</title>
+    <url>/2022/01/03/%E6%AF%8F%E6%97%A5%E6%8E%A8%E8%8D%90%EF%BC%8830%EF%BC%89/</url>
+    <content><![CDATA[<p>今天推荐的是一个个人博客：</p>
+<p><strong>编程随想的博客</strong></p>
+<span id="more"></span>
+<br>
+<p>这是它的链接：<a href="https://program-think.blogspot.com/">编程随想的博客</a></p>
+]]></content>
+      <tags>
+        <tag>每日推荐</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>每日推荐（29）</title>
+    <url>/2022/01/02/%E6%AF%8F%E6%97%A5%E6%8E%A8%E8%8D%90%EF%BC%8829%EF%BC%89/</url>
+    <content><![CDATA[<p>今天推荐的是一个项目：</p>
+<p><strong>Teach Yourself Computer Science</strong></p>
+<span id="more"></span>
+<br>
+<p>这是它的链接：<a href="https://teachyourselfcs.com/">Teach Yourself Computer Science</a></p>
+]]></content>
+      <tags>
+        <tag>每日推荐</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>英语学习</title>
+    <url>/2022/01/01/%E8%8B%B1%E8%AF%AD%E5%AD%A6%E4%B9%A0/</url>
+    <content><![CDATA[<p>“英语”、“汉语”：<strong>语言 + 文字</strong></p>
+<p>语言：英语 汉语</p>
+<p>文字：英文 中文</p>
+<span id="more"></span>
+<br>
+<p>英语：字母 发音 单词 句子</p>
+<p>汉语：汉字 拼音 词语 句子</p>
+<br>
+<p>作为语言的特性：音</p>
+<p>作为文字的特性：形</p>
+<br>
+<p>英语作为一种语言，同时又是一种文字，<strong>“音”和“形”都是必须要掌握的</strong>，不然就失去了意义。</p>
+<p>学习这种“语言”不外乎两种方式：</p>
+<ol>
+<li>以音记形（即 <strong>“听觉型学习者”</strong> ）</li>
+<li>以形记音（即 <strong>“视觉型学习者”</strong> ）</li>
+</ol>
+<br>
+<p>在英语和汉语中，<strong>单词</strong>和<strong>词语</strong>作为一门语言在语法、语义、语用层面的最小单位，是语言的根基，也是学习语言的关键所在。</p>
+<p>对英语而言，<strong>单词的基础二十六个英文字母</strong>在“形”上几乎没有学习门槛，在“音”上存在一定门槛；而对汉语而言，<strong>词语的基础汉字</strong>在“音”和“形”上都存在一定的学习门槛，并且“形”恰恰是学习汉语的最大阻碍所在。</p>
+<br>
+<p>作为一名汉语母语者，反思我对汉语中词语记忆的形成，起关键作用的并不是“形”，而是“音”。也就是说，在想到一个词语并想要将其写下时，我脑海中第一时间想到的并不是组成它的汉字长什么样，而是它的读音，然后通过“形音对应”写下每一个音对应的汉字，从而写下这个词语。</p>
+<p>与此同时，在我对自己的认知中，我的语言天赋是明显高于文字天赋的。</p>
+<p>因此，<strong>“以音记形”的语言学习方式会更加适合我</strong>。</p>
+<br>
+<p>综上，<strong>我的英语学习之路</strong>：</p>
+<ol>
+<li><strong>发音</strong></li>
+<li>单词（<strong>以音记形</strong>）</li>
+<li>语法（语法的目的是遣词造句，这在英语和汉语中是一样的）</li>
+</ol>
+<hr>
+<p>词——词组 / 短语——句子：</p>
+<p><strong>词</strong>：<br>
+语法、语义、语用的最小单位，语言的根基。</p>
+<p><strong>词组 / 短语</strong>：<br>
+具有中心词的语法单位。<br>
+语法、语义、语用层面能搭配的语言单位组合起来形成的没有腔调（句调 / 语调 / 语气 / ……）的语言单位。</p>
+<p><strong>句子</strong>：<br>
+能表达完整语义的最实用的语言单位。<br>
+有腔调的——语言表达的魅力所在。</p>
+<br>
+<p><strong>汉语比英语要复杂</strong>：</p>
+<p>对英语而言，单词的基础二十六个英文字母在“形”上几乎没有学习门槛，在“音”上存在一定门槛；而对汉语而言，词语的基础汉字在“音”和“形”上都存在一定的学习门槛，并且“形”恰恰是学习汉语的最大阻碍所在。</p>
+<p><strong>在汉语 / 英语中，词语 / 单词都是由它们的基础元素（汉字 / 字母）通过排列组合组成的</strong>。不同的地方在于：</p>
+<p>在汉语中，<strong>词语学习的门槛在于汉字本身</strong>（当然，这并不代表汉字的排列组合就很容易。这里我们强调的是“门槛”，也就是在学习路上最早遇到的障碍），成百上千个汉字在“音”和“形”上都存在一定的学习门槛，两者对于初学者而言都是陌生的。这一点也导致了<strong>对于汉语初学者来说，其实是无法通过“以音记形” / “以形记音”的方式来学习词语的</strong>。初学者只能“音”和“形”同时学习，然后随着学习过程的深入以及对自身认知的加深，慢慢确定并偏向适合自己的学习方法。</p>
+<p>英语就不同了。在英语中，<strong>单词学习的门槛在于二十六个字母的排列组合</strong>，二十六个英文字母本身数量极为有限，在“形”上几乎没有学习门槛，对于英语初学者来说，只要跨越了“音”的障碍，再经过一段时间的“形音对应”训练，完全可以通过“以音记形” / “以形记音”的方式从二十六个英文字母平滑过渡到字母的排列组合，学习单词，并且事半功倍。</p>
+<p>事实上，在英语和汉语的学习中，初学者能够通过“以音记形” / “以形记音”的方式来学习英语单词，而学习汉语词语却不行，这也是英语比汉语简洁的一种很好的体现。</p>
+]]></content>
+      <categories>
+        <category>4 Self-realization</category>
+        <category>English</category>
+      </categories>
+      <tags>
+        <tag>方法</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>每日推荐（28）</title>
+    <url>/2022/01/01/%E6%AF%8F%E6%97%A5%E6%8E%A8%E8%8D%90%EF%BC%8828%EF%BC%89/</url>
+    <content><![CDATA[<p>今天推荐的是一个网站：</p>
+<p><strong>GitHub中文社区</strong></p>
+<span id="more"></span>
+<br>
+<p>这是它的链接：<a href="https://www.githubs.cn/">GitHub中文社区</a></p>
+]]></content>
+      <tags>
+        <tag>每日推荐</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>每日推荐（27）</title>
+    <url>/2021/12/31/%E6%AF%8F%E6%97%A5%E6%8E%A8%E8%8D%90%EF%BC%8827%EF%BC%89/</url>
+    <content><![CDATA[<p>今天推荐的是一个个人博客：</p>
+<p><strong>阮一峰的网络日志</strong></p>
+<span id="more"></span>
+<br>
+<p>这是它的链接：<a href="http://www.ruanyifeng.com/blog/">阮一峰的网络日志</a></p>
+]]></content>
+      <tags>
+        <tag>每日推荐</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>每日推荐（26）</title>
+    <url>/2021/12/30/%E6%AF%8F%E6%97%A5%E6%8E%A8%E8%8D%90%EF%BC%8826%EF%BC%89/</url>
+    <content><![CDATA[<p>今天推荐的是一个网站：</p>
+<p><strong>中国文革受难者纪念园</strong></p>
+<span id="more"></span>
+<br>
+<p>这是它的链接：<a href="https://ywang.uchicago.edu/history/">中国文革受难者纪念园</a></p>
+]]></content>
+      <tags>
+        <tag>每日推荐</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>每日推荐（25）</title>
+    <url>/2021/12/29/%E6%AF%8F%E6%97%A5%E6%8E%A8%E8%8D%90%EF%BC%8825%EF%BC%89/</url>
+    <content><![CDATA[<p>今天推荐的是一个项目：</p>
+<p><strong>李嘉诚基金会全国宁养医疗服务计划</strong></p>
+<span id="more"></span>
+<br>
+<p>这是它的链接：<a href="https://www.hospice.com.cn/index.aspx">李嘉诚基金会全国宁养医疗服务计划</a></p>
+]]></content>
+      <tags>
+        <tag>每日推荐</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>每日推荐（24）</title>
+    <url>/2021/12/28/%E6%AF%8F%E6%97%A5%E6%8E%A8%E8%8D%90%EF%BC%8824%EF%BC%89/</url>
+    <content><![CDATA[<p>今天推荐的是一个指南：</p>
+<p><strong>JavaGuide</strong></p>
+<span id="more"></span>
+<br>
+<p>这是它的链接：<a href="https://javaguide.cn/">JavaGuide</a></p>
+]]></content>
+      <tags>
+        <tag>每日推荐</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>每日推荐（23）</title>
+    <url>/2021/12/27/%E6%AF%8F%E6%97%A5%E6%8E%A8%E8%8D%90%EF%BC%8823%EF%BC%89/</url>
+    <content><![CDATA[<p>今天推荐的是一个演讲：</p>
+<p><strong>《Steve Jobs 2005 Stanford Commencement Address》</strong></p>
+<span id="more"></span>
+<br>
+<p>这是它的YouTube链接：<a href="https://www.youtube.com/watch?v=UF8uR6Z6KLc">YouTube——《Steve Jobs 2005 Stanford Commencement Address》</a></p>
+<p>这是它的bilibili链接：<a href="https://www.bilibili.com/video/BV1oW411h7Ea?from=search&amp;seid=17972588449709711502&amp;spm_id_from=333.337.0.0">bilibili——《Steve Jobs 2005 Stanford Commencement Address》</a></p>
+<p>这是它的百度网盘分享链接：<a href="https://pan.baidu.com/s/1LMbeWUSgx0xO4ZPHtITyyg">百度网盘——《Steve Jobs 2005 Stanford Commencement Address》</a>，提取码：fujf</p>
+]]></content>
+      <tags>
+        <tag>每日推荐</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>每日推荐（22）</title>
+    <url>/2021/12/26/%E6%AF%8F%E6%97%A5%E6%8E%A8%E8%8D%90%EF%BC%8822%EF%BC%89/</url>
+    <content><![CDATA[<p>今天推荐的是一个项目：</p>
+<p><strong>comments-for-awesome-courses</strong></p>
+<span id="more"></span>
+<br>
+<p>这是它的GitHub链接：<a href="https://github.com/conanhujinming/comments-for-awesome-courses/">GitHub——comments-for-awesome-courses</a></p>
+<p>这是它的网站链接：<a href="https://conanhujinming.github.io/comments-for-awesome-courses/index.html">名校公开课程评价网</a></p>
+]]></content>
+      <tags>
+        <tag>每日推荐</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>每日推荐（21）</title>
+    <url>/2021/12/25/%E6%AF%8F%E6%97%A5%E6%8E%A8%E8%8D%90%EF%BC%8821%EF%BC%89/</url>
+    <content><![CDATA[<p>今天推荐的是一个网站：</p>
+<p><strong>verywellfit</strong></p>
+<span id="more"></span>
+<br>
+<p>这是它的链接：<a href="https://www.verywellfit.com/">verywellfit</a></p>
+]]></content>
+      <tags>
+        <tag>每日推荐</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>每日推荐（20）</title>
+    <url>/2021/12/24/%E6%AF%8F%E6%97%A5%E6%8E%A8%E8%8D%90%EF%BC%8820%EF%BC%89/</url>
+    <content><![CDATA[<p>今天推荐的是一篇文章：</p>
+<p><strong>《博士学历真的很重要吗？》</strong></p>
+<span id="more"></span>
+<br>
+<p>这是它的知乎链接：<a href="https://www.zhihu.com/question/366627317">知乎——《博士学历真的很重要吗？》</a></p>
+<p>这是它的百度网盘分享链接：<a href="https://pan.baidu.com/s/1E0k_SeZkVzmJwJIVViaQZA">百度网盘——《博士学历真的很重要吗？》</a>，提取码：q04m</p>
+]]></content>
+      <tags>
+        <tag>每日推荐</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>每日推荐（19）</title>
+    <url>/2021/12/23/%E6%AF%8F%E6%97%A5%E6%8E%A8%E8%8D%90%EF%BC%8819%EF%BC%89/</url>
+    <content><![CDATA[<p>今天推荐的是一场Live：</p>
+<p><strong>彩虹合唱团-醉鬼的敬酒曲</strong></p>
+<span id="more"></span>
+<br>
+<p>这是它的bilibili链接：<a href="https://www.bilibili.com/video/BV1qL4y1a7uK/?spm_id_from=333.788.recommend_more_video.0">bilibili——彩虹合唱团-醉鬼的敬酒曲</a></p>
+<p>这是它的百度网盘分享链接：<a href="https://pan.baidu.com/s/19Er2m48434ngAY5kwWbY7A">百度网盘——彩虹合唱团-醉鬼的敬酒曲</a>，提取码：76cq</p>
+]]></content>
+      <tags>
+        <tag>每日推荐</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>每日推荐（18）</title>
+    <url>/2021/12/22/%E6%AF%8F%E6%97%A5%E6%8E%A8%E8%8D%90%EF%BC%8818%EF%BC%89/</url>
+    <content><![CDATA[<p>今天推荐的是一本日记：</p>
+<p><strong>《方方日记》</strong></p>
+<span id="more"></span>
+<br>
+<p>这是它的中文维基百科链接：<a href="https://zh.wikipedia.org/wiki/%E6%96%B9%E6%96%B9%E6%97%A5%E8%A8%98">维基百科——《方方日记》</a></p>
+<p>这是它的财新网链接：<a href="http://m.app.caixin.com/m_topic_detail/1489.html">财新网——《方方日记》</a></p>
+<p>这是它的中国数字时代链接：<a href="https://chinadigitaltimes.net/space/%E6%96%B9%E6%96%B9%E6%97%A5%E8%AE%B0">中国数字时代——《方方日记》</a></p>
+<p>这是它的百度网盘分享链接：<a href="https://pan.baidu.com/s/17TLpnQCKpiZIXxsgHT5hvw">百度网盘——《方方日记》</a>，提取码：xws5，解压缩密码：ffrj</p>
+<p>在获取百度网盘资源之前，你最好先阅读一下这篇文章：<a href="https://primer2019.github.io/2021/12/04/%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98%E8%B5%84%E6%BA%90%E5%88%B6%E4%BD%9C%E6%8C%87%E5%8D%97/">百度网盘资源制作指南</a></p>
+]]></content>
+      <tags>
+        <tag>每日推荐</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>每日推荐（17）</title>
+    <url>/2021/12/21/%E6%AF%8F%E6%97%A5%E6%8E%A8%E8%8D%90%EF%BC%8817%EF%BC%89/</url>
+    <content><![CDATA[<p>今天推荐的是一个视频：</p>
+<p><strong>《图解计算机科学》</strong></p>
+<span id="more"></span>
+<br>
+<p>这是它的YouTube链接：<a href="https://www.youtube.com/watch?v=SzJ46YA_RaA&amp;t=4s">YouTube——《图解计算机科学》</a></p>
+<p>这是它的bilibili链接：<a href="https://www.bilibili.com/video/BV1Vg411P7aB?from=search&amp;seid=13686351371306391408&amp;spm_id_from=333.337.0.0">bilibili——《图解计算机科学》</a></p>
+<p>这是它的百度网盘分享链接：<a href="https://pan.baidu.com/s/19jCCO5qPOXL8vszMsgzFCQ">百度网盘——《图解计算机科学》</a>，提取码：0fzi</p>
+]]></content>
+      <tags>
+        <tag>每日推荐</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>每日推荐（16）</title>
+    <url>/2021/12/20/%E6%AF%8F%E6%97%A5%E6%8E%A8%E8%8D%90%EF%BC%8816%EF%BC%89/</url>
+    <content><![CDATA[<p>今天推荐的是一个自媒体博主：</p>
+<p><strong>小岛大浪吹</strong></p>
+<span id="more"></span>
+<br>
+<p>这是他的YouTube频道：<a href="https://www.youtube.com/channel/UCYPT3wl0MgbOz63ho166KOw">YouTube——小岛大浪吹</a></p>
+]]></content>
+      <tags>
+        <tag>每日推荐</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>每日推荐（15）</title>
+    <url>/2021/12/19/%E6%AF%8F%E6%97%A5%E6%8E%A8%E8%8D%90%EF%BC%8815%EF%BC%89/</url>
+    <content><![CDATA[<p>今天推荐的是一个网站：</p>
+<p><strong>中国数字时代</strong></p>
+<span id="more"></span>
+<br>
+<p>这是它的链接：<a href="https://chinadigitaltimes.net/chinese">中国数字时代</a></p>
+]]></content>
+      <tags>
+        <tag>每日推荐</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>每日推荐（14）</title>
+    <url>/2021/12/18/%E6%AF%8F%E6%97%A5%E6%8E%A8%E8%8D%90%EF%BC%8814%EF%BC%89/</url>
+    <content><![CDATA[<p>今天推荐的是一部电影：</p>
+<p><strong>《怦然心动》</strong></p>
+<span id="more"></span>
+<br>
+<p>这是它的豆瓣链接：<a href="https://movie.douban.com/subject/3319755/">豆瓣——《怦然心动》</a></p>
+<p>这是它的中文维基百科链接：<a href="https://zh.wikipedia.org/wiki/%E6%80%A6%E7%84%B6%E5%BF%83%E5%8A%A8_(%E7%94%B5%E5%BD%B1)#%E5%8F%8D%E5%93%8D">维基百科——《怦然心动》</a></p>
+<p>这是它的百度网盘分享链接：<a href="https://pan.baidu.com/s/1UQRKNw7_du69QOR__9MPYg">百度网盘——《怦然心动》</a>，提取码：xbju，解压缩密码：prxd</p>
+<p>在获取百度网盘资源之前，你最好先阅读一下这篇文章：<a href="https://primer2019.github.io/2021/12/04/%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98%E8%B5%84%E6%BA%90%E5%88%B6%E4%BD%9C%E6%8C%87%E5%8D%97/">百度网盘资源制作指南</a></p>
+]]></content>
+      <tags>
+        <tag>每日推荐</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>每日推荐（13）</title>
+    <url>/2021/12/17/%E6%AF%8F%E6%97%A5%E6%8E%A8%E8%8D%90%EF%BC%8813%EF%BC%89/</url>
+    <content><![CDATA[<p>今天推荐的是一本书：</p>
+<p><strong>《算法（第4版）》</strong></p>
+<span id="more"></span>
+<br>
+<p>这是它的豆瓣链接：<a href="https://book.douban.com/subject/19952400/">豆瓣——《算法（第4版）》</a></p>
+<p>这是它的百度网盘分享链接：<a href="https://pan.baidu.com/s/1Xf8NlS-sZDGmfU3NFTM3cA">百度网盘——《算法（第4版）》</a>，提取码：ykuy</p>
+]]></content>
+      <tags>
+        <tag>每日推荐</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>每日推荐（12）</title>
+    <url>/2021/12/16/%E6%AF%8F%E6%97%A5%E6%8E%A8%E8%8D%90%EF%BC%8812%EF%BC%89/</url>
+    <content><![CDATA[<p>今天推荐的是一本书：</p>
+<p><strong>《操作系统导论》</strong></p>
+<span id="more"></span>
+<br>
+<p>这是它的豆瓣链接：<a href="https://book.douban.com/subject/33463930/">豆瓣——《操作系统导论》</a></p>
+<p>这是它的百度网盘分享链接：<a href="https://pan.baidu.com/s/1exLRdUhS4ZTjCLSgIaPAPg">百度网盘——《操作系统导论》</a>，提取码：ulvl</p>
+]]></content>
+      <tags>
+        <tag>每日推荐</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>每日推荐（11）</title>
+    <url>/2021/12/15/%E6%AF%8F%E6%97%A5%E6%8E%A8%E8%8D%90%EF%BC%8811%EF%BC%89/</url>
+    <content><![CDATA[<p>今天推荐的是一个教程：</p>
+<p><strong>WangDoc: clang-tutorial</strong></p>
+<span id="more"></span>
+<br>
+<p>这是它的链接：<a href="https://wangdoc.com/clang/">WangDoc: clang-tutorial</a></p>
+]]></content>
+      <tags>
+        <tag>每日推荐</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>每日推荐（10）</title>
+    <url>/2021/12/14/%E6%AF%8F%E6%97%A5%E6%8E%A8%E8%8D%90%EF%BC%8810%EF%BC%89/</url>
+    <content><![CDATA[<p>今天推荐的是一个网站：</p>
+<p><strong>CTF Wiki</strong></p>
+<span id="more"></span>
+<br>
+<p>这是它的链接：<a href="https://ctf-wiki.org/">CTF Wiki</a></p>
+]]></content>
+      <tags>
+        <tag>每日推荐</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>每日推荐（9）</title>
+    <url>/2021/12/13/%E6%AF%8F%E6%97%A5%E6%8E%A8%E8%8D%90%EF%BC%889%EF%BC%89/</url>
+    <content><![CDATA[<p>今天推荐的是一篇文章：</p>
+<p><strong>《谈谈我的“三观”》，陈皓</strong></p>
+<span id="more"></span>
+<br>
+<p>这是它的CoolShell链接：<a href="https://coolshell.cn/articles/19085.html">CoolShell——《谈谈我的“三观”》</a></p>
+<p>CoolShell（酷壳）是陈皓（左耳朵耗子）的个人博客</p>
+]]></content>
+      <tags>
+        <tag>每日推荐</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>每日推荐（8）</title>
+    <url>/2021/12/12/%E6%AF%8F%E6%97%A5%E6%8E%A8%E8%8D%90%EF%BC%888%EF%BC%89/</url>
+    <content><![CDATA[<p>今天推荐的是一个TED演讲：</p>
+<p><strong>《The first 20 hours - how to learn anything》，Josh Kaufman</strong></p>
+<span id="more"></span>
+<br>
+<p>这是它的bilibili链接：<a href="https://www.bilibili.com/video/BV144411b7Uk/?spm_id_from=333.788.b_7265636f5f6c697374.3">bilibili——《The first 20 hours - how to learn anything》</a></p>
+<p>这是它的YouTube链接：<a href="https://www.youtube.com/watch?v=5MgBikgcWnY&amp;t=288s">YouTube——《The first 20 hours - how to learn anything》</a></p>
+<p>这是它的百度网盘分享链接：<a href="https://pan.baidu.com/s/11bU976Wn5w1em-1ILavF-g">百度网盘——《The first 20 hours - how to learn anything》</a>，提取码：lwu2</p>
+]]></content>
+      <tags>
+        <tag>每日推荐</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>每日推荐（7）</title>
+    <url>/2021/12/11/%E6%AF%8F%E6%97%A5%E6%8E%A8%E8%8D%90%EF%BC%887%EF%BC%89/</url>
+    <content><![CDATA[<p>今天推荐的是一本书：</p>
+<p><strong>《亲密关系》</strong></p>
+<span id="more"></span>
+<br>
+<p>这是它的豆瓣链接：<a href="https://book.douban.com/subject/26585065/">豆瓣——《亲密关系》</a></p>
+<p>这是它的百度网盘分享链接：链接：<a href="https://pan.baidu.com/s/1Uwlm92SAMCr5I8UZh2M0rw">百度网盘——《亲密关系》</a>，提取码：tw59</p>
+]]></content>
+      <tags>
+        <tag>每日推荐</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>每日推荐（6）</title>
+    <url>/2021/12/10/%E6%AF%8F%E6%97%A5%E6%8E%A8%E8%8D%90%EF%BC%886%EF%BC%89/</url>
+    <content><![CDATA[<p>今天推荐的是两个教育主题的演讲：</p>
+<p><strong>《我的奋斗》，罗永浩</strong></p>
+<p><strong>《什么是教育》，崔永元</strong></p>
+<span id="more"></span>
+<br>
+<p>这是《我的奋斗》的bilibili链接：<a href="https://www.bilibili.com/video/BV14A411T7e9?from=search&amp;seid=1361719027163863916&amp;spm_id_from=333.337.0.0">bilibili——《我的奋斗》</a></p>
+<p>这是《我的奋斗》的YouTube链接：<a href="https://www.youtube.com/watch?v=66l7-2SG40s">YouTube——《我的奋斗》</a></p>
+<p>这是《什么是教育》的YouTube链接：<a href="https://www.youtube.com/watch?v=re8aeIP_2vg">YouTube——《什么是教育》</a></p>
+<p>这是以上内容的百度网盘分享链接：<a href="https://pan.baidu.com/s/1A7-X7KIM04Wshs72lmSc6Q">百度网盘——教育</a>，提取码：941l，解压缩密码：jiaoyu</p>
+<p>在获取百度网盘资源之前，你最好先阅读一下这篇文章：<a href="https://primer2019.github.io/2021/12/04/%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98%E8%B5%84%E6%BA%90%E5%88%B6%E4%BD%9C%E6%8C%87%E5%8D%97/">百度网盘资源制作指南</a></p>
+]]></content>
+      <tags>
+        <tag>每日推荐</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>每日推荐（5）</title>
+    <url>/2021/12/09/%E6%AF%8F%E6%97%A5%E6%8E%A8%E8%8D%90%EF%BC%885%EF%BC%89/</url>
+    <content><![CDATA[<p>今天推荐的是学校教育方面的一本书、一本手册和一篇文章：</p>
+<p><strong>书：《大学之路》</strong></p>
+<p><strong>手册：《上海交通大学学生生存手册》</strong></p>
+<p><strong>文章：《绩点为王：中国顶尖高校年轻人的穷途困境》</strong></p>
+<span id="more"></span>
+<br>
+<p>这是《大学之路》的豆瓣链接：<a href="https://book.douban.com/subject/26584286/">豆瓣——《大学之路》</a></p>
+<p>这是《上海交通大学学生生存手册》的GitHub链接：<a href="https://github.com/SurviveSJTU/SurviveSJTUManual">GitHub——《上海交通大学学生生存手册》</a></p>
+<p>这是《上海交通大学学生生存手册》的GitBook链接：<a href="https://survivesjtu.gitbook.io/survivesjtumanual/">GitBook——《上海交通大学学生生存手册》</a></p>
+<p>这是《绩点为王：中国顶尖高校年轻人的穷途困境》的微信公众号链接：<a href="https://mp.weixin.qq.com/s/ilNVG-fabWHU34De5NPGSA">微信公众号——《绩点为王：中国顶尖高校年轻人的穷途困境》</a></p>
+<p>这是以上内容的百度网盘分享链接：<a href="https://pan.baidu.com/s/1KNKtay-fq2oavySqtaWzKA">百度网盘——学校教育</a>，提取码：wog2</p>
+]]></content>
+      <tags>
+        <tag>每日推荐</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>每日推荐（4）</title>
+    <url>/2021/12/08/%E6%AF%8F%E6%97%A5%E6%8E%A8%E8%8D%90%EF%BC%884%EF%BC%89/</url>
+    <content><![CDATA[<p>今天推荐的是一部纪录片：</p>
+<p><strong>《人间世》</strong></p>
+<span id="more"></span>
+<br>
+<p>这是它的中文维基百科链接：<a href="https://zh.wikipedia.org/wiki/%E4%BA%BA%E9%97%B4%E4%B8%96_(%E7%BA%AA%E5%BD%95%E7%89%87)">维基百科——《人间世》</a></p>
+<p>这是第一季的豆瓣链接：<a href="https://movie.douban.com/subject/26815163/">豆瓣——《人间世》第一季</a></p>
+<p>这是第二季的豆瓣链接：<a href="https://movie.douban.com/subject/27199784/">豆瓣——《人间世》第二季</a></p>
+<p>这是南方周末的一篇文章：<a href="http://www.infzm.com/contents/119300">《人间世》：感动的，煽情的，与被遮蔽的</a>，这篇文章也出现在豆瓣《人间世》第一季的影评里。我在这里列出它是为了提醒你，这部片子虽然很不错，但仅仅是一个视角的呈现，不要让泪水淹没了理智。想要洞悉医疗问题的本质，我们还需要更多的探索和思考。</p>
+<p>这是它的百度网盘分享链接：<a href="https://pan.baidu.com/s/1coUdKqQYbgY6AxJDM5fLVw">百度网盘——《人间世》</a>，提取码：bxqa ，解压缩密码：renjianshi</p>
+<p>在获取百度网盘资源之前，你最好先阅读一下这篇文章：<a href="https://primer2019.github.io/2021/12/04/%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98%E8%B5%84%E6%BA%90%E5%88%B6%E4%BD%9C%E6%8C%87%E5%8D%97/">百度网盘资源制作指南</a></p>
+]]></content>
+      <tags>
+        <tag>每日推荐</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>每日推荐（3）</title>
+    <url>/2021/12/07/%E6%AF%8F%E6%97%A5%E6%8E%A8%E8%8D%90%EF%BC%883%EF%BC%89/</url>
+    <content><![CDATA[<p>今天推荐的是一个自媒体博主：</p>
+<p><strong>纯纯甘</strong></p>
+<span id="more"></span>
+<br>
+<p>这是她的YouTube频道：<a href="https://www.youtube.com/channel/UCIs3-LcOCdpiGve6yu1-Fug">YouTube——纯纯甘</a></p>
+<p>这是她的bilibili账号：<a href="https://space.bilibili.com/110930331?from=search&amp;seid=1273538552104627827&amp;spm_id_from=333.337.0.0">bilibili——纯纯甘</a></p>
+]]></content>
+      <tags>
+        <tag>每日推荐</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>每日推荐（2）</title>
+    <url>/2021/12/06/%E6%AF%8F%E6%97%A5%E6%8E%A8%E8%8D%90%EF%BC%882%EF%BC%89/</url>
+    <content><![CDATA[<p>今天推荐的是一本书：</p>
+<p><strong>《性学观止》</strong></p>
+<span id="more"></span>
+<br>
+<p>这是它的豆瓣链接：<a href="https://book.douban.com/subject/4114636/">豆瓣——《性学观止》</a></p>
+<p>这是它的百度网盘分享链接：<a href="https://pan.baidu.com/s/1zClPpU4LONd5kjAcVfHSxw">百度网盘——《性学观止》</a>，提取码：fpg1</p>
+]]></content>
+      <tags>
+        <tag>每日推荐</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>每日推荐（1）</title>
+    <url>/2021/12/05/%E6%AF%8F%E6%97%A5%E6%8E%A8%E8%8D%90%EF%BC%881%EF%BC%89/</url>
+    <content><![CDATA[<p>今天推荐的是一本心理学与恋爱方面的好书：</p>
+<p><strong>《读懂恋人心——如何在未知中相爱，在懂得后相守》</strong></p>
+<span id="more"></span>
+<br>
+<p>这是它的豆瓣链接：<a href="https://book.douban.com/subject/11442509/">豆瓣——《读懂恋人心》</a></p>
+<p>这是它的百度网盘分享链接：<a href="https://pan.baidu.com/s/1U2C_QKUorBWYm3CFwoQH2A">百度网盘——《读懂恋人心》</a>，提取码：2z5o</p>
+]]></content>
+      <tags>
+        <tag>每日推荐</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>每日推荐汇总</title>
+    <url>/2021/12/05/%E6%AF%8F%E6%97%A5%E6%8E%A8%E8%8D%90%E6%B1%87%E6%80%BB/</url>
+    <content><![CDATA[<p>从今天开始，我会在博客上启动并坚持更新一个项目——“每日推荐”。这篇文章将会作为“每日推荐”内容的汇总帖，以方便读者查阅。</p>
+<span id="more"></span>
+<p>我决定启动这个项目的原因有两个：</p>
+<p>1 在我的成长过程中，通过不断地探索，不断地更新自己获取信息的方式，我得以接触到非常多的优质信息，并从中获益良多。正因为如此，我深刻地体会到信息质量对个人成长所产生的巨大影响——优质信息和劣质信息对一个人的影响，就像向Google和百度给程序员的帮助一样，差距大到让你无法想象。所以，我决定启动这个项目，把我接触到的优质信息分享给你，希望你也能从中有所收获。</p>
+<p>2 我很想养成每天写博客的习惯，因为在我看来，写博客是一种很好的输出形式，对个人成长的意义极大。然而，实际情况是，我个人对于输出内容的要求相对严苛，从而导致创作博客需要付出的时间和精力超出我的预计，单凭自律，我很难做到持续输出高质量的文章。所以，我决定启动并坚持更新这个项目，来帮助我养成每天写博客的习惯。</p>
+<hr>
+<p><strong>”每日推荐“汇总：</strong></p>
+<p>每日推荐（1）——书 / 《读懂恋人心——如何在未知中相爱，在懂得后相守》</p>
+<p>每日推荐（2）——书 / 《性学观止》</p>
+<p>每日推荐（3）——自媒体博主 / 纯纯甘</p>
+<p>每日推荐（4）——纪录片 / 《人间世》</p>
+<p>每日推荐（5）——书 / 《大学之路》，手册 / 《上海交通大学学生生存手册》，文章 / 《绩点为王：中国顶尖高校年轻人的穷途困境》</p>
+<p>每日推荐（6）——演讲 / 《我的奋斗》，演讲 / 《什么是教育》</p>
+<p>每日推荐（7）——书 / 《亲密关系》</p>
+<p>每日推荐（8）——演讲 / 《The first 20 hours - how to learn anything》</p>
+<p>每日推荐（9）——文章 / 《谈谈我的“三观”》</p>
+<p>每日推荐（10）——网站 / CTF Wiki</p>
+<p>每日推荐（11）——教程 / WangDoc: clang-tutorial</p>
+<p>每日推荐（12）——书 / 《操作系统导论》</p>
+<p>每日推荐（13）——书 / 《算法（第4版）》</p>
+<p>每日推荐（14）——电影 / 《怦然心动》</p>
+<p>每日推荐（15）——网站 / 中国数字时代</p>
+<p>每日推荐（16）——自媒体博主 / 小岛大浪吹</p>
+<p>每日推荐（17）——视频 / 《图解计算机科学》</p>
+<p>每日推荐（18）——日记 / 《方方日记》</p>
+<p>每日推荐（19）——Live / 彩虹合唱团-醉鬼的敬酒曲</p>
+<p>每日推荐（20）——文章 / 《博士学历真的很重要吗？》</p>
+<p>每日推荐（21）——网站 / verywellfit</p>
+<p>每日推荐（22）——项目 / comments-for-awesome-courses</p>
+<p>每日推荐（23）——演讲 / 《Steve Jobs 2005 Stanford Commencement Address》</p>
+<p>每日推荐（24）——指南 / JavaGuide</p>
+<p>每日推荐（25）——项目 / 李嘉诚基金会全国宁养医疗服务计划</p>
+<p>每日推荐（26）——网站 / 中国文革受难者纪念园</p>
+<p>每日推荐（27）——个人博客 / 阮一峰的网络日志</p>
+<p>每日推荐（28）——网站 / GitHub中文社区</p>
+<p>每日推荐（29）——项目 / Teach Yourself Computer Science</p>
+<p>每日推荐（30）——个人博客 / 编程随想的博客</p>
+<p>每日推荐（31）——网站 / Intel—游戏—建议和改造</p>
+<p>每日推荐（32）——日记 / [科普分析] 劳动仲裁日记</p>
+<p>每日推荐（33）——网站 / MyFreeMP3</p>
+<p>每日推荐（34）——网站 / 片库</p>
+<p>每日推荐（35）——网站 / 十佳評测</p>
+<p>每日推荐（36）——网站 / REG007</p>
+<p>每日推荐（37）——自媒体博主 / 3Blue1Brown</p>
+<p>每日推荐（38）——书 / 《网络是怎样连接的》</p>
+<p>每日推荐（39）——书 / 《计算机网络-自顶向下方法》</p>
+]]></content>
+      <tags>
+        <tag>每日推荐</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>百度网盘资源制作指南</title>
+    <url>/2021/12/04/%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98%E8%B5%84%E6%BA%90%E5%88%B6%E4%BD%9C%E6%8C%87%E5%8D%97/</url>
+    <content><![CDATA[<p>对百度网盘来说，很多资源如果直接上传，或者只压缩一个包，就会很容易炸。</p>
+<p>炸的原因有很多，比如资源不和谐、版权、内鬼举报、孤儿在线解压等等。</p>
+<span id="more"></span>
+  <br>
+<p>所以为了资源防炸，一般会对资源做如下处理后，再上传分享：</p>
+<p><strong>1 设置解压密码。</strong></p>
+<p><strong>2 采取.7z格式压缩：百度网盘不支持在线解压该格式。</strong></p>
+<p><strong>3 压缩时分卷压缩：分卷压缩会产生“a.7z.001”、“a.7z.002”这样后缀的压缩包。解压缩时，需要把所有文件名相同的压缩包“a.7z.*”都下载下来，然后选择“a.7z.001”文件进行解压，即可解压出全部资源，不需要修改后缀。</strong></p>
+<p><strong>4 用和谐的名字给压缩包命名：例如“线性代数.7z.001”。</strong></p>
+  <br>
+<p>这样一来，资源爆炸的概率大为降低，但是同时会导致一些缺陷：</p>
+<p>1   合集资源不能单独解压。</p>
+<p>2   不能在线解压。</p>
+<p>3   有些手机不支持分卷解压等等。</p>
+  <br>
+<p>如果下载的压缩包不能解压或者显示损坏，请检查：</p>
+<p>1   是否全部分卷都下载下来了。</p>
+<p>2   解压软件是否支持解压.7z格式的压缩包。</p>
+]]></content>
+      <categories>
+        <category>3 Self</category>
+        <category>Individual</category>
+        <category>Money</category>
+        <category>Working for Myself</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>求职准备</title>
+    <url>/2021/11/16/%E6%B1%82%E8%81%8C%E5%87%86%E5%A4%87/</url>
+    <content><![CDATA[<h4 id="信息"><a class="markdownIt-Anchor" href="#信息"></a> 信息</h4>
+<p>牛客网</p>
+<p>脉脉</p>
+<span id="more"></span>
+<br>
+<h4 id="能力"><a class="markdownIt-Anchor" href="#能力"></a> 能力</h4>
+<ul>
+<li>
+<p><strong>理论</strong></p>
+<p><em>算法和数据结构</em></p>
+<p>  《算法（第4版）》</p>
+<p>  LeetCode</p>
+<p><em>计算机网络</em></p>
+<p>  《网络是怎样连接的》</p>
+<p>  《计算机网络-自顶向下方法》</p>
+<p><em>操作系统</em></p>
+<p>  《操作系统导论》</p>
+<p><em>设计模式</em></p>
+</li>
+<li>
+<p><strong>技术</strong></p>
+<p><em>Java</em></p>
+<p><em>C</em></p>
+<p><em>Python</em></p>
+</li>
+<li>
+<p><strong>项目</strong></p>
+</li>
+<li>
+<p><strong>博客</strong></p>
+<p>“关于我”</p>
+<p>“算法”</p>
+</li>
+</ul>
+<br>
+<h4 id="简历"><a class="markdownIt-Anchor" href="#简历"></a> 简历</h4>
+<p>中文 + 英文</p>
+<p>PDF + Markdown</p>
+<br>
+<h4 id="面试"><a class="markdownIt-Anchor" href="#面试"></a> 面试</h4>
+<ol>
+<li>
+<p><strong>规划</strong></p>
+</li>
+<li>
+<p><strong>投递</strong></p>
+<p>实习</p>
+<p>  实习僧</p>
+<p>  公司官网</p>
+<p>校招</p>
+<p>  LinkedIn</p>
+<p>  公司官网</p>
+<p>社招</p>
+</li>
+<li>
+<p><strong>记录</strong></p>
+<p>录音</p>
+<p>博客</p>
+</li>
+<li>
+<p><strong>反馈</strong></p>
+<p>反问面评</p>
+<p>复盘总结</p>
+</li>
+</ol>
+<br>
+<h4 id="签约"><a class="markdownIt-Anchor" href="#签约"></a> 签约</h4>
+<br>
+<h4 id="入职"><a class="markdownIt-Anchor" href="#入职"></a> 入职</h4>
+<ul>
+<li><strong>租房</strong></li>
+</ul>
+]]></content>
+      <categories>
+        <category>3 Self</category>
+        <category>Individual</category>
+        <category>Money</category>
+        <category>Working for Others</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>随笔（1）</title>
+    <url>/2021/11/15/%E9%9A%8F%E7%AC%94%EF%BC%881%EF%BC%89/</url>
+    <content><![CDATA[<p>给自己找个地方说说话…</p>
+<span id="more"></span>
+<hr>
+<p>书整齐地摆着，人端正地坐着，埋着头，拿着笔，一个字儿一个字儿地钻研是读书</p>
+<p>人散漫地摊着，书随意地翻着，转着笔，晃着头，一页纸一页纸地扫过去也是读书</p>
+<p>前者固然难得，后者也别忘了</p>
+<br>
+<br>
+<p>来日方长，要有耐心</p>
+<br>
+<br>
+<p>从一直在追的一本小说里看到的所谓“御妻之道”，虽不合时宜，但颇有道理，因此记录在这里：</p>
+<p>妾三千道：“御妻之道，大道在于心，次之在于情，再次在于义，末之在于法。”</p>
+<p>张若尘细细参悟，问道：“心、情、义、法，该做何理解？“</p>
+<p>”大道在于心，意思便是，你得一心一意地对待她，了解她的心，当你知晓她想要什么，不喜欢什么，随时随地在想什么，那么，你们自然可以相敬如宾，举案齐眉。”妾三千道。</p>
+<p>张若尘道：“最难的就是一心一意。”</p>
+<p>“不难！”</p>
+<p>妾三千摆了摆手，低声道：“和谁在一起，就对谁一心一意。不要去想别的女子，她们都不存在，假的，是你的幻觉，只有眼前的她才是真的。切记，不要同时和两个女子在一起，甚至都不要让她们见面。你的水平太低，应付不了的。”</p>
+<p>张若尘目瞪口呆。</p>
+<p>不得不说，妾三千说的还真有一些道理。</p>
+<p>以前，张若尘与身边那些女子的矛盾，都是因为他与这一个女子在一起的时候，心中却想着另一个女子。</p>
+<p>甚至新婚之夜、洞房花烛的时候，都是如此。</p>
+<p>妾三千的手指沾来茶水，在桌案上，写出一个“情”字。</p>
+<p>“次之在于情，意思便是，纵然你想妻妾三千，但，都得拥有感情才行。”</p>
+<p>“风流之道。上流，发乎于情，而止于礼。”</p>
+<p>“中流，惊叹于美，行肆于礼。”</p>
+<p>“下流……不讲也罢，我辈人物不入此道。”</p>
+<p>他继续深入浅出地讲解，道：“这世间，一切关系的建立，都起于一个情字。亲情、友情、爱情、恩情、师徒之情……没有感情建立起来的关系，就如一抔黄沙，风一吹，就散了！”</p>
+<p>“切记，情能载舟，亦能覆舟，千万不要玩弄，否则会被反噬。”</p>
+<p>张若尘沉思，道：“若是没有深厚的感情，两个人却又必须在一起呢？”</p>
+<p>“问得好。”</p>
+<p>妾三千道：“若无情，却又因为各种原因，不得不结为连理。那么，便要守义字。”</p>
+<p>他在桌案上，将“义”字写了出来。</p>
+<p>妾三千道：“神尊赐婚，你不得不为，为之，结为夫妻。你纵然心中无情，却得对她有义。”</p>
+<p>“机缘巧合，她怀了你的孩子，结下了一段孽缘。你纵然心中无情，却得对她有义。”</p>
+<p>“为求自保，与各大势力联姻。你纵然心中无情，却也得对她们有义。”</p>
+<p>……</p>
+<p>“义，比情更重，代表的是责任。也是我等风流客，必须坚守的底线。”</p>
+<p>“她有情，你有义，日子才能长久。”</p>
+<p>“她若对你有情，也有义，此等女子，千万不要错过，得好好珍惜。”</p>
+<p>果然，这个妾三千是有备而来，对他的事，了解得很详细。</p>
+<p>张若尘双手端起茶杯，道：“来，饮一杯。”</p>
+<p>“啪！”</p>
+<p>二人，碰杯共饮。</p>
+<p>坐在一旁的那个神秘女子，眼眸中，浮现出鄙夷之色。</p>
+<p>没有打断他们，她继续听着。</p>
+<p>张若尘虚心请教，道：“心、情、义，都已经讲了！最后这个法字，却是不好理解。”</p>
+<p>妾三千笑着摇头，道：“法，排在最后，其实是因为这是无奈而为之。如若心、情、义能够将问题解决，自然也用不到法。”</p>
+<p>“试想，你有妻妾三千，她们随时都以你为中心，把你盯着，扰着你，围着你，那么你别说修炼，便是什么事都做不了，不知会闹出多少事来。”</p>
+<p>“这时，便需要法。”</p>
+<p>“法者，既是方法，也是家法。”</p>
+<p>“何为方法？何为家法？”张若尘道。</p>
+<p>妾三千道：“所谓方法，就是要从她们之中抽身而出，让她们的目光不要总是盯着你，而是她们自己相互盯着。”</p>
+<p>“这，需要给她们制定等级。”</p>
+<p>“凡人，有三妻四妾的说法：一正妻，二平妻，四小妾。”</p>
+<p>“帝皇的女人，又分为：皇后、皇贵妃、贵妃……”</p>
+<p>“为何要制定等级？”</p>
+<p>“只有她们有了高低之分、贵贱之分、大小之分，她们才会相互盯着对方，而不是盯着你。让她们斗起来，争起来，你不仅可以抽身而出，还能从中得到无穷好处。你说，是不是这个理？”</p>
+<p>张若尘只觉得，这个妾三千，当真是一个奇人，连忙再次问道：“这便是你的御妻之道？”</p>
+<p>“不，这是恒古不变的大道，古来有之。”妾三千谦虚地道。</p>
+<p>张若尘道：“争斗终究不是好事，稍有不慎，家破人亡，死伤一片。”</p>
+<p>妾三千道：“所以，也就需要制定家法。”</p>
+<p>“她们可以斗，但得有一个度。一旦超过了这个度，闹得太大，轻则封印修为，自我反省。重则，废掉修为，打入冷宫。”</p>
+<p>“如此这般，杀鸡儆猴几次，她们自然也就知道你的底线在什么地方。”</p>
+<p>“你若懒得掺和她们之间的争斗，可以选一位执掌后宫的女主人，让她来帮你平事。这位女主人，得自身修为足够高，智慧足够强，家世背景更是必须要一等一。只有这样，才能镇得住她们。”</p>
+<p>“当然，最重要的，还是你自己的修为必须足够高，得压得住她们。”</p>
+<p>“总之，法，是不得已而为之，已经是最好的平衡手段。”</p>
+<p>张若尘点了点头，慢慢消化刚才的所听所闻。</p>
+<p>那戴着面纱的神秘女子，终于忍不住开口，语气清冷：“堂堂一代剑神，居然这么多歪理邪说。明明就是自甘堕落，滥情不专，还要自命风流。今日，倒是没有白来天麟古城！”</p>
+<p>妾三千眼神一凛，轻拍桌案，道：“谁年轻时不是纯情专一的少年？”</p>
+<p>“但，谁让苍天给了这么一副绝世盛颜？又给了绝代天资，无边魅力！我欲遗世独立，奈何莺莺燕燕扰我。我欲孑然一身，奈何天下美人不许。”</p>
+<p>“这花花世界，锦绣人间，扑面而来，想躲都躲不掉。”</p>
+<p>张若尘颇为认同妾三千这话，因为从修炼以来，他几乎很少主动去招惹过谁。</p>
+<p>都是别人，扰他，恋他，苦苦追求他，让他无可奈何。</p>
+<p>张若尘叹道：“古人云，最难消受美人恩。”</p>
+<p>“温柔乡是英雄冢。”妾三千道。</p>
+<p>张若尘道：“自古美人爱英雄。”</p>
+<p>“英雄难过美人关。”妾三千道。</p>
+<p>“啪！”</p>
+<p>二人对碰一杯，一饮而尽。</p>
+<p>颇有知己难求的意境。</p>
+<p>妾三千又道：“我们二人何止是英雄，简直就是至伟至真的大英雄，要过的美人关太多，稍不留神，就会被关进去。”</p>
+<p>“平庸之辈，求一心爱之人，尚且难得，就算想多情也没机会。若尘兄，你说对不对？”</p>
+<p>张若尘默然片刻，点了点头。</p>
+<p>妾三千长叹道：</p>
+<p>“十步之内，必有一关。”</p>
+<p>“百步之内，温柔蚀骨。”</p>
+<p>张若尘感叹道：“修行百年定有情劫，入世千年必逢孽缘。躲不过，逃不掉，情义难拒。”</p>
+<p>“再饮一杯。”妾三千道。</p>
+<p>“啪！”</p>
+<br>
+<br>
+<p>2022，正式开始掌控自己的人生</p>
+<br>
+<br>
+]]></content>
+      <categories>
+        <category>2 Health</category>
+        <category>Mental Health</category>
+      </categories>
+      <tags>
+        <tag>随笔</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>快速学习</title>
+    <url>/2021/11/15/%E5%BF%AB%E9%80%9F%E5%AD%A6%E4%B9%A0/</url>
+    <content><![CDATA[<p><strong>“知识”有两种类型：</strong></p>
+<p> <strong>“第一类知识”注重了解某个事物的名称。</strong></p>
+<p> <strong>“第二类知识”注重了解某个事物。</strong></p>
+<p><strong>“第二类知识”是实用的，是我所需要的。</strong></p>
+ <br>
+<span id="more"></span>
+<p><strong>快速学习一种知识（“第二类知识”，一种知识包含多个知识点）的方法：</strong></p>
+<h4 id="理解"><a class="markdownIt-Anchor" href="#理解"></a> 理解</h4>
+<ol>
+<li>
+<p><strong>历史的视角</strong>：对于存在“抽象”的知识来说尤其重要，比如说计算机技术。</p>
+<p>抽象：在A的基础上抽象得到B，则在使用B的时候，不需要考虑A。</p>
+ <br>
+<p>“学习技术发展史的重要意义正在于此：追溯的历史越久远，技术的脉络就变得越清晰。因此，我们需要做的就是确定某些关键的历史阶段，在这些阶段，技术最天然、最本质的一面将清晰可见。”</p>
+<p align="right">——《编码：隐匿在计算机软硬件背后的语言》</p>
+<br>
+</li>
+<li>
+<p><strong>通俗化表达</strong>：用最容易理解的语言去解释一个个知识点。</p>
+</li>
+</ol>
+<br>
+<br>
+<h4 id="掌握"><a class="markdownIt-Anchor" href="#掌握"></a> 掌握</h4>
+<ol start="3">
+<li>
+<p><strong>刻意练习</strong>：基础动作的分解训练和反复练习。</p>
+<p>实操：过遍数，反复练习弱项，不断打破舒适区。</p>
+<br>
+<p>以前确实对“刻意练习”存在误解——“刻意练习”本身没有问题，它确实是很多领域（尤其是技术领域）想要有所成的必经之路（UZI）。</p>
+<p>值得引起关注的应该是对什么进行“刻意练习”是合理的，例如：计算机技术 √，无意义（为了考试）的考试 ×。</p>
+ <br>
+<p>刷算法题的最大误区：算法题只做一遍绝对不够。</p>
+<p>如上所说，对待不同的目的，态度也应当不同。在这里，“刻意练习”的目的是熟练掌握算法，方便以后得心应手地运用它们解决问</p>
+<p>题，而不是像应试一样只为最后的一锤定音，之后再也不用。</p>
+<br>
+</li>
+<li>
+<p><strong>遗忘曲线</strong>：“刻意练习”整体上不能散漫，要有适合自己的节奏。</p>
+<p>参考：即时，1h，1d，临时。</p>
+<br>
+</li>
+<li>
+<p><strong>反馈</strong>：“刻意练习”本身就是目的性极强的一种行为，因此需要不断地通过“反馈”来衡量自己的水平，评价“刻意练习”的效果，以便根据需要及时做出调整，从而高效地达到目的。</p>
+<p>主动型反馈：阅读高手写的代码，和自己写的代码做比较。</p>
+<p>被动型反馈：请高手指导，比如让高手帮忙进行代码审查。</p>
+</li>
+</ol>
+<br>
+<br>
+<h4 id="内化"><a class="markdownIt-Anchor" href="#内化"></a> 内化</h4>
+<ol start="6">
+<li>
+<p><strong>思维导图</strong>：把一个个知识点联系起来，形成知识体系，从而让这种知识变得有条理、有层次。</p>
+<br>
+</li>
+<li>
+<p><strong>传授</strong>：把知识体系掰开了、揉碎了，又变成一个个知识点，用“通俗化表达”的方式教给别人，相当于对这种知识的整个知识体系进行“通俗化表达”。</p>
+<p>在这个过程中，找到自己理解不到位、掌握不扎实的地方，完善它们，同时重构先前建立的知识体系。</p>
+<p>通过不断重复这个过程，最终得到一个自己彻底理解并掌握了的完整的知识体系，从而成功地将这种知识内化，变成自身能力的一部分。</p>
+</li>
+</ol>
+]]></content>
+      <categories>
+        <category>4 Self-realization</category>
+      </categories>
+      <tags>
+        <tag>方法</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>关于我（5）-我的答案</title>
+    <url>/2021/11/13/%E5%85%B3%E4%BA%8E%E6%88%91%EF%BC%885%EF%BC%89-%E6%88%91%E7%9A%84%E7%AD%94%E6%A1%88/</url>
+    <content><![CDATA[<p>接下来，我将以文件目录的形式为你呈现，关于人生这回事儿，我基于自己的思考总结出的答案。你可以把它看作是我对自己人生的一个认知模型，也可以把它当作一个自我管理系统。</p>
+<span id="more"></span>
+<p>1 Life</p>
+<p> Clothing</p>
+<p> Food</p>
+<p> Shelter</p>
+<p> Transportation</p>
+<br>
+<p>2 Health</p>
+<p> Physical Health</p>
+<p>  Physical Examination</p>
+<p> Mental Health</p>
+<p> Insurance</p>
+<br>
+<p>3 Self</p>
+<p> Individual</p>
+<p>  Money</p>
+<p>   Working for Myself</p>
+<p>   Working for Others</p>
+<p> Group Attribute</p>
+<p>  Intimacy</p>
+<p>  Social Relationship</p>
+<p>  Strange Relationship - To the World</p>
+<br>
+<p>4 Self-realization</p>
+<p> Computer</p>
+<p>  Computer Science</p>
+<p>   1 History</p>
+<p>   2 System</p>
+<p>   3 Theories</p>
+<p>    Algorithm &amp; Data Structure</p>
+<p>    Operating System</p>
+<p>    Computer Network</p>
+<p>   4 Directions</p>
+<p>    Java Engineer</p>
+<p>   5 Mathematics</p>
+<p> English</p>
+<p> Music</p>
+<p> Sex</p>
+<p> …</p>
+<br>
+<p>这就是我的答案，Yu’s blog的分类目录也将按照这个模型为你呈现。</p>
+<p>到这里，”关于我“的那些事儿差不多都讲完了。接下来，让我们一起开始这段博客之旅吧。</p>
 ]]></content>
       <categories>
         <category>3 Self</category>
@@ -252,51 +1284,20 @@
       </tags>
   </entry>
   <entry>
-    <title>关于我（5）-我的答案</title>
-    <url>/2021/11/13/%E5%85%B3%E4%BA%8E%E6%88%91%EF%BC%885%EF%BC%89-%E6%88%91%E7%9A%84%E7%AD%94%E6%A1%88/</url>
-    <content><![CDATA[<p>接下来，我将以文件目录的形式为你呈现，关于人生这回事儿，我基于自己的思考总结出的答案。你可以把它看作是我对自己人生的一个认知模型，也可以把它当作一个自我管理系统。</p>
+    <title>关于我（2）-思考人生</title>
+    <url>/2021/11/10/%E5%85%B3%E4%BA%8E%E6%88%91%EF%BC%882%EF%BC%89-%E6%80%9D%E8%80%83%E4%BA%BA%E7%94%9F/</url>
+    <content><![CDATA[<p>前面提到了，要想获得写博客的长久动力，必须得叩问自己的内心，解决三件事儿：写不写？写什么？为什么要写？</p>
+<p>这三个问题其实很好回答：<br>
+写不写？写。<br>
+写什么？写一切值得写的东西。<br>
+为什么要写？因为它们值得。</p>
 <span id="more"></span>
-<p>1 Life</p>
-<p> Clothing</p>
-<p> Food</p>
-<p> Shelter</p>
-<p> Transportation</p>
-<br>
-<p>2 Health</p>
-<p> Physical Health</p>
-<p>  Physical Examination</p>
-<p> Mental Health</p>
-<p> Insurance</p>
-<br>
-<p>3 Self</p>
-<p> Individual</p>
-<p>  Money</p>
-<p>   Working for Myself</p>
-<p>   Working for Others</p>
-<p> Group Attribute</p>
-<p>  Intimacy</p>
-<p>  Social Relationship</p>
-<p>  Strange Relationship - To the World</p>
-<br>
-<p>4 Self-realization</p>
-<p> Computer</p>
-<p>  Computer Science</p>
-<p>   1 History</p>
-<p>   2 System</p>
-<p>   3 Theories</p>
-<p>    Algorithm &amp; Data Structure</p>
-<p>    Operating System</p>
-<p>    Computer Network</p>
-<p>   4 Directions</p>
-<p>    Java Engineer</p>
-<p>   5 Mathematics</p>
-<p> English</p>
-<p> Music</p>
-<p> Sex</p>
-<p> …</p>
-<br>
-<p>这就是我的答案，Yu’s blog的分类目录也将按照这个模型为你呈现。</p>
-<p>到这里，”关于我“的那些事儿差不多都讲完了。接下来，让我们一起开始这段博客之旅吧。</p>
+<p>肯定有人要说了，你这不是废话吗？乍一看，这确实像是废话，但我想说的是，你之所以认为这是废话，根本原因是你无法明确对你自己而言什么是“值得”的。这的确是个难题。明确对自己而言什么是“值得”的，说白了，就是要思考清楚自己的人生。思考人生，想想就头大，不过头大也没办法，必须去做。因为不仅仅是写博客之前需要做这件事儿，事实上，对于一个成年人来讲，想要做好任何一件需要长期投入的事儿，都需要经历这一步，否则根本无法持久。换句话说，一个成年人，只有在思考清楚自己的人生以后，才有可能长期投入到一件事儿中，并最终取得成功。</p>
+<p>那么怎么思考自己的人生呢？如今这个时代，无数的鸡汤文每天都在教你如何思考自己的人生，它们援引了数不清的”别人“的故事，制造了各种各样花里胡哨的文字，把思考人生这件事儿搞得无比复杂。这导致很多人在思考自己的人生时，精力并没有放在关注思考的深度如何、客观与否上，而是在担心自己的思考是否因为没有援引“别人”的故事而显得单薄，是否因为没有造出朗朗上口的名句而显得苍白。这偏离了思考的本意，思考自然就不会有收获。长此以往，很多人因此失去了思考人生的勇气，不敢再去思考自己的人生，甚至丧失了思考人生的能力。</p>
+<p>但我想说的是，思考人生这个事儿，其实并没有那么复杂。它不需要援引“别人”的故事来丰富，也不需要制造花哨的文字来增色，思考人生这件事儿本身已经足够丰满与深刻。每个人都有属于自己的人生，自然都能够去思考它。我们不需要去参考任何东西，我们要做的，就是用大脑赋予我们的思考能力，循着我们与生俱来的需求和欲望去思考就好了。</p>
+<p>正是因为抱着这样一种态度，在我十九岁的那一年，我很认真的做了这件困扰了无数人一生的事儿——思考人生，并且给出了我的确切答案，尽管这个过程并不容易。正因为做成了这件事儿，在我十九岁生日那天，我发了至今保留在我的QQ空间中的唯一的那条说说：</p>
+<img src="/2021/11/10/%E5%85%B3%E4%BA%8E%E6%88%91%EF%BC%882%EF%BC%89-%E6%80%9D%E8%80%83%E4%BA%BA%E7%94%9F/19.png" alt="19" style="zoom:50%;">
+<p>也正因为做成了这件事儿，我始终坚持，我真正成人的年纪是十九岁，而不是法律规定的十八岁。事实上，我一直觉得，成熟和时间没什么关系，它更多地是由经历决定的。郭德纲有个说法很贴切，记者问他：“活明白需要时间的吗？”，他说：“不需要，需要经历！三岁经历一件事儿，他就明白了，活到95都没有经历过，他可能永远也不会明白。吃亏要趁早，一帆风顺不是什么好事，从小到大娇生惯养没人跟他说过什么话，六十五岁走在大街上有人瞪他一眼当时就猝死。从出生就挨打，一天八个嘴巴，这到二十五岁铜金刚铁罗汉一样，什么都不在乎。”我也觉得是这个理儿。</p>
 ]]></content>
       <categories>
         <category>3 Self</category>
@@ -307,1100 +1308,33 @@
       </tags>
   </entry>
   <entry>
-    <title>快速学习</title>
-    <url>/2021/11/15/%E5%BF%AB%E9%80%9F%E5%AD%A6%E4%B9%A0/</url>
-    <content><![CDATA[<p><strong>“知识”有两种类型：</strong></p>
-<p> <strong>“第一类知识”注重了解某个事物的名称。</strong></p>
-<p> <strong>“第二类知识”注重了解某个事物。</strong></p>
-<p><strong>“第二类知识”是实用的，是我所需要的。</strong></p>
- <br>
+    <title>关于我（1）-为什么要写博客？</title>
+    <url>/2021/11/08/%E5%85%B3%E4%BA%8E%E6%88%91%EF%BC%881%EF%BC%89-%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E5%86%99%E5%8D%9A%E5%AE%A2%EF%BC%9F/</url>
+    <content><![CDATA[<p>这是我的第一篇博客，我决定从“我”开始讲起。为什么选择以这种方式开启我的博客之路呢？这就与我对写博客这件事儿的认识以及我在其上寄予的愿景息息相关了。接下来，听我慢慢讲。</p>
 <span id="more"></span>
-<p><strong>快速学习一种知识（“第二类知识”，一种知识包含多个知识点）的方法：</strong></p>
-<h4 id="理解"><a class="markdownIt-Anchor" href="#理解"></a> 理解</h4>
-<ol>
-<li>
-<p><strong>历史的视角</strong>：对于存在“抽象”的知识来说尤其重要，比如说计算机技术。</p>
-<p>抽象：在A的基础上抽象得到B，则在使用B的时候，不需要考虑A。</p>
- <br>
-<p>“学习技术发展史的重要意义正在于此：追溯的历史越久远，技术的脉络就变得越清晰。因此，我们需要做的就是确定某些关键的历史阶段，在这些阶段，技术最天然、最本质的一面将清晰可见。”</p>
-<p align="right">——《编码：隐匿在计算机软硬件背后的语言》</p>
-<br>
-</li>
-<li>
-<p><strong>通俗化表达</strong>：用最容易理解的语言去解释一个个知识点。</p>
-</li>
-</ol>
-<br>
-<br>
-<h4 id="掌握"><a class="markdownIt-Anchor" href="#掌握"></a> 掌握</h4>
-<ol start="3">
-<li>
-<p><strong>刻意练习</strong>：基础动作的分解训练和反复练习。</p>
-<p>实操：过遍数，反复练习弱项，不断打破舒适区。</p>
-<br>
-<p>以前确实对“刻意练习”存在误解——“刻意练习”本身没有问题，它确实是很多领域（尤其是技术领域）想要有所成的必经之路（UZI）。</p>
-<p>值得引起关注的应该是对什么进行“刻意练习”是合理的，例如：计算机技术 √，无意义（为了考试）的考试 ×。</p>
- <br>
-<p>刷算法题的最大误区：算法题只做一遍绝对不够。</p>
-<p>如上所说，对待不同的目的，态度也应当不同。在这里，“刻意练习”的目的是熟练掌握算法，方便以后得心应手地运用它们解决问</p>
-<p>题，而不是像应试一样只为最后的一锤定音，之后再也不用。</p>
-<br>
-</li>
-<li>
-<p><strong>遗忘曲线</strong>：“刻意练习”整体上不能散漫，要有适合自己的节奏。</p>
-<p>参考：即时，1h，1d，临时。</p>
-<br>
-</li>
-<li>
-<p><strong>反馈</strong>：“刻意练习”本身就是目的性极强的一种行为，因此需要不断地通过“反馈”来衡量自己的水平，评价“刻意练习”的效果，以便根据需要及时做出调整，从而高效地达到目的。</p>
-<p>主动型反馈：阅读高手写的代码，和自己写的代码做比较。</p>
-<p>被动型反馈：请高手指导，比如让高手帮忙进行代码审查。</p>
-</li>
-</ol>
-<br>
-<br>
-<h4 id="内化"><a class="markdownIt-Anchor" href="#内化"></a> 内化</h4>
-<ol start="6">
-<li>
-<p><strong>思维导图</strong>：把一个个知识点联系起来，形成知识体系，从而让这种知识变得有条理、有层次。</p>
-<br>
-</li>
-<li>
-<p><strong>传授</strong>：把知识体系掰开了、揉碎了，又变成一个个知识点，用“通俗化表达”的方式教给别人，相当于对这种知识的整个知识体系进行“通俗化表达”。</p>
-<p>在这个过程中，找到自己理解不到位、掌握不扎实的地方，完善它们，同时重构先前建立的知识体系。</p>
-<p>通过不断重复这个过程，最终得到一个自己彻底理解并掌握了的完整的知识体系，从而成功地将这种知识内化，变成自身能力的一部分。</p>
-</li>
-</ol>
-]]></content>
-      <categories>
-        <category>4 Self-realization</category>
-      </categories>
-      <tags>
-        <tag>方法</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>每日推荐（11）</title>
-    <url>/2021/12/15/%E6%AF%8F%E6%97%A5%E6%8E%A8%E8%8D%90%EF%BC%8811%EF%BC%89/</url>
-    <content><![CDATA[<p>今天推荐的是一个教程：</p>
-<p><strong>WangDoc: clang-tutorial</strong></p>
-<span id="more"></span>
-<br>
-<p>这是它的链接：<a href="https://wangdoc.com/clang/">WangDoc: clang-tutorial</a></p>
-]]></content>
-      <tags>
-        <tag>每日推荐</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>每日推荐（10）</title>
-    <url>/2021/12/14/%E6%AF%8F%E6%97%A5%E6%8E%A8%E8%8D%90%EF%BC%8810%EF%BC%89/</url>
-    <content><![CDATA[<p>今天推荐的是一个网站：</p>
-<p><strong>CTF Wiki</strong></p>
-<span id="more"></span>
-<br>
-<p>这是它的链接：<a href="https://ctf-wiki.org/">CTF Wiki</a></p>
-]]></content>
-      <tags>
-        <tag>每日推荐</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>每日推荐汇总</title>
-    <url>/2021/12/05/%E6%AF%8F%E6%97%A5%E6%8E%A8%E8%8D%90%E6%B1%87%E6%80%BB/</url>
-    <content><![CDATA[<p>从今天开始，我会在博客上启动并坚持更新一个项目——“每日推荐”。这篇文章将会作为“每日推荐”内容的汇总帖，以方便读者查阅。</p>
-<span id="more"></span>
-<p>我决定启动这个项目的原因有两个：</p>
-<p>1 在我的成长过程中，通过不断地探索，不断地更新自己获取信息的方式，我得以接触到非常多的优质信息，并从中获益良多。正因为如此，我深刻地体会到信息质量对个人成长所产生的巨大影响——优质信息和劣质信息对一个人的影响，就像向Google和百度给程序员的帮助一样，差距大到让你无法想象。所以，我决定启动这个项目，把我接触到的优质信息分享给你，希望你也能从中有所收获。</p>
-<p>2 我很想养成每天写博客的习惯，因为在我看来，写博客是一种很好的输出形式，对个人成长的意义极大。然而，实际情况是，我个人对于输出内容的要求相对严苛，从而导致创作博客需要付出的时间和精力超出我的预计，单凭自律，我很难做到持续输出高质量的文章。所以，我决定启动并坚持更新这个项目，来帮助我养成每天写博客的习惯。</p>
-<hr>
-<p><strong>”每日推荐“汇总：</strong></p>
-<p>每日推荐（1）——书 / 《读懂恋人心——如何在未知中相爱，在懂得后相守》</p>
-<p>每日推荐（2）——书 / 《性学观止》</p>
-<p>每日推荐（3）——自媒体博主 / 纯纯甘</p>
-<p>每日推荐（4）——纪录片 / 《人间世》</p>
-<p>每日推荐（5）——书 / 《大学之路》，手册 / 《上海交通大学学生生存手册》，文章 / 《绩点为王：中国顶尖高校年轻人的穷途困境》</p>
-<p>每日推荐（6）——演讲 / 《我的奋斗》，演讲 / 《什么是教育》</p>
-<p>每日推荐（7）——书 / 《亲密关系》</p>
-<p>每日推荐（8）——演讲 / 《The first 20 hours - how to learn anything》</p>
-<p>每日推荐（9）——文章 / 《谈谈我的“三观”》</p>
-<p>每日推荐（10）——网站 / CTF Wiki</p>
-<p>每日推荐（11）——教程 / WangDoc: clang-tutorial</p>
-<p>每日推荐（12）——书 / 《操作系统导论》</p>
-<p>每日推荐（13）——书 / 《算法（第4版）》</p>
-<p>每日推荐（14）——电影 / 《怦然心动》</p>
-<p>每日推荐（15）——网站 / 中国数字时代</p>
-<p>每日推荐（16）——自媒体博主 / 小岛大浪吹</p>
-<p>每日推荐（17）——视频 / 《图解计算机科学》</p>
-<p>每日推荐（18）——日记 / 《方方日记》</p>
-<p>每日推荐（19）——Live / 彩虹合唱团-醉鬼的敬酒曲</p>
-<p>每日推荐（20）——文章 / 《博士学历真的很重要吗？》</p>
-<p>每日推荐（21）——网站 / verywellfit</p>
-<p>每日推荐（22）——项目 / comments-for-awesome-courses</p>
-<p>每日推荐（23）——演讲 / 《Steve Jobs 2005 Stanford Commencement Address》</p>
-<p>每日推荐（24）——指南 / JavaGuide</p>
-<p>每日推荐（25）——项目 / 李嘉诚基金会全国宁养医疗服务计划</p>
-<p>每日推荐（26）——网站 / 中国文革受难者纪念园</p>
-<p>每日推荐（27）——个人博客 / 阮一峰的网络日志</p>
-<p>每日推荐（28）——网站 / GitHub中文社区</p>
-<p>每日推荐（29）——项目 / Teach Yourself Computer Science</p>
-<p>每日推荐（30）——个人博客 / 编程随想的博客</p>
-<p>每日推荐（31）——网站 / Intel—游戏—建议和改造</p>
-<p>每日推荐（32）——日记 / [科普分析] 劳动仲裁日记</p>
-<p>每日推荐（33）——网站 / MyFreeMP3</p>
-<p>每日推荐（34）——网站 / 片库</p>
-<p>每日推荐（35）——网站 / 十佳評测</p>
-<p>每日推荐（36）——网站 / REG007</p>
-<p>每日推荐（37）——自媒体博主 / 3Blue1Brown</p>
-<p>每日推荐（38）——书 / 《网络是怎样连接的》</p>
-<p>每日推荐（39）——书 / 《计算机网络-自顶向下方法》</p>
-]]></content>
-      <tags>
-        <tag>每日推荐</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>每日推荐（12）</title>
-    <url>/2021/12/16/%E6%AF%8F%E6%97%A5%E6%8E%A8%E8%8D%90%EF%BC%8812%EF%BC%89/</url>
-    <content><![CDATA[<p>今天推荐的是一本书：</p>
-<p><strong>《操作系统导论》</strong></p>
-<span id="more"></span>
-<br>
-<p>这是它的豆瓣链接：<a href="https://book.douban.com/subject/33463930/">豆瓣——《操作系统导论》</a></p>
-<p>这是它的百度网盘分享链接：<a href="https://pan.baidu.com/s/1exLRdUhS4ZTjCLSgIaPAPg">百度网盘——《操作系统导论》</a>，提取码：ulvl</p>
-]]></content>
-      <tags>
-        <tag>每日推荐</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>每日推荐（13）</title>
-    <url>/2021/12/17/%E6%AF%8F%E6%97%A5%E6%8E%A8%E8%8D%90%EF%BC%8813%EF%BC%89/</url>
-    <content><![CDATA[<p>今天推荐的是一本书：</p>
-<p><strong>《算法（第4版）》</strong></p>
-<span id="more"></span>
-<br>
-<p>这是它的豆瓣链接：<a href="https://book.douban.com/subject/19952400/">豆瓣——《算法（第4版）》</a></p>
-<p>这是它的百度网盘分享链接：<a href="https://pan.baidu.com/s/1Xf8NlS-sZDGmfU3NFTM3cA">百度网盘——《算法（第4版）》</a>，提取码：ykuy</p>
-]]></content>
-      <tags>
-        <tag>每日推荐</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>每日推荐（14）</title>
-    <url>/2021/12/18/%E6%AF%8F%E6%97%A5%E6%8E%A8%E8%8D%90%EF%BC%8814%EF%BC%89/</url>
-    <content><![CDATA[<p>今天推荐的是一部电影：</p>
-<p><strong>《怦然心动》</strong></p>
-<span id="more"></span>
-<br>
-<p>这是它的豆瓣链接：<a href="https://movie.douban.com/subject/3319755/">豆瓣——《怦然心动》</a></p>
-<p>这是它的中文维基百科链接：<a href="https://zh.wikipedia.org/wiki/%E6%80%A6%E7%84%B6%E5%BF%83%E5%8A%A8_(%E7%94%B5%E5%BD%B1)#%E5%8F%8D%E5%93%8D">维基百科——《怦然心动》</a></p>
-<p>这是它的百度网盘分享链接：<a href="https://pan.baidu.com/s/1UQRKNw7_du69QOR__9MPYg">百度网盘——《怦然心动》</a>，提取码：xbju，解压缩密码：prxd</p>
-<p>在获取百度网盘资源之前，你最好先阅读一下这篇文章：<a href="https://primer2019.github.io/2021/12/04/%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98%E8%B5%84%E6%BA%90%E5%88%B6%E4%BD%9C%E6%8C%87%E5%8D%97/">百度网盘资源制作指南</a></p>
-]]></content>
-      <tags>
-        <tag>每日推荐</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>每日推荐（15）</title>
-    <url>/2021/12/19/%E6%AF%8F%E6%97%A5%E6%8E%A8%E8%8D%90%EF%BC%8815%EF%BC%89/</url>
-    <content><![CDATA[<p>今天推荐的是一个网站：</p>
-<p><strong>中国数字时代</strong></p>
-<span id="more"></span>
-<br>
-<p>这是它的链接：<a href="https://chinadigitaltimes.net/chinese">中国数字时代</a></p>
-]]></content>
-      <tags>
-        <tag>每日推荐</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>每日推荐（16）</title>
-    <url>/2021/12/20/%E6%AF%8F%E6%97%A5%E6%8E%A8%E8%8D%90%EF%BC%8816%EF%BC%89/</url>
-    <content><![CDATA[<p>今天推荐的是一个自媒体博主：</p>
-<p><strong>小岛大浪吹</strong></p>
-<span id="more"></span>
-<br>
-<p>这是他的YouTube频道：<a href="https://www.youtube.com/channel/UCYPT3wl0MgbOz63ho166KOw">YouTube——小岛大浪吹</a></p>
-]]></content>
-      <tags>
-        <tag>每日推荐</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>每日推荐（17）</title>
-    <url>/2021/12/21/%E6%AF%8F%E6%97%A5%E6%8E%A8%E8%8D%90%EF%BC%8817%EF%BC%89/</url>
-    <content><![CDATA[<p>今天推荐的是一个视频：</p>
-<p><strong>《图解计算机科学》</strong></p>
-<span id="more"></span>
-<br>
-<p>这是它的YouTube链接：<a href="https://www.youtube.com/watch?v=SzJ46YA_RaA&amp;t=4s">YouTube——《图解计算机科学》</a></p>
-<p>这是它的bilibili链接：<a href="https://www.bilibili.com/video/BV1Vg411P7aB?from=search&amp;seid=13686351371306391408&amp;spm_id_from=333.337.0.0">bilibili——《图解计算机科学》</a></p>
-<p>这是它的百度网盘分享链接：<a href="https://pan.baidu.com/s/19jCCO5qPOXL8vszMsgzFCQ">百度网盘——《图解计算机科学》</a>，提取码：0fzi</p>
-]]></content>
-      <tags>
-        <tag>每日推荐</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>每日推荐（18）</title>
-    <url>/2021/12/22/%E6%AF%8F%E6%97%A5%E6%8E%A8%E8%8D%90%EF%BC%8818%EF%BC%89/</url>
-    <content><![CDATA[<p>今天推荐的是一本日记：</p>
-<p><strong>《方方日记》</strong></p>
-<span id="more"></span>
-<br>
-<p>这是它的中文维基百科链接：<a href="https://zh.wikipedia.org/wiki/%E6%96%B9%E6%96%B9%E6%97%A5%E8%A8%98">维基百科——《方方日记》</a></p>
-<p>这是它的财新网链接：<a href="http://m.app.caixin.com/m_topic_detail/1489.html">财新网——《方方日记》</a></p>
-<p>这是它的中国数字时代链接：<a href="https://chinadigitaltimes.net/space/%E6%96%B9%E6%96%B9%E6%97%A5%E8%AE%B0">中国数字时代——《方方日记》</a></p>
-<p>这是它的百度网盘分享链接：<a href="https://pan.baidu.com/s/17TLpnQCKpiZIXxsgHT5hvw">百度网盘——《方方日记》</a>，提取码：xws5，解压缩密码：ffrj</p>
-<p>在获取百度网盘资源之前，你最好先阅读一下这篇文章：<a href="https://primer2019.github.io/2021/12/04/%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98%E8%B5%84%E6%BA%90%E5%88%B6%E4%BD%9C%E6%8C%87%E5%8D%97/">百度网盘资源制作指南</a></p>
-]]></content>
-      <tags>
-        <tag>每日推荐</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>每日推荐（19）</title>
-    <url>/2021/12/23/%E6%AF%8F%E6%97%A5%E6%8E%A8%E8%8D%90%EF%BC%8819%EF%BC%89/</url>
-    <content><![CDATA[<p>今天推荐的是一场Live：</p>
-<p><strong>彩虹合唱团-醉鬼的敬酒曲</strong></p>
-<span id="more"></span>
-<br>
-<p>这是它的bilibili链接：<a href="https://www.bilibili.com/video/BV1qL4y1a7uK/?spm_id_from=333.788.recommend_more_video.0">bilibili——彩虹合唱团-醉鬼的敬酒曲</a></p>
-<p>这是它的百度网盘分享链接：<a href="https://pan.baidu.com/s/19Er2m48434ngAY5kwWbY7A">百度网盘——彩虹合唱团-醉鬼的敬酒曲</a>，提取码：76cq</p>
-]]></content>
-      <tags>
-        <tag>每日推荐</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>每日推荐（21）</title>
-    <url>/2021/12/25/%E6%AF%8F%E6%97%A5%E6%8E%A8%E8%8D%90%EF%BC%8821%EF%BC%89/</url>
-    <content><![CDATA[<p>今天推荐的是一个网站：</p>
-<p><strong>verywellfit</strong></p>
-<span id="more"></span>
-<br>
-<p>这是它的链接：<a href="https://www.verywellfit.com/">verywellfit</a></p>
-]]></content>
-      <tags>
-        <tag>每日推荐</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>每日推荐（1）</title>
-    <url>/2021/12/05/%E6%AF%8F%E6%97%A5%E6%8E%A8%E8%8D%90%EF%BC%881%EF%BC%89/</url>
-    <content><![CDATA[<p>今天推荐的是一本心理学与恋爱方面的好书：</p>
-<p><strong>《读懂恋人心——如何在未知中相爱，在懂得后相守》</strong></p>
-<span id="more"></span>
-<br>
-<p>这是它的豆瓣链接：<a href="https://book.douban.com/subject/11442509/">豆瓣——《读懂恋人心》</a></p>
-<p>这是它的百度网盘分享链接：<a href="https://pan.baidu.com/s/1U2C_QKUorBWYm3CFwoQH2A">百度网盘——《读懂恋人心》</a>，提取码：2z5o</p>
-]]></content>
-      <tags>
-        <tag>每日推荐</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>每日推荐（20）</title>
-    <url>/2021/12/24/%E6%AF%8F%E6%97%A5%E6%8E%A8%E8%8D%90%EF%BC%8820%EF%BC%89/</url>
-    <content><![CDATA[<p>今天推荐的是一篇文章：</p>
-<p><strong>《博士学历真的很重要吗？》</strong></p>
-<span id="more"></span>
-<br>
-<p>这是它的知乎链接：<a href="https://www.zhihu.com/question/366627317">知乎——《博士学历真的很重要吗？》</a></p>
-<p>这是它的百度网盘分享链接：<a href="https://pan.baidu.com/s/1E0k_SeZkVzmJwJIVViaQZA">百度网盘——《博士学历真的很重要吗？》</a>，提取码：q04m</p>
-]]></content>
-      <tags>
-        <tag>每日推荐</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>每日推荐（22）</title>
-    <url>/2021/12/26/%E6%AF%8F%E6%97%A5%E6%8E%A8%E8%8D%90%EF%BC%8822%EF%BC%89/</url>
-    <content><![CDATA[<p>今天推荐的是一个项目：</p>
-<p><strong>comments-for-awesome-courses</strong></p>
-<span id="more"></span>
-<br>
-<p>这是它的GitHub链接：<a href="https://github.com/conanhujinming/comments-for-awesome-courses/">GitHub——comments-for-awesome-courses</a></p>
-<p>这是它的网站链接：<a href="https://conanhujinming.github.io/comments-for-awesome-courses/index.html">名校公开课程评价网</a></p>
-]]></content>
-      <tags>
-        <tag>每日推荐</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>每日推荐（23）</title>
-    <url>/2021/12/27/%E6%AF%8F%E6%97%A5%E6%8E%A8%E8%8D%90%EF%BC%8823%EF%BC%89/</url>
-    <content><![CDATA[<p>今天推荐的是一个演讲：</p>
-<p><strong>《Steve Jobs 2005 Stanford Commencement Address》</strong></p>
-<span id="more"></span>
-<br>
-<p>这是它的YouTube链接：<a href="https://www.youtube.com/watch?v=UF8uR6Z6KLc">YouTube——《Steve Jobs 2005 Stanford Commencement Address》</a></p>
-<p>这是它的bilibili链接：<a href="https://www.bilibili.com/video/BV1oW411h7Ea?from=search&amp;seid=17972588449709711502&amp;spm_id_from=333.337.0.0">bilibili——《Steve Jobs 2005 Stanford Commencement Address》</a></p>
-<p>这是它的百度网盘分享链接：<a href="https://pan.baidu.com/s/1LMbeWUSgx0xO4ZPHtITyyg">百度网盘——《Steve Jobs 2005 Stanford Commencement Address》</a>，提取码：fujf</p>
-]]></content>
-      <tags>
-        <tag>每日推荐</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>每日推荐（24）</title>
-    <url>/2021/12/28/%E6%AF%8F%E6%97%A5%E6%8E%A8%E8%8D%90%EF%BC%8824%EF%BC%89/</url>
-    <content><![CDATA[<p>今天推荐的是一个指南：</p>
-<p><strong>JavaGuide</strong></p>
-<span id="more"></span>
-<br>
-<p>这是它的链接：<a href="https://javaguide.cn/">JavaGuide</a></p>
-]]></content>
-      <tags>
-        <tag>每日推荐</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>每日推荐（26）</title>
-    <url>/2021/12/30/%E6%AF%8F%E6%97%A5%E6%8E%A8%E8%8D%90%EF%BC%8826%EF%BC%89/</url>
-    <content><![CDATA[<p>今天推荐的是一个网站：</p>
-<p><strong>中国文革受难者纪念园</strong></p>
-<span id="more"></span>
-<br>
-<p>这是它的链接：<a href="https://ywang.uchicago.edu/history/">中国文革受难者纪念园</a></p>
-]]></content>
-      <tags>
-        <tag>每日推荐</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>每日推荐（27）</title>
-    <url>/2021/12/31/%E6%AF%8F%E6%97%A5%E6%8E%A8%E8%8D%90%EF%BC%8827%EF%BC%89/</url>
-    <content><![CDATA[<p>今天推荐的是一个个人博客：</p>
-<p><strong>阮一峰的网络日志</strong></p>
-<span id="more"></span>
-<br>
-<p>这是它的链接：<a href="http://www.ruanyifeng.com/blog/">阮一峰的网络日志</a></p>
-]]></content>
-      <tags>
-        <tag>每日推荐</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>每日推荐（28）</title>
-    <url>/2022/01/01/%E6%AF%8F%E6%97%A5%E6%8E%A8%E8%8D%90%EF%BC%8828%EF%BC%89/</url>
-    <content><![CDATA[<p>今天推荐的是一个网站：</p>
-<p><strong>GitHub中文社区</strong></p>
-<span id="more"></span>
-<br>
-<p>这是它的链接：<a href="https://www.githubs.cn/">GitHub中文社区</a></p>
-]]></content>
-      <tags>
-        <tag>每日推荐</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>每日推荐（25）</title>
-    <url>/2021/12/29/%E6%AF%8F%E6%97%A5%E6%8E%A8%E8%8D%90%EF%BC%8825%EF%BC%89/</url>
-    <content><![CDATA[<p>今天推荐的是一个项目：</p>
-<p><strong>李嘉诚基金会全国宁养医疗服务计划</strong></p>
-<span id="more"></span>
-<br>
-<p>这是它的链接：<a href="https://www.hospice.com.cn/index.aspx">李嘉诚基金会全国宁养医疗服务计划</a></p>
-]]></content>
-      <tags>
-        <tag>每日推荐</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>每日推荐（30）</title>
-    <url>/2022/01/03/%E6%AF%8F%E6%97%A5%E6%8E%A8%E8%8D%90%EF%BC%8830%EF%BC%89/</url>
-    <content><![CDATA[<p>今天推荐的是一个个人博客：</p>
-<p><strong>编程随想的博客</strong></p>
-<span id="more"></span>
-<br>
-<p>这是它的链接：<a href="https://program-think.blogspot.com/">编程随想的博客</a></p>
-]]></content>
-      <tags>
-        <tag>每日推荐</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>每日推荐（29）</title>
-    <url>/2022/01/02/%E6%AF%8F%E6%97%A5%E6%8E%A8%E8%8D%90%EF%BC%8829%EF%BC%89/</url>
-    <content><![CDATA[<p>今天推荐的是一个项目：</p>
-<p><strong>Teach Yourself Computer Science</strong></p>
-<span id="more"></span>
-<br>
-<p>这是它的链接：<a href="https://teachyourselfcs.com/">Teach Yourself Computer Science</a></p>
-]]></content>
-      <tags>
-        <tag>每日推荐</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>每日推荐（2）</title>
-    <url>/2021/12/06/%E6%AF%8F%E6%97%A5%E6%8E%A8%E8%8D%90%EF%BC%882%EF%BC%89/</url>
-    <content><![CDATA[<p>今天推荐的是一本书：</p>
-<p><strong>《性学观止》</strong></p>
-<span id="more"></span>
-<br>
-<p>这是它的豆瓣链接：<a href="https://book.douban.com/subject/4114636/">豆瓣——《性学观止》</a></p>
-<p>这是它的百度网盘分享链接：<a href="https://pan.baidu.com/s/1zClPpU4LONd5kjAcVfHSxw">百度网盘——《性学观止》</a>，提取码：fpg1</p>
-]]></content>
-      <tags>
-        <tag>每日推荐</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>每日推荐（31）</title>
-    <url>/2022/01/04/%E6%AF%8F%E6%97%A5%E6%8E%A8%E8%8D%90%EF%BC%8831%EF%BC%89/</url>
-    <content><![CDATA[<p>今天推荐的是一个网站：</p>
-<p><strong>Intel—游戏—建议和改造</strong></p>
-<span id="more"></span>
-<br>
-<p>这是它的链接：<a href="https://www.intel.cn/content/www/cn/zh/gaming/resources/overview.html">Intel—游戏—建议和改造</a></p>
-]]></content>
-      <tags>
-        <tag>每日推荐</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>每日推荐（32）</title>
-    <url>/2022/01/05/%E6%AF%8F%E6%97%A5%E6%8E%A8%E8%8D%90%EF%BC%8832%EF%BC%89/</url>
-    <content><![CDATA[<p>今天推荐的是一篇日记：</p>
-<p><strong>[科普分析] 劳动仲裁日记</strong></p>
-<span id="more"></span>
-<br>
-<p>这是它的链接：<a href="https://bbs.nga.cn/read.php?tid=22868311">[科普分析] 劳动仲裁日记</a></p>
-]]></content>
-      <tags>
-        <tag>每日推荐</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>每日推荐（33）</title>
-    <url>/2022/01/06/%E6%AF%8F%E6%97%A5%E6%8E%A8%E8%8D%90%EF%BC%8833%EF%BC%89/</url>
-    <content><![CDATA[<p>今天推荐的是一个网站：</p>
-<p><strong>MyFreeMP3</strong></p>
-<span id="more"></span>
-<br>
-<p>这是它的链接：<a href="http://tool.liumingye.cn/music/?page=searchPage">MyFreeMP3</a></p>
-<p>这是它所处的工具箱的链接：<a href="http://tool.liumingye.cn/">刘明野的工具箱</a></p>
-]]></content>
-      <tags>
-        <tag>每日推荐</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>每日推荐（34）</title>
-    <url>/2022/01/07/%E6%AF%8F%E6%97%A5%E6%8E%A8%E8%8D%90%EF%BC%8834%EF%BC%89/</url>
-    <content><![CDATA[<p>今天推荐的是一个网站：</p>
-<p><strong>片库</strong></p>
-<span id="more"></span>
-<br>
-<p>这是它的链接：<a href="https://www.mypianku.net/">片库</a></p>
-]]></content>
-      <tags>
-        <tag>每日推荐</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>每日推荐（35）</title>
-    <url>/2022/01/08/%E6%AF%8F%E6%97%A5%E6%8E%A8%E8%8D%90%EF%BC%8835%EF%BC%89/</url>
-    <content><![CDATA[<p>今天推荐的是一个网站：</p>
-<p><strong>十佳評测</strong></p>
-<span id="more"></span>
-<br>
-<p>这是它的链接：<a href="https://www.10besty.com/">十佳評测</a></p>
-]]></content>
-      <tags>
-        <tag>每日推荐</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>每日推荐（36）</title>
-    <url>/2022/01/09/%E6%AF%8F%E6%97%A5%E6%8E%A8%E8%8D%90%EF%BC%8836%EF%BC%89/</url>
-    <content><![CDATA[<p>今天推荐的是一个网站：</p>
-<p><strong>REG007</strong></p>
-<span id="more"></span>
-<br>
-<p>这是它的链接：<a href="https://www.reg007.com/">REG007</a></p>
-]]></content>
-      <tags>
-        <tag>每日推荐</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>每日推荐（37）</title>
-    <url>/2022/01/10/%E6%AF%8F%E6%97%A5%E6%8E%A8%E8%8D%90%EF%BC%8837%EF%BC%89/</url>
-    <content><![CDATA[<p>今天推荐的是一个自媒体博主：</p>
-<p><strong>3Blue1Brown</strong></p>
-<span id="more"></span>
-<br>
-<p>这是他的YouTube频道：<a href="https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw">YouTube——3Blue1Brown</a></p>
-<p>这是他的bilibili账号：<a href="https://space.bilibili.com/88461692?from=search&amp;seid=6550328572168281347&amp;spm_id_from=333.337.0.0">bilibili——3Blue1Brown</a></p>
-]]></content>
-      <tags>
-        <tag>每日推荐</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>每日推荐（38）</title>
-    <url>/2022/01/11/%E6%AF%8F%E6%97%A5%E6%8E%A8%E8%8D%90%EF%BC%8838%EF%BC%89/</url>
-    <content><![CDATA[<p>今天推荐的是一本书：</p>
-<p><strong>《网络是怎样连接的》</strong></p>
-<span id="more"></span>
-<br>
-<p>这是它的豆瓣链接：<a href="https://book.douban.com/subject/26941639/">豆瓣——《网络是怎样连接的》</a></p>
-<p>这是它的百度网盘分享链接：<a href="https://pan.baidu.com/s/1s3tuO1kOuLrxz4taQkm09A">百度网盘——《网络是怎样连接的》</a>，提取码：9o5k</p>
-]]></content>
-      <tags>
-        <tag>每日推荐</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>每日推荐（3）</title>
-    <url>/2021/12/07/%E6%AF%8F%E6%97%A5%E6%8E%A8%E8%8D%90%EF%BC%883%EF%BC%89/</url>
-    <content><![CDATA[<p>今天推荐的是一个自媒体博主：</p>
-<p><strong>纯纯甘</strong></p>
-<span id="more"></span>
-<br>
-<p>这是她的YouTube频道：<a href="https://www.youtube.com/channel/UCIs3-LcOCdpiGve6yu1-Fug">YouTube——纯纯甘</a></p>
-<p>这是她的bilibili账号：<a href="https://space.bilibili.com/110930331?from=search&amp;seid=1273538552104627827&amp;spm_id_from=333.337.0.0">bilibili——纯纯甘</a></p>
-]]></content>
-      <tags>
-        <tag>每日推荐</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>每日推荐（39）</title>
-    <url>/2022/01/12/%E6%AF%8F%E6%97%A5%E6%8E%A8%E8%8D%90%EF%BC%8839%EF%BC%89/</url>
-    <content><![CDATA[<p>今天推荐的是一本书：</p>
-<p><strong>《计算机网络-自顶向下方法》</strong></p>
-<span id="more"></span>
-<br>
-<p>这是它的豆瓣链接：<a href="https://book.douban.com/subject/30280001/">豆瓣——《计算机网络-自顶向下方法》</a></p>
-<p>这是它的百度网盘分享链接：<a href="https://pan.baidu.com/s/1lgaiPxuatuSP5TjTJ9fHCA">百度网盘——《计算机网络-自顶向下方法》</a>，提取码：7vu3</p>
-]]></content>
-      <tags>
-        <tag>每日推荐</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>每日推荐（6）</title>
-    <url>/2021/12/10/%E6%AF%8F%E6%97%A5%E6%8E%A8%E8%8D%90%EF%BC%886%EF%BC%89/</url>
-    <content><![CDATA[<p>今天推荐的是两个教育主题的演讲：</p>
-<p><strong>《我的奋斗》，罗永浩</strong></p>
-<p><strong>《什么是教育》，崔永元</strong></p>
-<span id="more"></span>
-<br>
-<p>这是《我的奋斗》的bilibili链接：<a href="https://www.bilibili.com/video/BV14A411T7e9?from=search&amp;seid=1361719027163863916&amp;spm_id_from=333.337.0.0">bilibili——《我的奋斗》</a></p>
-<p>这是《我的奋斗》的YouTube链接：<a href="https://www.youtube.com/watch?v=66l7-2SG40s">YouTube——《我的奋斗》</a></p>
-<p>这是《什么是教育》的YouTube链接：<a href="https://www.youtube.com/watch?v=re8aeIP_2vg">YouTube——《什么是教育》</a></p>
-<p>这是以上内容的百度网盘分享链接：<a href="https://pan.baidu.com/s/1A7-X7KIM04Wshs72lmSc6Q">百度网盘——教育</a>，提取码：941l，解压缩密码：jiaoyu</p>
-<p>在获取百度网盘资源之前，你最好先阅读一下这篇文章：<a href="https://primer2019.github.io/2021/12/04/%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98%E8%B5%84%E6%BA%90%E5%88%B6%E4%BD%9C%E6%8C%87%E5%8D%97/">百度网盘资源制作指南</a></p>
-]]></content>
-      <tags>
-        <tag>每日推荐</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>每日推荐（4）</title>
-    <url>/2021/12/08/%E6%AF%8F%E6%97%A5%E6%8E%A8%E8%8D%90%EF%BC%884%EF%BC%89/</url>
-    <content><![CDATA[<p>今天推荐的是一部纪录片：</p>
-<p><strong>《人间世》</strong></p>
-<span id="more"></span>
-<br>
-<p>这是它的中文维基百科链接：<a href="https://zh.wikipedia.org/wiki/%E4%BA%BA%E9%97%B4%E4%B8%96_(%E7%BA%AA%E5%BD%95%E7%89%87)">维基百科——《人间世》</a></p>
-<p>这是第一季的豆瓣链接：<a href="https://movie.douban.com/subject/26815163/">豆瓣——《人间世》第一季</a></p>
-<p>这是第二季的豆瓣链接：<a href="https://movie.douban.com/subject/27199784/">豆瓣——《人间世》第二季</a></p>
-<p>这是南方周末的一篇文章：<a href="http://www.infzm.com/contents/119300">《人间世》：感动的，煽情的，与被遮蔽的</a>，这篇文章也出现在豆瓣《人间世》第一季的影评里。我在这里列出它是为了提醒你，这部片子虽然很不错，但仅仅是一个视角的呈现，不要让泪水淹没了理智。想要洞悉医疗问题的本质，我们还需要更多的探索和思考。</p>
-<p>这是它的百度网盘分享链接：<a href="https://pan.baidu.com/s/1coUdKqQYbgY6AxJDM5fLVw">百度网盘——《人间世》</a>，提取码：bxqa ，解压缩密码：renjianshi</p>
-<p>在获取百度网盘资源之前，你最好先阅读一下这篇文章：<a href="https://primer2019.github.io/2021/12/04/%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98%E8%B5%84%E6%BA%90%E5%88%B6%E4%BD%9C%E6%8C%87%E5%8D%97/">百度网盘资源制作指南</a></p>
-]]></content>
-      <tags>
-        <tag>每日推荐</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>每日推荐（5）</title>
-    <url>/2021/12/09/%E6%AF%8F%E6%97%A5%E6%8E%A8%E8%8D%90%EF%BC%885%EF%BC%89/</url>
-    <content><![CDATA[<p>今天推荐的是学校教育方面的一本书、一本手册和一篇文章：</p>
-<p><strong>书：《大学之路》</strong></p>
-<p><strong>手册：《上海交通大学学生生存手册》</strong></p>
-<p><strong>文章：《绩点为王：中国顶尖高校年轻人的穷途困境》</strong></p>
-<span id="more"></span>
-<br>
-<p>这是《大学之路》的豆瓣链接：<a href="https://book.douban.com/subject/26584286/">豆瓣——《大学之路》</a></p>
-<p>这是《上海交通大学学生生存手册》的GitHub链接：<a href="https://github.com/SurviveSJTU/SurviveSJTUManual">GitHub——《上海交通大学学生生存手册》</a></p>
-<p>这是《上海交通大学学生生存手册》的GitBook链接：<a href="https://survivesjtu.gitbook.io/survivesjtumanual/">GitBook——《上海交通大学学生生存手册》</a></p>
-<p>这是《绩点为王：中国顶尖高校年轻人的穷途困境》的微信公众号链接：<a href="https://mp.weixin.qq.com/s/ilNVG-fabWHU34De5NPGSA">微信公众号——《绩点为王：中国顶尖高校年轻人的穷途困境》</a></p>
-<p>这是以上内容的百度网盘分享链接：<a href="https://pan.baidu.com/s/1KNKtay-fq2oavySqtaWzKA">百度网盘——学校教育</a>，提取码：wog2</p>
-]]></content>
-      <tags>
-        <tag>每日推荐</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>每日推荐（7）</title>
-    <url>/2021/12/11/%E6%AF%8F%E6%97%A5%E6%8E%A8%E8%8D%90%EF%BC%887%EF%BC%89/</url>
-    <content><![CDATA[<p>今天推荐的是一本书：</p>
-<p><strong>《亲密关系》</strong></p>
-<span id="more"></span>
-<br>
-<p>这是它的豆瓣链接：<a href="https://book.douban.com/subject/26585065/">豆瓣——《亲密关系》</a></p>
-<p>这是它的百度网盘分享链接：链接：<a href="https://pan.baidu.com/s/1Uwlm92SAMCr5I8UZh2M0rw">百度网盘——《亲密关系》</a>，提取码：tw59</p>
-]]></content>
-      <tags>
-        <tag>每日推荐</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>每日推荐（8）</title>
-    <url>/2021/12/12/%E6%AF%8F%E6%97%A5%E6%8E%A8%E8%8D%90%EF%BC%888%EF%BC%89/</url>
-    <content><![CDATA[<p>今天推荐的是一个TED演讲：</p>
-<p><strong>《The first 20 hours - how to learn anything》，Josh Kaufman</strong></p>
-<span id="more"></span>
-<br>
-<p>这是它的bilibili链接：<a href="https://www.bilibili.com/video/BV144411b7Uk/?spm_id_from=333.788.b_7265636f5f6c697374.3">bilibili——《The first 20 hours - how to learn anything》</a></p>
-<p>这是它的YouTube链接：<a href="https://www.youtube.com/watch?v=5MgBikgcWnY&amp;t=288s">YouTube——《The first 20 hours - how to learn anything》</a></p>
-<p>这是它的百度网盘分享链接：<a href="https://pan.baidu.com/s/11bU976Wn5w1em-1ILavF-g">百度网盘——《The first 20 hours - how to learn anything》</a>，提取码：lwu2</p>
-]]></content>
-      <tags>
-        <tag>每日推荐</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>求职准备</title>
-    <url>/2021/11/16/%E6%B1%82%E8%81%8C%E5%87%86%E5%A4%87/</url>
-    <content><![CDATA[<h4 id="信息"><a class="markdownIt-Anchor" href="#信息"></a> 信息</h4>
-<p>牛客网</p>
-<p>脉脉</p>
-<span id="more"></span>
-<br>
-<h4 id="能力"><a class="markdownIt-Anchor" href="#能力"></a> 能力</h4>
-<ul>
-<li>
-<p><strong>理论</strong></p>
-<p><em>算法和数据结构</em></p>
-<p>  《算法（第4版）》</p>
-<p>  LeetCode</p>
-<p><em>计算机网络</em></p>
-<p>  《网络是怎样连接的》</p>
-<p>  《计算机网络-自顶向下方法》</p>
-<p><em>操作系统</em></p>
-<p>  《操作系统导论》</p>
-<p><em>设计模式</em></p>
-</li>
-<li>
-<p><strong>技术</strong></p>
-<p><em>Java</em></p>
-<p><em>C</em></p>
-<p><em>Python</em></p>
-</li>
-<li>
-<p><strong>项目</strong></p>
-</li>
-<li>
-<p><strong>博客</strong></p>
-<p>“关于我”</p>
-<p>“算法”</p>
-</li>
-</ul>
-<br>
-<h4 id="简历"><a class="markdownIt-Anchor" href="#简历"></a> 简历</h4>
-<p>中文 + 英文</p>
-<p>PDF + Markdown</p>
-<br>
-<h4 id="面试"><a class="markdownIt-Anchor" href="#面试"></a> 面试</h4>
-<ol>
-<li>
-<p><strong>规划</strong></p>
-</li>
-<li>
-<p><strong>投递</strong></p>
-<p>实习</p>
-<p>  实习僧</p>
-<p>  公司官网</p>
-<p>校招</p>
-<p>  LinkedIn</p>
-<p>  公司官网</p>
-<p>社招</p>
-</li>
-<li>
-<p><strong>记录</strong></p>
-<p>录音</p>
-<p>博客</p>
-</li>
-<li>
-<p><strong>反馈</strong></p>
-<p>反问面评</p>
-<p>复盘总结</p>
-</li>
-</ol>
-<br>
-<h4 id="签约"><a class="markdownIt-Anchor" href="#签约"></a> 签约</h4>
-<br>
-<h4 id="入职"><a class="markdownIt-Anchor" href="#入职"></a> 入职</h4>
-<ul>
-<li><strong>租房</strong></li>
-</ul>
+<p>在我读中学的时候，我就发现自己有一种不知道是好是坏的“癖好”——我很喜欢进行系统地整理。因此我会做出工工整整的各科笔记，以几乎相同的格式把每个章节的知识完整地记录下来，并配上目录，甚至会为此选用制式相同的本子和笔。这个“癖好”还表现在很多方面，比如当我读到一些我以为的好书，或者看到一些好的电影时，我会把它们都集中记录下来，最开始记录在纸上，后来记录在豆瓣，再后来是在网盘和硬盘里…</p>
+<p>为什么说不知道是好是坏呢？一方面，在某些方面，这个“癖好”给我的帮助确实不小。比如和中、高考打交道的那几年，这个“癖好”让我有了相对更为扎实的基础；对于一本值得反复阅读的好书，或者一段值得反复观看的影片，当我再次回忆起它们时，不至于遍寻脑海而毫无头绪。但另一方面，这个“癖好”带来的问题也是显而易见的——它太浪费时间了。做到整齐划一大概是这个世界上最难的事儿之一了，更何况，在规整地记录之后，更多地想法会随之涌现出来，比如分类，这又是一大难题。在这个过程中，为了做到强迫症般的整齐，自然少不了各种各样的形式主义，时间也就如流水般逝去了。</p>
+<p>即便如此，这个“癖好”我还是一直保留到了现在，因为我实在从中获益良多。当然，现在我会有意识地在践行的过程中减少形式主义的东西，让它回归初心时的样子。为什么要专门提到这样一个“癖好”呢？因为我搭建博客最初的动力，就与此有关。</p>
+<p>我学的是计算机，进大学之前，是典型的“小镇做题家”，对这个专业只知道目光所及的前景和自认为的兴趣。进大学第一年，学校开的都是些公共课，数学、英语、体育等等，临到这年结束，才开了一门儿专业课，叫“C++高级语言程序设计”。五十多的副院长，操着一口听不懂哪儿的方言，拿着自己编的课本儿，用着将近二十年前的PPT，教我们写C风格的旧版本C++。我大概听了两节课，心里就一片灰暗，那时候还没有考虑什么大厂、什么保研，只是单纯觉得，要是这样学四年下来，我什么都学不会，而且时间全部会浪费掉。于是从那儿起，我开始摸索我的计算机自学之路。</p>
+<p>而在摸索过程中，就不可避免的会接触到各种各样的博客。从最初通过百度接触到的博客平台CSDN、博客园，到一些名声在外的独立博客网站“CoolShell”、“阮一峰的网络日志”，再到通过Google接触到的各种各样的独立博客xxx.github.io等等。这还仅仅是中文博客，英文世界里还有更多大神的博客等待着被探索。各式各样的人在博客上记录自己的技术之路，这些内容给到摸索中的我很大的帮助，所以，我的“癖好”又被勾起来了。</p>
+<p>没多久之后，我脑子里就一直在想，我是不是也可以自己写一个博客，把自己自学计算机技术的整个过程全部记录下来分享出去。基于这个念头，我又去了解了很多和博客相关的事儿，知道了在应聘时，一个持续更新的博客形成的优势不亚于项目和实习；知道了在未来，一个运营良好的优质博客甚至可以成为程序员的另一条出路。于是在这种种想法的推动下，我终于开始着手搭建自己的博客。</p>
+<p>要搭建怎样的博客呢？博客平台似乎还不错，CSDN虽然广告泛滥，但博客园还算说得过去，起初我这样想。但后来，随着了解得更深入，我发现从应聘的角度讲，不同类型的博客之间也存在高下之分。就像在简历上写Gmail邮箱就是比QQ邮箱给人印象更好一样，独立博客相对于博客平台也有这样的优势。另外，GFW也是我不得不考虑的因素。我不是只知道唱红歌的乖孩子，相较于粉饰出来的表象，我对真实的现实更感兴趣，所以也希望以后能在自己的博客上有自由表达的权利，想说的时候能说两句实话。综合考虑这些因素，最终我决定搭建独立博客，并在一番权衡后，选择先通过Hexo + GitHub Pages这样便宜简洁的方式来搭建，最终的成果就是你现在看到的这个博客。</p>
+<p>讲了半天，总算是把“为什么要搭建博客”这个事儿说清楚了，接下来就可以讲“为什么要写博客”了。</p>
+<p>有人可能要问了，你刚刚不是说过搭建博客就是为了记录、分享自学计算机的全过程吗？既然主题都已确定，搭建完博客直接写不就好了嘛，何必单独拿出来讲呢？这话倒是没错，可问题恰恰就出在这儿。</p>
+<p>对于那些影视爱好者来讲，他们收藏自己喜欢的影片的方法有很多：可以只是列一个清单，可以是专门买一个硬盘，甚至可以制作专业的碟片，不管选择哪种方式，最终目的都是把那些自己心爱的影片收藏起来。至于你心爱的影片是什么？和你如何收藏它无关。因为心爱，所以收藏。</p>
+<p>搭建博客和写博客之间的关系也是这样。我把博客搭建好了以后，只是为我可能写出的内容选择了博客这样的一种呈现方式。那么，我为什么要写这些内容呢？真的只是为了记录、分享自己自学计算机的过程吗？坦白讲，在我搭建好博客后，一时的热情褪去，真的要开始下笔写博客的时候，我重新问了自己这个问题，得到的答案是否定的。如果仅仅以此为动力，我想它不足以支持我把这个博客一直写下去。</p>
+<p>问题出在哪儿？我认真思考着这件事儿。</p>
+<p>以“记录、分享自己自学计算机的过程”为动力的话，看在这个博客对以后求职利好的份儿上，我想我能够坚持去更新它，但既然是坚持，那么过程必定痛苦，很难长久。相较于坚持去做一件事儿，我更喜欢的还是以兴趣为引子，自发地去做一件事儿，自发慢慢形成习惯，就变成了自律，这个过程与坚持相仿，但并不会痛苦，反而滋味丰富，这样才能够提供持久的动力。那么我对计算机没兴趣吗？当然有兴趣…这，似乎陷入了一个死循环。</p>
+<p>就这么纠结了好一阵子之后，有一天我突然反应过来，问题的症结根本不在这儿——我搭建博客这个事儿最早其实就是源于那么一个小“癖好”，可以说是临时起意，要搭建一个计算机主题的博客。但当我真的靠着三分钟热度把这个博客搭建了起来以后，要开始写博客了，我需要为自己写博客这件事儿找到长期持久的动力，仅靠这么个小“癖好”无法支撑了，那么我的动力要从哪儿来呢？</p>
+<p>这个时候，我没有选择去叩问自己的内心，而是选择了完全听从“别人”的意见。“学计算机的就该维护一个自己的博客…”、“一个维护的好的博客在求职的时候是绝对的加分项…”、“…”等等，这些全都是“别人”说的。我从来不曾问过自己，“你为什么要写一个计算机主题的博客？”要知道，对计算机有兴趣并不意味着就能够维护一个计算机主题的博客，这完全是两码事儿。更进一步讲，我要写的难道真的是一个计算机主题的博客吗？也许，我真正想记录的其实是自己的生活，而计算机只是其中的一部分？如果是这样的话，那它是怎样的一部分呢？又或者，其实我根本就不喜欢记录…</p>
+<p>总而言之，写不写？写什么？为什么要写？这三件事儿才是症结所在，把这三个事儿搞明白了，问题自然迎刃而解。而要想搞明白它们，得去叩问自己的内心。至于”别人“的话，最多只能作为指引方向的参照物，毕竟，最终想要到达的目的地，始终藏在自己心里。</p>
 ]]></content>
       <categories>
         <category>3 Self</category>
         <category>Individual</category>
-        <category>Money</category>
-        <category>Working for Others</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>百度网盘资源制作指南</title>
-    <url>/2021/12/04/%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98%E8%B5%84%E6%BA%90%E5%88%B6%E4%BD%9C%E6%8C%87%E5%8D%97/</url>
-    <content><![CDATA[<p>对百度网盘来说，很多资源如果直接上传，或者只压缩一个包，就会很容易炸。</p>
-<p>炸的原因有很多，比如资源不和谐、版权、内鬼举报、孤儿在线解压等等。</p>
-<span id="more"></span>
-  <br>
-<p>所以为了资源防炸，一般会对资源做如下处理后，再上传分享：</p>
-<p><strong>1 设置解压密码。</strong></p>
-<p><strong>2 采取.7z格式压缩：百度网盘不支持在线解压该格式。</strong></p>
-<p><strong>3 压缩时分卷压缩：分卷压缩会产生“a.7z.001”、“a.7z.002”这样后缀的压缩包。解压缩时，需要把所有文件名相同的压缩包“a.7z.*”都下载下来，然后选择“a.7z.001”文件进行解压，即可解压出全部资源，不需要修改后缀。</strong></p>
-<p><strong>4 用和谐的名字给压缩包命名：例如“线性代数.7z.001”。</strong></p>
-  <br>
-<p>这样一来，资源爆炸的概率大为降低，但是同时会导致一些缺陷：</p>
-<p>1   合集资源不能单独解压。</p>
-<p>2   不能在线解压。</p>
-<p>3   有些手机不支持分卷解压等等。</p>
-  <br>
-<p>如果下载的压缩包不能解压或者显示损坏，请检查：</p>
-<p>1   是否全部分卷都下载下来了。</p>
-<p>2   解压软件是否支持解压.7z格式的压缩包。</p>
-]]></content>
-      <categories>
-        <category>3 Self</category>
-        <category>Individual</category>
-        <category>Money</category>
-        <category>Working for Myself</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>每日推荐（9）</title>
-    <url>/2021/12/13/%E6%AF%8F%E6%97%A5%E6%8E%A8%E8%8D%90%EF%BC%889%EF%BC%89/</url>
-    <content><![CDATA[<p>今天推荐的是一篇文章：</p>
-<p><strong>《谈谈我的“三观”》，陈皓</strong></p>
-<span id="more"></span>
-<br>
-<p>这是它的CoolShell链接：<a href="https://coolshell.cn/articles/19085.html">CoolShell——《谈谈我的“三观”》</a></p>
-<p>CoolShell（酷壳）是陈皓（左耳朵耗子）的个人博客</p>
-]]></content>
-      <tags>
-        <tag>每日推荐</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>算法汇总</title>
-    <url>/2021/12/20/%E7%AE%97%E6%B3%95%E6%B1%87%E6%80%BB/</url>
-    <content><![CDATA[<p><strong>”算法“汇总：</strong></p>
-<h4 id="基础"><a class="markdownIt-Anchor" href="#基础"></a> 基础</h4>
-<p>算法（1）-基础编程模型</p>
-<p>算法（2）-数据抽象</p>
-<span id="more"></span>
-<p>算法（3）-背包、队列和栈</p>
-]]></content>
-      <categories>
-        <category>4 Self-realization</category>
-        <category>Computer</category>
-        <category>Computer Science</category>
-        <category>3 Theories</category>
-        <category>Algorithm &amp; Data Structure</category>
       </categories>
       <tags>
-        <tag>算法</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>算法（1）-基础编程模型</title>
-    <url>/2021/12/20/%E7%AE%97%E6%B3%95%EF%BC%881%EF%BC%89-%E5%9F%BA%E7%A1%80%E7%BC%96%E7%A8%8B%E6%A8%A1%E5%9E%8B/</url>
-    <content><![CDATA[]]></content>
-      <categories>
-        <category>4 Self-realization</category>
-        <category>Computer</category>
-        <category>Computer Science</category>
-        <category>3 Theories</category>
-        <category>Algorithm &amp; Data Structure</category>
-      </categories>
-      <tags>
-        <tag>算法</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>算法（3）-背包、队列和栈</title>
-    <url>/2021/12/22/%E7%AE%97%E6%B3%95%EF%BC%883%EF%BC%89-%E8%83%8C%E5%8C%85%E3%80%81%E9%98%9F%E5%88%97%E5%92%8C%E6%A0%88/</url>
-    <content><![CDATA[]]></content>
-      <categories>
-        <category>4 Self-realization</category>
-        <category>Computer</category>
-        <category>Computer Science</category>
-        <category>3 Theories</category>
-        <category>Algorithm &amp; Data Structure</category>
-      </categories>
-      <tags>
-        <tag>算法</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>算法（2）-数据抽象</title>
-    <url>/2021/12/21/%E7%AE%97%E6%B3%95%EF%BC%882%EF%BC%89-%E6%95%B0%E6%8D%AE%E6%8A%BD%E8%B1%A1/</url>
-    <content><![CDATA[]]></content>
-      <categories>
-        <category>4 Self-realization</category>
-        <category>Computer</category>
-        <category>Computer Science</category>
-        <category>3 Theories</category>
-        <category>Algorithm &amp; Data Structure</category>
-      </categories>
-      <tags>
-        <tag>算法</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>英语学习</title>
-    <url>/2022/01/01/%E8%8B%B1%E8%AF%AD%E5%AD%A6%E4%B9%A0/</url>
-    <content><![CDATA[<p>“英语”、“汉语”：<strong>语言 + 文字</strong></p>
-<p>语言：英语 汉语</p>
-<p>文字：英文 中文</p>
-<span id="more"></span>
-<br>
-<p>英语：字母 发音 单词 句子</p>
-<p>汉语：汉字 拼音 词语 句子</p>
-<br>
-<p>作为语言的特性：音</p>
-<p>作为文字的特性：形</p>
-<br>
-<p>英语作为一种语言，同时又是一种文字，<strong>“音”和“形”都是必须要掌握的</strong>，不然就失去了意义。</p>
-<p>学习这种“语言”不外乎两种方式：</p>
-<ol>
-<li>以音记形（即 <strong>“听觉型学习者”</strong> ）</li>
-<li>以形记音（即 <strong>“视觉型学习者”</strong> ）</li>
-</ol>
-<br>
-<p>在英语和汉语中，<strong>单词</strong>和<strong>词语</strong>作为一门语言在语法、语义、语用层面的最小单位，是语言的根基，也是学习语言的关键所在。</p>
-<p>对英语而言，<strong>单词的基础二十六个英文字母</strong>在“形”上几乎没有学习门槛，在“音”上存在一定门槛；而对汉语而言，<strong>词语的基础汉字</strong>在“音”和“形”上都存在一定的学习门槛，并且“形”恰恰是学习汉语的最大阻碍所在。</p>
-<br>
-<p>作为一名汉语母语者，反思我对汉语中词语记忆的形成，起关键作用的并不是“形”，而是“音”。也就是说，在想到一个词语并想要将其写下时，我脑海中第一时间想到的并不是组成它的汉字长什么样，而是它的读音，然后通过“形音对应”写下每一个音对应的汉字，从而写下这个词语。</p>
-<p>与此同时，在我对自己的认知中，我的语言天赋是明显高于文字天赋的。</p>
-<p>因此，<strong>“以音记形”的语言学习方式会更加适合我</strong>。</p>
-<br>
-<p>综上，<strong>我的英语学习之路</strong>：</p>
-<ol>
-<li><strong>发音</strong></li>
-<li>单词（<strong>以音记形</strong>）</li>
-<li>语法（语法的目的是遣词造句，这在英语和汉语中是一样的）</li>
-</ol>
-<hr>
-<p>词——词组 / 短语——句子：</p>
-<p><strong>词</strong>：<br>
-语法、语义、语用的最小单位，语言的根基。</p>
-<p><strong>词组 / 短语</strong>：<br>
-具有中心词的语法单位。<br>
-语法、语义、语用层面能搭配的语言单位组合起来形成的没有腔调（句调 / 语调 / 语气 / ……）的语言单位。</p>
-<p><strong>句子</strong>：<br>
-能表达完整语义的最实用的语言单位。<br>
-有腔调的——语言表达的魅力所在。</p>
-<br>
-<p><strong>汉语比英语要复杂</strong>：</p>
-<p>对英语而言，单词的基础二十六个英文字母在“形”上几乎没有学习门槛，在“音”上存在一定门槛；而对汉语而言，词语的基础汉字在“音”和“形”上都存在一定的学习门槛，并且“形”恰恰是学习汉语的最大阻碍所在。</p>
-<p><strong>在汉语 / 英语中，词语 / 单词都是由它们的基础元素（汉字 / 字母）通过排列组合组成的</strong>。不同的地方在于：</p>
-<p>在汉语中，<strong>词语学习的门槛在于汉字本身</strong>（当然，这并不代表汉字的排列组合就很容易。这里我们强调的是“门槛”，也就是在学习路上最早遇到的障碍），成百上千个汉字在“音”和“形”上都存在一定的学习门槛，两者对于初学者而言都是陌生的。这一点也导致了<strong>对于汉语初学者来说，其实是无法通过“以音记形” / “以形记音”的方式来学习词语的</strong>。初学者只能“音”和“形”同时学习，然后随着学习过程的深入以及对自身认知的加深，慢慢确定并偏向适合自己的学习方法。</p>
-<p>英语就不同了。在英语中，<strong>单词学习的门槛在于二十六个字母的排列组合</strong>，二十六个英文字母本身数量极为有限，在“形”上几乎没有学习门槛，对于英语初学者来说，只要跨越了“音”的障碍，再经过一段时间的“形音对应”训练，完全可以通过“以音记形” / “以形记音”的方式从二十六个英文字母平滑过渡到字母的排列组合，学习单词，并且事半功倍。</p>
-<p>事实上，在英语和汉语的学习中，初学者能够通过“以音记形” / “以形记音”的方式来学习英语单词，而学习汉语词语却不行，这也是英语比汉语简洁的一种很好的体现。</p>
-]]></content>
-      <categories>
-        <category>4 Self-realization</category>
-        <category>English</category>
-      </categories>
-      <tags>
-        <tag>方法</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>英文简历</title>
-    <url>/2021/11/16/%E8%8B%B1%E6%96%87%E7%AE%80%E5%8E%86/</url>
-    <content><![CDATA[<p>BaiduNetdisk sharing link of all format resumes: <a href></a></p>
-<span id="more"></span>
-<br>
-<center>
-     <h1>XXX</h1>
- </center>
-<h2 id="个人信息"><a class="markdownIt-Anchor" href="#个人信息"></a> 个人信息</h2>
-<ul>
-<li>性 别：男             年 龄：25</li>
-<li>手 机：134XXXX3216          邮 箱：XXXXX@XXX.com</li>
-<li>专 业：计算机科学与计算       岗 位：研发工程师</li>
-</ul>
-<h2 id="工作及教育经历"><a class="markdownIt-Anchor" href="#工作及教育经历"></a> 工作及教育经历</h2>
-<ul>
-<li>前公司       2019.8~至今      事业群名字-部门名字</li>
-<li>XXXX大学     2017.9~2019.7     计算机科学与技术专业-研究生</li>
-<li>XXXX大学     2013.9~2017.7     计算机科学与技术专业-本科</li>
-</ul>
-<h2 id="专业技能"><a class="markdownIt-Anchor" href="#专业技能"></a> 专业技能</h2>
-<ul>
-<li>熟练使用 C++，掌握Go，了解 Java、Python、PHP 等编程语言</li>
-<li>掌握基础数据结构和算法的基本原理</li>
-<li>等等</li>
-</ul>
-<h2 id="项目经历"><a class="markdownIt-Anchor" href="#项目经历"></a> 项目经历</h2>
-<ol>
-<li>
-<p>公司/学校 - XXweb服务器 - 独立开发 - 201508- 201512</p>
-<ul>
-<li>具体功能</li>
-<li>运用了那些技术，技术难点是</li>
-<li>效果如何</li>
-<li>demo演示地址，github地址</li>
-</ul>
-</li>
-<li>
-<p>公司/学校 - XX游戏 - 负责后端开发 - 201309- 201401</p>
-<ul>
-<li>具体功能</li>
-<li>运用了那些技术，技术难点是</li>
-<li>效果如何</li>
-<li>demo演示地址，github地址</li>
-</ul>
-</li>
-</ol>
-<h2 id="获奖经历"><a class="markdownIt-Anchor" href="#获奖经历"></a> 获奖经历</h2>
-<ul>
-<li>XXX 优秀新人</li>
-<li>XXX 学生社团优秀干部</li>
-<li>竞赛 XXX 奖</li>
-</ul>
-<h2 id="个人账号"><a class="markdownIt-Anchor" href="#个人账号"></a> 个人账号</h2>
-<ul>
-<li>blog 地址 (附加自己博客特色，写了哪些技术文章)</li>
-<li>github 地址 (附加自己github特色，突出的项目)</li>
-</ul>
-<h2 id="其他信息"><a class="markdownIt-Anchor" href="#其他信息"></a> 其他信息</h2>
-<ul>
-<li>喜欢钻研技术 等等</li>
-<li>性格开朗，喜欢跳舞，做个主持人 等等</li>
-</ul>
-]]></content>
-      <categories>
-        <category>3 Self</category>
-        <category>Individual</category>
-        <category>Money</category>
-        <category>Working for Others</category>
-      </categories>
-      <tags>
-        <tag>简历</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>随笔（1）</title>
-    <url>/2021/11/15/%E9%9A%8F%E7%AC%94%EF%BC%881%EF%BC%89/</url>
-    <content><![CDATA[<p>给自己找个地方说说话…</p>
-<span id="more"></span>
-<hr>
-<p>书整齐地摆着，人端正地坐着，埋着头，拿着笔，一个字儿一个字儿地钻研是读书</p>
-<p>人散漫地摊着，书随意地翻着，转着笔，晃着头，一页纸一页纸地扫过去也是读书</p>
-<p>前者固然难得，后者也别忘了</p>
-<br>
-<br>
-<p>来日方长，要有耐心</p>
-<br>
-<br>
-<p>从一直在追的一本小说里看到的所谓“御妻之道”，虽不合时宜，但颇有道理，因此记录在这里：</p>
-<p>妾三千道：“御妻之道，大道在于心，次之在于情，再次在于义，末之在于法。”</p>
-<p>张若尘细细参悟，问道：“心、情、义、法，该做何理解？“</p>
-<p>”大道在于心，意思便是，你得一心一意地对待她，了解她的心，当你知晓她想要什么，不喜欢什么，随时随地在想什么，那么，你们自然可以相敬如宾，举案齐眉。”妾三千道。</p>
-<p>张若尘道：“最难的就是一心一意。”</p>
-<p>“不难！”</p>
-<p>妾三千摆了摆手，低声道：“和谁在一起，就对谁一心一意。不要去想别的女子，她们都不存在，假的，是你的幻觉，只有眼前的她才是真的。切记，不要同时和两个女子在一起，甚至都不要让她们见面。你的水平太低，应付不了的。”</p>
-<p>张若尘目瞪口呆。</p>
-<p>不得不说，妾三千说的还真有一些道理。</p>
-<p>以前，张若尘与身边那些女子的矛盾，都是因为他与这一个女子在一起的时候，心中却想着另一个女子。</p>
-<p>甚至新婚之夜、洞房花烛的时候，都是如此。</p>
-<p>妾三千的手指沾来茶水，在桌案上，写出一个“情”字。</p>
-<p>“次之在于情，意思便是，纵然你想妻妾三千，但，都得拥有感情才行。”</p>
-<p>“风流之道。上流，发乎于情，而止于礼。”</p>
-<p>“中流，惊叹于美，行肆于礼。”</p>
-<p>“下流……不讲也罢，我辈人物不入此道。”</p>
-<p>他继续深入浅出地讲解，道：“这世间，一切关系的建立，都起于一个情字。亲情、友情、爱情、恩情、师徒之情……没有感情建立起来的关系，就如一抔黄沙，风一吹，就散了！”</p>
-<p>“切记，情能载舟，亦能覆舟，千万不要玩弄，否则会被反噬。”</p>
-<p>张若尘沉思，道：“若是没有深厚的感情，两个人却又必须在一起呢？”</p>
-<p>“问得好。”</p>
-<p>妾三千道：“若无情，却又因为各种原因，不得不结为连理。那么，便要守义字。”</p>
-<p>他在桌案上，将“义”字写了出来。</p>
-<p>妾三千道：“神尊赐婚，你不得不为，为之，结为夫妻。你纵然心中无情，却得对她有义。”</p>
-<p>“机缘巧合，她怀了你的孩子，结下了一段孽缘。你纵然心中无情，却得对她有义。”</p>
-<p>“为求自保，与各大势力联姻。你纵然心中无情，却也得对她们有义。”</p>
-<p>……</p>
-<p>“义，比情更重，代表的是责任。也是我等风流客，必须坚守的底线。”</p>
-<p>“她有情，你有义，日子才能长久。”</p>
-<p>“她若对你有情，也有义，此等女子，千万不要错过，得好好珍惜。”</p>
-<p>果然，这个妾三千是有备而来，对他的事，了解得很详细。</p>
-<p>张若尘双手端起茶杯，道：“来，饮一杯。”</p>
-<p>“啪！”</p>
-<p>二人，碰杯共饮。</p>
-<p>坐在一旁的那个神秘女子，眼眸中，浮现出鄙夷之色。</p>
-<p>没有打断他们，她继续听着。</p>
-<p>张若尘虚心请教，道：“心、情、义，都已经讲了！最后这个法字，却是不好理解。”</p>
-<p>妾三千笑着摇头，道：“法，排在最后，其实是因为这是无奈而为之。如若心、情、义能够将问题解决，自然也用不到法。”</p>
-<p>“试想，你有妻妾三千，她们随时都以你为中心，把你盯着，扰着你，围着你，那么你别说修炼，便是什么事都做不了，不知会闹出多少事来。”</p>
-<p>“这时，便需要法。”</p>
-<p>“法者，既是方法，也是家法。”</p>
-<p>“何为方法？何为家法？”张若尘道。</p>
-<p>妾三千道：“所谓方法，就是要从她们之中抽身而出，让她们的目光不要总是盯着你，而是她们自己相互盯着。”</p>
-<p>“这，需要给她们制定等级。”</p>
-<p>“凡人，有三妻四妾的说法：一正妻，二平妻，四小妾。”</p>
-<p>“帝皇的女人，又分为：皇后、皇贵妃、贵妃……”</p>
-<p>“为何要制定等级？”</p>
-<p>“只有她们有了高低之分、贵贱之分、大小之分，她们才会相互盯着对方，而不是盯着你。让她们斗起来，争起来，你不仅可以抽身而出，还能从中得到无穷好处。你说，是不是这个理？”</p>
-<p>张若尘只觉得，这个妾三千，当真是一个奇人，连忙再次问道：“这便是你的御妻之道？”</p>
-<p>“不，这是恒古不变的大道，古来有之。”妾三千谦虚地道。</p>
-<p>张若尘道：“争斗终究不是好事，稍有不慎，家破人亡，死伤一片。”</p>
-<p>妾三千道：“所以，也就需要制定家法。”</p>
-<p>“她们可以斗，但得有一个度。一旦超过了这个度，闹得太大，轻则封印修为，自我反省。重则，废掉修为，打入冷宫。”</p>
-<p>“如此这般，杀鸡儆猴几次，她们自然也就知道你的底线在什么地方。”</p>
-<p>“你若懒得掺和她们之间的争斗，可以选一位执掌后宫的女主人，让她来帮你平事。这位女主人，得自身修为足够高，智慧足够强，家世背景更是必须要一等一。只有这样，才能镇得住她们。”</p>
-<p>“当然，最重要的，还是你自己的修为必须足够高，得压得住她们。”</p>
-<p>“总之，法，是不得已而为之，已经是最好的平衡手段。”</p>
-<p>张若尘点了点头，慢慢消化刚才的所听所闻。</p>
-<p>那戴着面纱的神秘女子，终于忍不住开口，语气清冷：“堂堂一代剑神，居然这么多歪理邪说。明明就是自甘堕落，滥情不专，还要自命风流。今日，倒是没有白来天麟古城！”</p>
-<p>妾三千眼神一凛，轻拍桌案，道：“谁年轻时不是纯情专一的少年？”</p>
-<p>“但，谁让苍天给了这么一副绝世盛颜？又给了绝代天资，无边魅力！我欲遗世独立，奈何莺莺燕燕扰我。我欲孑然一身，奈何天下美人不许。”</p>
-<p>“这花花世界，锦绣人间，扑面而来，想躲都躲不掉。”</p>
-<p>张若尘颇为认同妾三千这话，因为从修炼以来，他几乎很少主动去招惹过谁。</p>
-<p>都是别人，扰他，恋他，苦苦追求他，让他无可奈何。</p>
-<p>张若尘叹道：“古人云，最难消受美人恩。”</p>
-<p>“温柔乡是英雄冢。”妾三千道。</p>
-<p>张若尘道：“自古美人爱英雄。”</p>
-<p>“英雄难过美人关。”妾三千道。</p>
-<p>“啪！”</p>
-<p>二人对碰一杯，一饮而尽。</p>
-<p>颇有知己难求的意境。</p>
-<p>妾三千又道：“我们二人何止是英雄，简直就是至伟至真的大英雄，要过的美人关太多，稍不留神，就会被关进去。”</p>
-<p>“平庸之辈，求一心爱之人，尚且难得，就算想多情也没机会。若尘兄，你说对不对？”</p>
-<p>张若尘默然片刻，点了点头。</p>
-<p>妾三千长叹道：</p>
-<p>“十步之内，必有一关。”</p>
-<p>“百步之内，温柔蚀骨。”</p>
-<p>张若尘感叹道：“修行百年定有情劫，入世千年必逢孽缘。躲不过，逃不掉，情义难拒。”</p>
-<p>“再饮一杯。”妾三千道。</p>
-<p>“啪！”</p>
-<br>
-<br>
-<p>2022，正式开始掌控自己的人生</p>
-<br>
-<br>
-]]></content>
-      <categories>
-        <category>2 Health</category>
-        <category>Mental Health</category>
-      </categories>
-      <tags>
-        <tag>随笔</tag>
+        <tag>关于我</tag>
       </tags>
   </entry>
 </search>

@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://primer2019.github.io/2021/11/16/%E8%8B%B1%E6%96%87%E7%AE%80%E5%8E%86/</loc>
+    
+    <lastmod>2022-01-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://primer2019.github.io/2021/11/16/%E4%B8%AD%E6%96%87%E7%AE%80%E5%8E%86/</loc>
+    
+    <lastmod>2022-01-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://primer2019.github.io/2021/12/05/%E6%AF%8F%E6%97%A5%E6%8E%A8%E8%8D%90%E6%B1%87%E6%80%BB/</loc>
     
     <lastmod>2022-01-19</lastmod>
@@ -65,15 +83,6 @@
   </url>
   
   <url>
-    <loc>https://primer2019.github.io/2021/11/16/%E4%B8%AD%E6%96%87%E7%AE%80%E5%8E%86/</loc>
-    
-    <lastmod>2022-01-19</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://primer2019.github.io/2022/01/18/%E6%AF%8F%E6%97%A5%E6%8E%A8%E8%8D%90%EF%BC%8845%EF%BC%89/</loc>
     
     <lastmod>2022-01-19</lastmod>
@@ -84,15 +93,6 @@
   
   <url>
     <loc>https://primer2019.github.io/2021/11/16/%E6%B1%82%E8%81%8C%E5%87%86%E5%A4%87/</loc>
-    
-    <lastmod>2022-01-19</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://primer2019.github.io/2021/11/16/%E8%8B%B1%E6%96%87%E7%AE%80%E5%8E%86/</loc>
     
     <lastmod>2022-01-19</lastmod>
     
@@ -587,13 +587,6 @@
 
   
   <url>
-    <loc>https://primer2019.github.io/tags/Java/</loc>
-    <lastmod>2022-01-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://primer2019.github.io/tags/%E7%AE%80%E5%8E%86/</loc>
     <lastmod>2022-01-19</lastmod>
     <changefreq>weekly</changefreq>
@@ -602,6 +595,13 @@
   
   <url>
     <loc>https://primer2019.github.io/tags/%E5%85%B3%E4%BA%8E%E6%88%91/</loc>
+    <lastmod>2022-01-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://primer2019.github.io/tags/Java/</loc>
     <lastmod>2022-01-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -631,13 +631,6 @@
 
   
   <url>
-    <loc>https://primer2019.github.io/categories/4-Self-realization/</loc>
-    <lastmod>2022-01-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://primer2019.github.io/categories/3-Self/</loc>
     <lastmod>2022-01-19</lastmod>
     <changefreq>weekly</changefreq>
@@ -645,7 +638,7 @@
   </url>
   
   <url>
-    <loc>https://primer2019.github.io/categories/4-Self-realization/Computer/</loc>
+    <loc>https://primer2019.github.io/categories/4-Self-realization/</loc>
     <lastmod>2022-01-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -659,7 +652,7 @@
   </url>
   
   <url>
-    <loc>https://primer2019.github.io/categories/4-Self-realization/Computer/Computer-Science/</loc>
+    <loc>https://primer2019.github.io/categories/4-Self-realization/Computer/</loc>
     <lastmod>2022-01-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -673,7 +666,7 @@
   </url>
   
   <url>
-    <loc>https://primer2019.github.io/categories/4-Self-realization/Computer/Computer-Science/4-Technology/</loc>
+    <loc>https://primer2019.github.io/categories/4-Self-realization/Computer/Computer-Science/</loc>
     <lastmod>2022-01-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -681,6 +674,13 @@
   
   <url>
     <loc>https://primer2019.github.io/categories/3-Self/Individual/Money/Working-for-Others/</loc>
+    <lastmod>2022-01-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://primer2019.github.io/categories/4-Self-realization/Computer/Computer-Science/4-Technology/</loc>
     <lastmod>2022-01-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

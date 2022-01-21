@@ -605,14 +605,14 @@
 
   
   <url>
-    <loc>https://primer2019.github.io/tags/%E7%AE%80%E5%8E%86/</loc>
+    <loc>https://primer2019.github.io/tags/Java/</loc>
     <lastmod>2022-01-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://primer2019.github.io/tags/Java/</loc>
+    <loc>https://primer2019.github.io/tags/%E7%AE%80%E5%8E%86/</loc>
     <lastmod>2022-01-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -649,21 +649,7 @@
 
   
   <url>
-    <loc>https://primer2019.github.io/categories/3-Self/</loc>
-    <lastmod>2022-01-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://primer2019.github.io/categories/4-Self-realization/</loc>
-    <lastmod>2022-01-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://primer2019.github.io/categories/3-Self/Individual/</loc>
     <lastmod>2022-01-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -677,21 +663,7 @@
   </url>
   
   <url>
-    <loc>https://primer2019.github.io/categories/3-Self/Individual/Money/</loc>
-    <lastmod>2022-01-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://primer2019.github.io/categories/4-Self-realization/Computer/Computer-Science/</loc>
-    <lastmod>2022-01-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://primer2019.github.io/categories/3-Self/Individual/Money/Working-for-Others/</loc>
     <lastmod>2022-01-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -706,6 +678,34 @@
   
   <url>
     <loc>https://primer2019.github.io/categories/4-Self-realization/Computer/Computer-Science/4-Technology/Java/</loc>
+    <lastmod>2022-01-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://primer2019.github.io/categories/3-Self/</loc>
+    <lastmod>2022-01-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://primer2019.github.io/categories/3-Self/Individual/</loc>
+    <lastmod>2022-01-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://primer2019.github.io/categories/3-Self/Individual/Money/</loc>
+    <lastmod>2022-01-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://primer2019.github.io/categories/3-Self/Individual/Money/Working-for-Others/</loc>
     <lastmod>2022-01-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

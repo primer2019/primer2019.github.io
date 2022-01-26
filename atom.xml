@@ -6,7 +6,7 @@
   <link href="https://primer2019.github.io/atom.xml" rel="self"/>
   
   <link href="https://primer2019.github.io/"/>
-  <updated>2022-01-26T08:45:23.882Z</updated>
+  <updated>2022-01-26T08:44:39.777Z</updated>
   <id>https://primer2019.github.io/</id>
   
   <author>
@@ -15,37 +15,6 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>Java汇总</title>
-    <link href="https://primer2019.github.io/2022/01/25/Java%E6%B1%87%E6%80%BB/"/>
-    <id>https://primer2019.github.io/2022/01/25/Java%E6%B1%87%E6%80%BB/</id>
-    <published>2022-01-25T11:19:23.000Z</published>
-    <updated>2022-01-26T08:45:23.882Z</updated>
-    
-    <content type="html"><![CDATA[<p><strong>“Java”汇总：</strong></p><p>Java基础（1）-Java语言概述</p><p>Java基础（2）-Java基本语法</p><span id="more"></span><p>Java基础（3）-数组</p><p>Java基础（4）-面向对象编程</p><p>Java基础（5）-异常处理</p><br><p>Java高级（1）-多线程</p><p>Java高级（2）-常用类</p><p>Java高级（3）-枚举类</p><p>Java高级（4）-注解</p><p>Java高级（5）-集合</p><p>Java高级（6）-泛型</p><p>Java高级（7）-IO流</p><p>Java高级（8）-网络编程</p><p>Java高级（9）-反射</p><p>Java高级（10）-Java新特性</p>]]></content>
-    
-    
-    <summary type="html">&lt;p&gt;&lt;strong&gt;“Java”汇总：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Java基础（1）-Java语言概述&lt;/p&gt;
-&lt;p&gt;Java基础（2）-Java基本语法&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="4 Self-realization" scheme="https://primer2019.github.io/categories/4-Self-realization/"/>
-    
-    <category term="Computer" scheme="https://primer2019.github.io/categories/4-Self-realization/Computer/"/>
-    
-    <category term="Computer Science" scheme="https://primer2019.github.io/categories/4-Self-realization/Computer/Computer-Science/"/>
-    
-    <category term="4 Technology" scheme="https://primer2019.github.io/categories/4-Self-realization/Computer/Computer-Science/4-Technology/"/>
-    
-    <category term="Java" scheme="https://primer2019.github.io/categories/4-Self-realization/Computer/Computer-Science/4-Technology/Java/"/>
-    
-    
-    <category term="Java" scheme="https://primer2019.github.io/tags/Java/"/>
-    
-  </entry>
   
   <entry>
     <title>英文简历</title>
@@ -448,6 +417,26 @@
     
     <summary type="html">&lt;p&gt;今天推荐的是一个网站：&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;十佳評测&lt;/strong&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="每日推荐" scheme="https://primer2019.github.io/tags/%E6%AF%8F%E6%97%A5%E6%8E%A8%E8%8D%90/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>每日推荐（34）</title>
+    <link href="https://primer2019.github.io/2022/01/07/%E6%AF%8F%E6%97%A5%E6%8E%A8%E8%8D%90%EF%BC%8834%EF%BC%89/"/>
+    <id>https://primer2019.github.io/2022/01/07/%E6%AF%8F%E6%97%A5%E6%8E%A8%E8%8D%90%EF%BC%8834%EF%BC%89/</id>
+    <published>2022-01-07T14:08:28.000Z</published>
+    <updated>2022-01-03T14:28:51.427Z</updated>
+    
+    <content type="html"><![CDATA[<p>今天推荐的是一个网站：</p><p><strong>片库</strong></p><span id="more"></span><br><p>这是它的链接：<a href="https://www.mypianku.net/">片库</a></p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;今天推荐的是一个网站：&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;片库&lt;/strong&gt;&lt;/p&gt;</summary>
     
     
     
